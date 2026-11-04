@@ -1,0 +1,26 @@
+[server]
+headless = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
+showErrorDetails = "none"
+
+[theme]
+base = "light"
+primaryColor = "#1b3561"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f9"
+textColor = "#1e2a38"
+borderColor = "#d9dfe7"
+baseRadius = "4px"
+baseFontSize = 14
+font = "Noto Sans KR:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap"
+headingFont = "Noto Sans KR:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#f4f6f9"

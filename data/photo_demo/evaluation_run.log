@@ -1,0 +1,67 @@
+photo_ocr_device: cuda:0 = NVIDIA GeForce RTX 5090; CPU threads=1
+photo_ocr_device: cuda:0 = NVIDIA GeForce RTX 5090; CPU threads=1
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/concurrent/futures/process.py", line 261, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/src/photo/evaluate.py", line 27, in job
+    result=review_photo_pair(ROOT/row['path1'],ROOT/row['path2'],row['reported_lat'],row['reported_lon'],**LIMITS)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/src/photo/review.py", line 249, in review_photo_pair
+    recognized=read_plate(image)
+               ^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/src/photo/review.py", line 179, in read_plate
+    results = reader.readtext(rgb, detail=1, paragraph=False, allowlist=allow, workers=0, batch_size=1,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/easyocr/easyocr.py", line 456, in readtext
+    horizontal_list, free_list = self.detect(img,
+                                ^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/easyocr/easyocr.py", line 321, in detect
+    text_box_list = self.get_textbox(self.detector,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/easyocr/detection.py", line 95, in get_textbox
+    bboxes_list, polys_list = test_net(canvas_size, mag_ratio, detector,
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/easyocr/detection.py", line 46, in test_net
+    y, feature = net(x)
+                 ^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/torch/nn/parallel/data_parallel.py", line 195, in forward
+    return self.module(*inputs[0], **module_kwargs[0])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/.venv/lib/python3.11/site-packages/easyocr/craft.py", line 75, in forward
+    y = torch.cat([y, sources[4]], dim=1)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 358.00 MiB. GPU 0 has a total capacity of 31.34 GiB of which 152.31 MiB is free. Process 2524720 has 23.96 GiB memory in use. Process 2542080 has 2.63 GiB memory in use. Process 2559459 has 2.63 GiB memory in use. Including non-PyTorch memory, this process has 1.68 GiB memory in use. Of the allocated memory 708.54 MiB is allocated by PyTorch, and 393.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/minu/빅데이터_경진대회/src/photo/evaluate.py", line 156, in <module>
+    p=argparse.ArgumentParser();p.add_argument('--workers',type=int,default=2);args=p.parse_args();evaluate(args.workers)
+                                                                                                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minu/빅데이터_경진대회/src/photo/evaluate.py", line 90, in evaluate
+    result=future.result();results.append(result)
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 358.00 MiB. GPU 0 has a total capacity of 31.34 GiB of which 152.31 MiB is free. Process 2524720 has 23.96 GiB memory in use. Process 2542080 has 2.63 GiB memory in use. Process 2559459 has 2.63 GiB memory in use. Including non-PyTorch memory, this process has 1.68 GiB memory in use. Of the allocated memory 708.54 MiB is allocated by PyTorch, and 393.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)

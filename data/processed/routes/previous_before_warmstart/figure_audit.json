@@ -1,0 +1,66 @@
+[
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_comparison_caught_per_person_hour.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_comparison_risk_caught.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_comparison_travel_min.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_b3_paired_caught.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_10-14_K1_median_2024-10-02.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_10-14_K1_p90_2024-10-04.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_10-14_K1_worst_2024-10-08.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_10-14_K2_median_2024-10-02.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_10-14_K2_p90_2024-10-16.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_10-14_K2_worst_2024-10-25.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_17-21_K1_median_2024-10-07.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_17-21_K1_p90_2024-10-04.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_17-21_K1_worst_2024-11-01.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_17-21_K2_median_2024-10-02.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_17-21_K2_p90_2024-10-17.png",
+    "findings": []
+  },
+  {
+    "file": "/home/minu/빅데이터_경진대회/artifacts/figures/route_17-21_K2_worst_2024-12-26.png",
+    "findings": []
+  }
+]

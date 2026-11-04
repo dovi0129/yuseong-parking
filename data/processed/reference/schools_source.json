@@ -1,0 +1,12 @@
+{
+  "source": "https://www.data.go.kr/data/15021148/standard.do",
+  "download_endpoint": "https://www.data.go.kr/download/standard.json",
+  "retrieved_at": "2026-10-30T05:43:37.119773+00:00",
+  "national_rows": 12004,
+  "local_rows": 82,
+  "filter": "주소에 대전·유성구 포함; 학교는 운영; 보호구역은 지정여부 Y",
+  "reference_dates": [
+    "2026-10-01"
+  ],
+  "spatial_semantics": "시설 점좌표; 법적 구역 경계 폴리곤 아님"
+}

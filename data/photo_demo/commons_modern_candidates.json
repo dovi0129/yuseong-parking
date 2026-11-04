@@ -1,0 +1,1095 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "112961185": {
+        "pageid": 112961185,
+        "ns": 6,
+        "title": "File:2019 Kia Forte LXS in Currant Red, front left.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg/1280px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 816,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg/3840px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg/1280px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 816,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg/3840px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019_Kia_Forte_LXS_in_Currant_Red,_front_left.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112961185",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-12-01 03:38:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019 Kia Forte LXS in Currant Red, front left",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Images with extracted images|Red Kia sedans|Own work - files by User:Mr.choppers 2021|Files with coordinates missing SDC location of creation|2019 Kia automobiles|Kia Forte (BD)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.520195",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-73.823247",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2019 Kia Forte LXS in Currant Red (R4R) with Black (WK) interior. This car is listed as having sustained $10K's worth of flood damage; I wonder if the new owner knows... Build date September 2018, in Hyundai/Kia's Tijuana, Mexico plant. 2.0-liter, 147hp Nu engine.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mr.choppers\" title=\"User:Mr.choppers\">Mr.choppers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "121211498": {
+        "pageid": 121211498,
+        "ns": 6,
+        "title": "File:2019 Kia Forte LXS in Currant Red, front left (2).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg/1280px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 689,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg/3840px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg/1280px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 689,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg/3840px-2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/2019_Kia_Forte_LXS_in_Currant_Red%2C_front_left_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2019_Kia_Forte_LXS_in_Currant_Red,_front_left_(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121211498",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-29 06:44:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2019 Kia Forte LXS in Currant Red, front left (2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Extracted images|Red Kia sedans|Own work - files by User:Mr.choppers 2021|Files with coordinates missing SDC location of creation|2019 Kia automobiles|Kia Forte (BD)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.520195",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-73.823247",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2019 Kia Forte LXS in Currant Red (R4R) with Black (WK) interior. This car is listed as having sustained $10K's worth of flood damage; I wonder if the new owner knows... Build date September 2018, in Hyundai/Kia's Tijuana, Mexico plant. 2.0-liter, 147hp Nu engine.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mr.choppers\" title=\"User:Mr.choppers\">Mr.choppers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "170493394": {
+        "pageid": 170493394,
+        "ns": 6,
+        "title": "File:Complaint and Indictment as to Julio Sarabia et al.pdf",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Complaint_and_Indictment_as_to_Julio_Sarabia_et_al.pdf/page1-960px-Complaint_and_Indictment_as_to_Julio_Sarabia_et_al.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1656,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Complaint_and_Indictment_as_to_Julio_Sarabia_et_al.pdf/page1-960px-Complaint_and_Indictment_as_to_Julio_Sarabia_et_al.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1656
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Complaint_and_Indictment_as_to_Julio_Sarabia_et_al.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Complaint_and_Indictment_as_to_Julio_Sarabia_et_al.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=170493394",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-07-22 07:42:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Complaint and Indictment as to Julio Sarabia et al",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Government|United States District Court for the Eastern District of California|Template Unknown (author)|CC-PD-Mark|Indictments from the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Unsealed Complaint and Indictment as to Julio Sarabia et al; alleged to be members of the 'MBK' gang in Sacramento, California",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-05-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://pacer.uscourts.gov/\">https://pacer.uscourts.gov/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91529714": {
+        "pageid": 91529714,
+        "ns": 6,
+        "title": "File:HANDS OFF- THE FUTURE OF SELF-DRIVING CARS (IA gov.gpo.fdsys.CHRG-114shrg22428).pdf",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/HANDS_OFF-_THE_FUTURE_OF_SELF-DRIVING_CARS_%28IA_gov.gpo.fdsys.CHRG-114shrg22428%29.pdf/page1-960px-HANDS_OFF-_THE_FUTURE_OF_SELF-DRIVING_CARS_%28IA_gov.gpo.fdsys.CHRG-114shrg22428%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1656,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/HANDS_OFF-_THE_FUTURE_OF_SELF-DRIVING_CARS_%28IA_gov.gpo.fdsys.CHRG-114shrg22428%29.pdf/page1-960px-HANDS_OFF-_THE_FUTURE_OF_SELF-DRIVING_CARS_%28IA_gov.gpo.fdsys.CHRG-114shrg22428%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1656
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/HANDS_OFF-_THE_FUTURE_OF_SELF-DRIVING_CARS_%28IA_gov.gpo.fdsys.CHRG-114shrg22428%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HANDS_OFF-_THE_FUTURE_OF_SELF-DRIVING_CARS_(IA_gov.gpo.fdsys.CHRG-114shrg22428).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91529714",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-24 20:47:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nHANDS OFF: THE FUTURE OF SELF-DRIVING CARS</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Congress|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Hearing documents of the United States Senate Committee on Commerce, Science, and Transportation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCommittee on Commerce, Science, and Transportation</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p><b>Government Publishing Office</b></p><p>U.S. Congress<br>Senate<br>Committee on Commerce, Science, and Transportation</p><p>HANDS OFF: THE FUTURE OF SELF-DRIVING CARS</p><p>Date(s) Held: 2016-03-15</p><p> 114th Congress, 2nd Session</p><p>GPO Document Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.gpo.gov/fdsys/pkg/CHRG-114shrg22428/content-detail.html\">https://www.gpo.gov/fdsys/pkg/CHRG-114shrg22428/content-detail.html</a>\" rel=\"nofollow\"&gt;CHRG-114shrg22428&lt;/a&gt;<br>Superintendents of Documents ID: Y 4.C 73/7</p><p>Witnesses:</p><ul><li>Dr. Chris Urmson, Director, Self-Driving Cars, Google X</li><li>Michael F. Ableson, Vice President, Strategy and Global Portfolio Planning, General Motors Company</li><li>Glen W. De Vos, Vice President, Global Engineering and Services, Delphi Automotive</li><li>Joseph Okpaku, Vice President, Government Relations, Lyft</li><li>Dr. Mary (<i>Missy</i>) Louise Cummings, Director, Humans and Autonomy Laboratory; Director, Duke Robotics; Professor of Mechanical Engineering and Material Science; Professor of Electrical and Computer Engineering, Duke University</li></ul><p>Related Items:</p><ul><li>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.govtrack.us/congress/bills/114/s766\">https://www.govtrack.us/congress/bills/114/s766</a>\" rel=\"nofollow\"&gt;United States Senate Bill 766  (114th Congress)&lt;/a&gt;</li><li>U.S. Code:  49 U.S.C. 30112(b)(10)</li><li>U.S. Code:  49 U.S.C. 30113</li><li>U.S. Code:  49 U.S.C. 30114</li><li>Congressional S. Rept. 114-147</li></ul>\n<br>Subjects: 114th;Senate</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/gov.gpo.fdsys.CHRG-114shrg22428\" class=\"extiw\" title=\"iarchive:gov.gpo.fdsys.CHRG-114shrg22428\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: gov.gpo.fdsys.CHRG-114shrg22428</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/gov.gpo.fdsys.CHRG-114shrg22428/CHRG-114shrg22428.pdf\">https://archive.org/download/gov.gpo.fdsys.CHRG-114shrg22428/CHRG-114shrg22428.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27197046": {
+        "pageid": 27197046,
+        "ns": 6,
+        "title": "File:Izola (15) (3958258990).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Izola_%2815%29_%283958258990%29.jpg/1280px-Izola_%2815%29_%283958258990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 850,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/86/Izola_%2815%29_%283958258990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Izola_%2815%29_%283958258990%29.jpg/1280px-Izola_%2815%29_%283958258990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 850,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/86/Izola_%2815%29_%283958258990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Izola_%2815%29_%283958258990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Izola_(15)_(3958258990).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27197046",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-04-19 13:27:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Izola (15) (3958258990)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D90|Veliki trg|Road signs in Slovenia|St. Mary of Haliaetum Church (Izola)|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by János Korom|Arecaceae in Slovenia|Kia automobiles in Slovenia|Hyundai automobiles in Slovenia|Toyota automobiles in Slovenia|Front facades in Slovenia|Tower of St. Maurus's Parish Church (Izola)|Palaces in Izola|Car parks in Izola|Automobiles in Izola|Verdijeva 1 House (Izola)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Izola (15)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-08-25 16:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/korom/3958258990/\">Izola (15)</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Sporti\" title=\"User:Sporti\">sporti</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22822922@N00\">János Korom Dr.</a> from Wien, Austria",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "17848221": {
+        "pageid": 17848221,
+        "ns": 6,
+        "title": "File:Kia Soul ^ (US) - Flickr - skinnylawyer.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kia_Soul_%5E_%28US%29_-_Flickr_-_skinnylawyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 1927,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kia_Soul_%5E_%28US%29_-_Flickr_-_skinnylawyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1927
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kia_Soul_%5E_%28US%29_-_Flickr_-_skinnylawyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kia_Soul_%5E_(US)_-_Flickr_-_skinnylawyer.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17848221",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-12-30 09:50:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kia Soul ^ (US) - Flickr - skinnylawyer",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D5000|Flickr images reviewed by FlickreviewR|Files uploaded by Kobac|Files from InSapphoWeTrust Flickr stream|Files with coordinates missing SDC location of creation|United States photographs taken on 2011-11-18|Kia Soul (AM)|Kia at the 2011 Greater Los Angeles Auto Show",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "34.041877",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-118.269453",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The dashboard center stack of the Kia Soul. The ! is the top-line trim for the US market, while the + is the midrange trim; the ! includes 6-speed automatic transmission as standard equipment.\n</p><p>UVO is Microsoft-designed interface and telematics system for Kia vehicles, and is related to Ford's SYNC. Aside from UVO, the Soul is well known for its gadgetry anyway.\n</p><p>Toward the lower end, the AUX-USB jacks are visible, in the standard Hyundai-Kia configuration that also allows the use of the Hyundai-Kia proprietary Apple iPod cable.\n</p><p>Call me old-fashioned, but I like a car to be built in its manufacturer's home country, using as much of that country's domestic content as possible; that usually results in best possible quality control. On that front, the Soul is a strong winner, using 94% Korean content, among the highest percentage of domestic content I could see on any model at this show. US/Canadian content is 3% and probably includes the Microsoft UVO. (By contrast, even all-American cars like the Ford Mustang may have only 55% American content and use Chinese transmissions!)\n</p>\nSeen at Los Angeles International Auto Show, 2011.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-11-18 18:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/skinnylawyer/6361620459/\">Kia Soul ! (US)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56619626@N05\">skinnylawyer</a> from Los Angeles, California, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91355832": {
+        "pageid": 91355832,
+        "ns": 6,
+        "title": "File:R42721 Automobile and Truck Fuel Economy (CAFE) and Greenhouse Gas Standards (IA R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs).pdf",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/R42721_Automobile_and_Truck_Fuel_Economy_%28CAFE%29_and_Greenhouse_Gas_Standards_%28IA_R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs%29.pdf/page1-960px-R42721_Automobile_and_Truck_Fuel_Economy_%28CAFE%29_and_Greenhouse_Gas_Standards_%28IA_R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1656,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/R42721_Automobile_and_Truck_Fuel_Economy_%28CAFE%29_and_Greenhouse_Gas_Standards_%28IA_R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs%29.pdf/page1-960px-R42721_Automobile_and_Truck_Fuel_Economy_%28CAFE%29_and_Greenhouse_Gas_Standards_%28IA_R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1656
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/R42721_Automobile_and_Truck_Fuel_Economy_%28CAFE%29_and_Greenhouse_Gas_Standards_%28IA_R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:R42721_Automobile_and_Truck_Fuel_Economy_(CAFE)_and_Greenhouse_Gas_Standards_(IA_R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91355832",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-19 23:38:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nR42721 Automobile and Truck Fuel Economy (CAFE) and Greenhouse Gas Standards</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Congress|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Congressional Research Service reports",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCongressional Research Service</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>R42721 Automobile and Truck Fuel Economy (CAFE) and Greenhouse Gas Standards\n</p>\n<br>Subjects: Congressional Research Service; CRS; Congress</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs\" class=\"extiw\" title=\"iarchive:R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs/R42721%20Automobile%20and%20Truck%20Fuel%20Economy%20%28CAFE%29%20and%20Greenhouse%20Gas%20Standards.pdf\">https://archive.org/download/R42721AutomobileandTruckFuelEconomyCAFEandGreenhouseGasStandards-crs/R42721%20Automobile%20and%20Truck%20Fuel%20Economy%20%28CAFE%29%20and%20Greenhouse%20Gas%20Standards.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91361298": {
+        "pageid": 91361298,
+        "ns": 6,
+        "title": "File:RL30566 (IA RL30566-crs).pdf",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/RL30566_%28IA_RL30566-crs%29.pdf/page1-960px-RL30566_%28IA_RL30566-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1810,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/RL30566_%28IA_RL30566-crs%29.pdf/page1-960px-RL30566_%28IA_RL30566-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1810
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/RL30566_%28IA_RL30566-crs%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:RL30566_(IA_RL30566-crs).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91361298",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-20 02:46:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRL30566</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "WikiLeaks|PD US Congress|Books uploaded by Fæ|Books without Wikidata item|Congressional Research Service reports",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCongressional Research Service</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>RL30566\n</p>\n<br>Subjects: Congressional Research Service; CRS; Congress</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/RL30566-crs\">https://archive.org/details/RL30566-crs</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/RL30566-crs/RL30566.pdf\">https://archive.org/download/RL30566-crs/RL30566.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91372608": {
+        "pageid": 91372608,
+        "ns": 6,
+        "title": "File:RL33317 (IA RL33317-crs).pdf",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/RL33317_%28IA_RL33317-crs%29.pdf/page1-960px-RL33317_%28IA_RL33317-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1810,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/RL33317_%28IA_RL33317-crs%29.pdf/page1-960px-RL33317_%28IA_RL33317-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1810
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/RL33317_%28IA_RL33317-crs%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:RL33317_(IA_RL33317-crs).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91372608",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-20 10:22:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRL33317</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Congress|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Congressional Research Service reports",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCongressional Research Service</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>RL33317\n</p>\n<br>Subjects: Congressional Research Service; CRS; Congress</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/RL33317-crs\" class=\"extiw\" title=\"iarchive:RL33317-crs\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: RL33317-crs</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/RL33317-crs/RL33317.pdf\">https://archive.org/download/RL33317-crs/RL33317.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91382443": {
+        "pageid": 91382443,
+        "ns": 6,
+        "title": "File:RL34297 (IA RL34297-crs).pdf",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/RL34297_%28IA_RL34297-crs%29.pdf/page1-960px-RL34297_%28IA_RL34297-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1810,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/RL34297_%28IA_RL34297-crs%29.pdf/page1-960px-RL34297_%28IA_RL34297-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1810
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/RL34297_%28IA_RL34297-crs%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:RL34297_(IA_RL34297-crs).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91382443",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-20 14:56:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRL34297</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Congress|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Congressional Research Service reports",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCongressional Research Service</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>RL34297\n</p>\n<br>Subjects: Congressional Research Service; CRS; Congress</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/RL34297-crs\" class=\"extiw\" title=\"iarchive:RL34297-crs\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: RL34297-crs</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/RL34297-crs/RL34297.pdf\">https://archive.org/download/RL34297-crs/RL34297.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91486089": {
+        "pageid": 91486089,
+        "ns": 6,
+        "title": "File:THE UNITED STATES-SOUTH KOREA FTA- THE FOREIGN POLICY IMPLICATIONS (IA gov.gpo.fdsys.CHRG-110hhrg36060).pdf",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/THE_UNITED_STATES-SOUTH_KOREA_FTA-_THE_FOREIGN_POLICY_IMPLICATIONS_%28IA_gov.gpo.fdsys.CHRG-110hhrg36060%29.pdf/page1-960px-THE_UNITED_STATES-SOUTH_KOREA_FTA-_THE_FOREIGN_POLICY_IMPLICATIONS_%28IA_gov.gpo.fdsys.CHRG-110hhrg36060%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 1656,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/THE_UNITED_STATES-SOUTH_KOREA_FTA-_THE_FOREIGN_POLICY_IMPLICATIONS_%28IA_gov.gpo.fdsys.CHRG-110hhrg36060%29.pdf/page1-960px-THE_UNITED_STATES-SOUTH_KOREA_FTA-_THE_FOREIGN_POLICY_IMPLICATIONS_%28IA_gov.gpo.fdsys.CHRG-110hhrg36060%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 1656
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/THE_UNITED_STATES-SOUTH_KOREA_FTA-_THE_FOREIGN_POLICY_IMPLICATIONS_%28IA_gov.gpo.fdsys.CHRG-110hhrg36060%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:THE_UNITED_STATES-SOUTH_KOREA_FTA-_THE_FOREIGN_POLICY_IMPLICATIONS_(IA_gov.gpo.fdsys.CHRG-110hhrg36060).pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91486089",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-23 13:00:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nTHE UNITED STATES-SOUTH KOREA FTA: THE FOREIGN POLICY IMPLICATIONS</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Congress|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Congressional Hearing Documents of the 110th Congress",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCongressional Committee</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p><b>Government Publishing Office</b></p><p>U.S. Congress<br>House of Representatives<br>Congressional Committee</p><p>THE UNITED STATES-SOUTH KOREA FTA: THE FOREIGN POLICY IMPLICATIONS</p><p>Date(s) Held: 2007-06-13</p><p> 110th Congress, 1st Session</p><p>GPO Document Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.gpo.gov/fdsys/pkg/CHRG-110hhrg36060/content-detail.html\">https://www.gpo.gov/fdsys/pkg/CHRG-110hhrg36060/content-detail.html</a>\" rel=\"nofollow\"&gt;CHRG-110hhrg36060&lt;/a&gt;</p><p>Related Items:</p><ul><li>Congressional Serial No. 110-89</li></ul>\n<br>Subjects: 110th;House</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<dl><dd><a href=\"//archive.org/details/gov.gpo.fdsys.CHRG-110hhrg36060\" class=\"extiw\" title=\"iarchive:gov.gpo.fdsys.CHRG-110hhrg36060\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: gov.gpo.fdsys.CHRG-110hhrg36060</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/gov.gpo.fdsys.CHRG-110hhrg36060/CHRG-110hhrg36060.pdf\">https://archive.org/download/gov.gpo.fdsys.CHRG-110hhrg36060/CHRG-110hhrg36060.pdf</a></dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

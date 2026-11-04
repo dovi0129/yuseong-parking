@@ -1,0 +1,20 @@
+Resolved 46 packages in 234ms
+Downloading opencv-python-headless (58.4MiB)
+Downloading scikit-image (13.1MiB)
+Downloading easyocr (2.7MiB)
+ Downloaded easyocr
+ Downloaded scikit-image
+ Downloaded opencv-python-headless
+Prepared 11 packages in 7.01s
+Installed 11 packages in 10ms
+ + easyocr==1.7.2
+ + imageio==2.38.1
+ + lazy-loader==0.6
+ + ninja==1.13.2
+ + opencv-python-headless==5.0.0.93
+ + piexif==1.1.3
+ + pyclipper==1.4.0
+ + python-bidi==0.6.12
+ + pyyaml==6.0.3
+ + scikit-image==0.26.0
+ + tifffile==2026.3.3

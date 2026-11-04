@@ -1,0 +1,2 @@
+photo_ocr_device: cuda:0 = NVIDIA GeForce RTX 5090; CPU threads=1
+real qualitative photos 5 ai01 original demo {'plate_1': '123가4567', 'plate_2': '123가4567', 'box_1': [530, 529, 698, 574], 'box_2': [530, 529, 698, 574], 'taken_1': '2024-07-01 12:00:00', 'taken_2': '2024-07-01 12:01:30', 'gps_1': (36.356700000000004, 127.34859999999999), 'gps_2': (36.356700000000004, 127.34865570666666), 'gap_s': 90.0, 'move_m': 5.000002299236417, 'report_m': 5.0000022979609104, 'verdict': '요건 충족', 'reasons': []}

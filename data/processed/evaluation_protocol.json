@@ -1,0 +1,8 @@
+{
+  "period": "2024-10-01~2024-12-31",
+  "chosen_method": "shrinkage",
+  "alpha": 5.0,
+  "denominator": "全 평가 기간 신고; 새 지점·좌표 실패 포함",
+  "bootstrap": "92개 달력일을 짝지어 2,000회 복원추출; 95% percentile CI",
+  "interpretation": "선정된 지점·구간에서 발생한 과태료 처리 신고의 사후 포착률; 현장 조치 효과가 아님"
+}

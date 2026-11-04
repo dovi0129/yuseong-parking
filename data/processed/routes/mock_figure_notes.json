@@ -1,0 +1,8 @@
+{
+  "width_in": 7.16,
+  "dpi": 200,
+  "ci": "date bootstrap 2000 resamples, percentile 95%",
+  "representatives": "closest to median / p90 / minimum optimized-minus-b1 daily caught count, each scenario",
+  "mock": true,
+  "metric": "spot and arrival hour_block matching; not causal reduction"
+}

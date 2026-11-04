@@ -1,0 +1,28 @@
+reusing 2 completed pairs; workers=1
+photo_ocr_device: cuda:0 = NVIDIA GeForce RTX 5090; CPU threads=1
+final pairs 12/204
+final pairs 24/204
+final pairs 36/204
+final pairs 48/204
+final pairs 60/204
+final pairs 72/204
+final pairs 84/204
+final pairs 96/204
+final pairs 108/204
+final pairs 120/204
+final pairs 132/204
+final pairs 144/204
+final pairs 156/204
+final pairs 168/204
+final pairs 180/204
+final pairs 192/204
+final pairs 204/204
+robustness pairs 24/144
+robustness pairs 48/144
+robustness pairs 72/144
+robustness pairs 96/144
+robustness pairs 120/144
+robustness pairs 144/144
+photo_ocr_device: cuda:0 = NVIDIA GeForce RTX 5090; CPU threads=1
+{"n_pairs": 204, "verdict_accuracy": 0.9705882352941176, "normal_recall": 0.8235294117647058, "rejection_recall": 1.0, "balanced_accuracy": 0.9117647058823529, "plate_exact_all": 0.7034313725490197, "plate_exact_visible": 0.767379679144385, "n_visible_images": 374, "false_accepts": 0, "false_rejections": 6, "majority_reject_baseline": 0.8333333333333334}
+Photo evaluation and figures finished

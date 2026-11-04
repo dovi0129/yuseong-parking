@@ -1,0 +1,56 @@
+# secrets and environments
+.env
+.venv/
+.venv_w4/
+__pycache__/
+*.pyc
+
+# personal information (application form)
+제출서류/작성/신청서_정보.md
+제출서류/최종/참가신청서_작성본.hwpx
+
+# downloaded models (EasyOCR downloads them on first run)
+data/photo_demo/models/
+
+# map tiles are fetched on demand, not redistributed
+data/processed/tile_cache/
+
+# reference captures of a third-party site
+artifacts/reference/
+
+# large intermediate outputs
+artifacts/preview_w4/
+artifacts/hwp/
+data/photo_demo/robustness/
+data_probe/
+
+# internal orchestration and archived prototype
+ops/
+app/
+*.writing
+
+# raw Kakao Local API responses (only derived spot coordinates are published)
+data/processed/geocode_cache.csv
+data/processed/geocode_effective.csv
+data/processed/geocode_review_30.csv
+data/processed/geocode_first300.json
+data/processed/geocode_overrides.csv
+
+# private notes and AI worker task briefs
+교수님 안내문자.md
+briefs/
+reports/2026-10-30_Worker_*_topic_candidates.md
+
+# superseded drafts
+제출서류/최종/*_v1.hwpx
+제출서류/작성/*_v1.md
+
+# 공개 저장소에는 코드와 실행 자료만 둔다
+제출서류/
+공지첨부/
+reports/
+artifacts/
+scripts/
+fonts/
+requirements_Worker_*.txt
+output/

@@ -1,0 +1,38 @@
+{
+  "analysis_concentration.png": {
+    "caption": "정규화한 지점별 빈도를 내림차순으로 누적. 상위 10%는 지점 수의 10%를 올림한 개수이며 점과 숫자로 표시한다. 단속 2023년, 신고 2024년은 서로 다른 기간이다.",
+    "width_in": 5.5,
+    "dpi": 200,
+    "source_table": "data/processed/analysis_tables/concentration.csv"
+  },
+  "analysis_weekday_hour.png": {
+    "caption": "2024년 과태료 처리 신고 23,508건의 실제 요일과 시간. 공휴일 재분류는 우선순위 점수에만 적용한다.",
+    "width_in": 5.5,
+    "dpi": 200,
+    "source_table": "data/processed/analysis_tables/weekday_hour.csv"
+  },
+  "analysis_same_day_repetition.png": {
+    "caption": "고정 위치 정규화 후 지점·날짜별 신고 건수의 분포. 세로축은 로그 눈금이다.",
+    "width_in": 5.5,
+    "dpi": 200,
+    "source_table": "data/processed/analysis_tables/same_day_repetition.csv"
+  },
+  "analysis_repeat_map.png": {
+    "caption": "같은 지점·날짜에 2건 이상인 묶음에 속한 신고 수를 실제 건수 구간으로 표시한다. 밝은 회색 OSM 바탕지도에 좌표 확인 지점을 표시하며 상위 5개 동은 신고 수 가중 중심에 이름을 붙인다.",
+    "width_in": 5.5,
+    "dpi": 200,
+    "source_table": "data/processed/analysis_tables/repeat_map.csv"
+  },
+  "analysis_share_difference_map.png": {
+    "caption": "단속 2023년·신고 2024년. 각 전체 건수를 분모로 사용. 문자열 연결 실패도 있어 단속 사각지대나 정책 효과로 해석하지 않는다.",
+    "width_in": 5.5,
+    "dpi": 200,
+    "source_table": "data/processed/analysis_tables/share_difference_map.csv"
+  },
+  "analysis_priority_capture.png": {
+    "caption": "2024년 10~12월의 모든 과태료 처리 신고가 분모이다. 오차막대는 92개 달력일을 2,000회 재표집한 95% 구간이며 두 방식에 같은 날짜 표본을 사용한다.",
+    "width_in": 5.5,
+    "dpi": 200,
+    "source_table": "data/processed/analysis_tables/priority_capture.csv"
+  }
+}

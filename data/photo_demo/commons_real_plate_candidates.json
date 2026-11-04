@@ -1,0 +1,1426 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 14,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "101143765": {
+        "pageid": 101143765,
+        "ns": 6,
+        "title": "File:2008 Seoul police car, South Korea.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Seoul_police_car%2C_South_Korea.jpg/1280px-2008_Seoul_police_car%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 854,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/37/2008_Seoul_police_car%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Seoul_police_car%2C_South_Korea.jpg/1280px-2008_Seoul_police_car%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 854,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/37/2008_Seoul_police_car%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/2008_Seoul_police_car%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:2008_Seoul_police_car,_South_Korea.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101143765",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-03-06 13:32:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2008 Seoul police car, South Korea",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2008 in Seoul|Female police officers of South Korea|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "These guys have just won the 2008 award for \"Appearing Most Uncomfortable While Riding in a Convertible\".",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-02-25 12:54:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/hojusaram/2290230953/\">https://www.flickr.com/photos/hojusaram/2290230953/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "hojusaram",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "11655716": {
+        "pageid": 11655716,
+        "ns": 6,
+        "title": "File:20100922 hyundai sonata police car 1.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20100922_hyundai_sonata_police_car_1.jpg/1280px-20100922_hyundai_sonata_police_car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 882,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/62/20100922_hyundai_sonata_police_car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20100922_hyundai_sonata_police_car_1.jpg/1280px-20100922_hyundai_sonata_police_car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 882,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/62/20100922_hyundai_sonata_police_car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/20100922_hyundai_sonata_police_car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_hyundai_sonata_police_car_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11655716",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-04-09 09:38:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "20100922 hyundai sonata police car 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Hyundai Sonata (YF)|Vehicles with blue and red emergency lightbars|White police sedans|Hyundai Sonata police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hyundai Sonata",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Chu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chu (page does not exist)\">Chu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "11655729": {
+        "pageid": 11655729,
+        "ns": 6,
+        "title": "File:20100922 hyundai sonata police car 2.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/20100922_hyundai_sonata_police_car_2.jpg/1280px-20100922_hyundai_sonata_police_car_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 882,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/83/20100922_hyundai_sonata_police_car_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/20100922_hyundai_sonata_police_car_2.jpg/1280px-20100922_hyundai_sonata_police_car_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 882,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/83/20100922_hyundai_sonata_police_car_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/20100922_hyundai_sonata_police_car_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_hyundai_sonata_police_car_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11655729",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-04-09 09:44:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "20100922 hyundai sonata police car 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Hyundai Sonata (YF)|White police sedans|Hyundai Sonata police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Hyundai Sonata",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Chu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chu (page does not exist)\">Chu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34414465": {
+        "pageid": 34414465,
+        "ns": 6,
+        "title": "File:Dongdaemun Police Station Patrol Car Hyundai Avante.JPG",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG/1280px-Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG/1280px-Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Police_Station_Patrol_Car_Hyundai_Avante.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34414465",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-01 23:36:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dongdaemun Police Station Patrol Car Hyundai Avante",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Seoul Dongdaemun Police Station|License migration redundant|Self-published work|Hyundai Avante (HD)|Hyundai police automobiles|Hyundai Avante police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "서울동대문경찰서의 경찰차",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyolee2\" title=\"User:Hyolee2\">hyolee2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41700527": {
+        "pageid": 41700527,
+        "ns": 6,
+        "title": "File:Incheon Gyeyang Police Station Patrol car.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Incheon_Gyeyang_Police_Station_Patrol_car.jpg/1280px-Incheon_Gyeyang_Police_Station_Patrol_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/99/Incheon_Gyeyang_Police_Station_Patrol_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Incheon_Gyeyang_Police_Station_Patrol_car.jpg/1280px-Incheon_Gyeyang_Police_Station_Patrol_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/99/Incheon_Gyeyang_Police_Station_Patrol_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Incheon_Gyeyang_Police_Station_Patrol_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Incheon_Gyeyang_Police_Station_Patrol_car.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41700527",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-19 21:20:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Incheon Gyeyang Police Station Patrol car",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Incheon Gyeyang Police Station|License migration redundant|Self-published work|Hyundai Sonata (YF)|Hyundai Sonata police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "인천계양경찰서의 경찰차",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyolee2\" title=\"User:Hyolee2\">hyolee2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31745189": {
+        "pageid": 31745189,
+        "ns": 6,
+        "title": "File:Jeju police car (Jeju Municipal Police).JPG",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jeju_police_car_%28Jeju_Municipal_Police%29.JPG/1280px-Jeju_police_car_%28Jeju_Municipal_Police%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jeju_police_car_%28Jeju_Municipal_Police%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jeju_police_car_%28Jeju_Municipal_Police%29.JPG/1280px-Jeju_police_car_%28Jeju_Municipal_Police%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jeju_police_car_%28Jeju_Municipal_Police%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jeju_police_car_%28Jeju_Municipal_Police%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jeju_police_car_(Jeju_Municipal_Police).JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31745189",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-03-22 12:33:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Jeju police car (Jeju Municipal Police)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Jeju Municipal Police|Taken with Pentax Optio E60|Self-published work|PD-self|Hyundai Sonata (NF)|2014 in Jeju-do|South Korea photographs taken on 2014-02-28|Hyundai Sonata police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Jeju police car (Jeju Municipal Police)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 28 February 2014",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%82%E3%81%B0%E3%81%95%E3%83%BC\" title=\"User:あばさー\">Abasaa</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "50427200": {
+        "pageid": 50427200,
+        "ns": 6,
+        "title": "File:Jinhae Police Station Patrol Car 2.JPG",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Jinhae_Police_Station_Patrol_Car_2.JPG/1280px-Jinhae_Police_Station_Patrol_Car_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jinhae_Police_Station_Patrol_Car_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Jinhae_Police_Station_Patrol_Car_2.JPG/1280px-Jinhae_Police_Station_Patrol_Car_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jinhae_Police_Station_Patrol_Car_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jinhae_Police_Station_Patrol_Car_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jinhae_Police_Station_Patrol_Car_2.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50427200",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-07-31 23:58:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Jinhae Police Station Patrol Car 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Jinhae Police Station|License migration redundant|Self-published work|Hyundai Sonata (LF)|Hyundai Sonata police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "진해경찰서의 경찰차",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyolee2\" title=\"User:Hyolee2\">hyolee2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28534112": {
+        "pageid": 28534112,
+        "ns": 6,
+        "title": "File:Police Bus and Unmarked Police Car in Korea(Right Side Rear).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg/1280px-Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg/1280px-Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Police_Bus_and_Unmarked_Police_Car_in_Korea%28Right_Side_Rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Police_Bus_and_Unmarked_Police_Car_in_Korea(Right_Side_Rear).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28534112",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-09-24 19:08:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Police Bus and Unmarked Police Car in Korea(Right Side Rear)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Police buses in South Korea|Daewoo BS106",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean Police Bus and Unmarked Police Car.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-25 19:05:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "19330277": {
+        "pageid": 19330277,
+        "ns": 6,
+        "title": "File:Police car in Seoul, South Korea.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Police_car_in_Seoul%2C_South_Korea.jpg/1280px-Police_car_in_Seoul%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Police_car_in_Seoul%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Police_car_in_Seoul%2C_South_Korea.jpg/1280px-Police_car_in_Seoul%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Police_car_in_Seoul%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Police_car_in_Seoul%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Police_car_in_Seoul,_South_Korea.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19330277",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-05-05 09:00:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Police car in Seoul, South Korea",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot A640|CC-Zero|Seoul Jongno Police Station|Self-published work|Hyundai Avante (MD)|Automobiles in Seoul|Hyundai Avante police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Police car in Seoul, South Korea",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-05-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ProjectManhattan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ProjectManhattan (page does not exist)\">ProjectManhattan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4514556": {
+        "pageid": 4514556,
+        "ns": 6,
+        "title": "File:Police car in Seoul, South Korea 001.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Police_car_in_Seoul%2C_South_Korea_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Police_car_in_Seoul%2C_South_Korea_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Police_car_in_Seoul%2C_South_Korea_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Police_car_in_Seoul,_South_Korea_001.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4514556",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-08-07 06:08:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Police car in Seoul, South Korea 001",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Seoul Dongdaemun Police Station|Kia Spectra (S-II)|Flickr images reviewed by FlickreviewR|Automobiles in Seoul|Kia police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A police car in South Korea",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-06-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fukagawa/178596162/\">Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fukagawa/\">d'n'c</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "9038137": {
+        "pageid": 9038137,
+        "ns": 6,
+        "title": "File:Police car in Wonju, South Korea.JPG",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/1280px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 698,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/3840px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/1280px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 698,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/3840px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Police_car_in_Wonju,_South_Korea.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9038137",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-01-21 10:12:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Police car in Wonju, South Korea",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Ricoh GX200|Wonju Police Station|Samsung SM3 (first generation)|Self-published work|Police automobiles in South Korea|Number 2711 on vehicle registration plates|2009 in Wonju",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A police car in Wonju, South Korea",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-11-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dalgial\" title=\"User:Dalgial\">Dalgial</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3997805": {
+        "pageid": 3997805,
+        "ns": 6,
+        "title": "File:South Korean police car in Ulsan, 2004.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/95/South_Korean_police_car_in_Ulsan%2C_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/South_Korean_police_car_in_Ulsan%2C_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/South_Korean_police_car_in_Ulsan%2C_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_police_car_in_Ulsan,_2004.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3997805",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-05-05 18:36:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean police car in Ulsan, 2004",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kia Spectra (S-II)|Flickr images reviewed by FlickreviewR|April 2004 South Korea photographs|Kia police automobiles in South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean Police Car, Ulsan",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2004-04-03 17:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/97371213@N00/89787528/\">2004-04-00 Police Car</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/97371213@N00\">Stephen Hucker</a> from Ulsan, South Korea",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28533238": {
+        "pageid": 28533238,
+        "ns": 6,
+        "title": "File:Ssangyong Korando Unmarked Police Car in Korea A.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg/1280px-Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg/1280px-Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ssangyong_Korando_Unmarked_Police_Car_in_Korea_A.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28533238",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-09-24 18:36:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ssangyong Korando Unmarked Police Car in Korea A",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Police automobiles in South Korea|SsangYong Korando (2nd generation)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean Unmarked Police Car - Ssangyong Korando 2nd Generation",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-25 19:04:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28533241": {
+        "pageid": 28533241,
+        "ns": 6,
+        "title": "File:Ssangyong Korando Unmarked Police Car in Korea B.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg/1280px-Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg/1280px-Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ssangyong_Korando_Unmarked_Police_Car_in_Korea_B.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28533241",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-09-24 18:36:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ssangyong Korando Unmarked Police Car in Korea B",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Police automobiles in South Korea|SsangYong Korando (2nd generation)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean Unmarked Police Car - Ssangyong Korando 2nd Generation",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-25 19:05:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

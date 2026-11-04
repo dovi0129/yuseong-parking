@@ -1,0 +1,56 @@
+{
+  "thresholds": {
+    "min_gap_s": 60,
+    "max_move_m": 15,
+    "max_report_m": 50
+  },
+  "source_preference": "시각 확인한 AI 생성 사진은 평가 쪽에만 사용; 개발은 별도 위키미디어 두 사진",
+  "seed": 20261030,
+  "n_pairs": 204,
+  "case_counts": {
+    "정상": 34,
+    "간격 미달": 34,
+    "위치 불일치": 34,
+    "다른 번호": 34,
+    "번호판 가림": 34,
+    "위치 정보 없음": 34
+  },
+  "metadata": "모든 촬영 시각·GPS는 시연용으로 합성; 실제 촬영 증거가 아님",
+  "ground_truth_is_not_an_ocr_input": true,
+  "plate_format": "자가용 2~3자리 숫자+허용 한글 1글자+4자리 숫자",
+  "source_type": "AI 생성(ChatGPT)",
+  "development_source_ids": [
+    "wm_134022527",
+    "wm_99597207"
+  ],
+  "evaluation_source_ids": [
+    "ai01",
+    "ai02",
+    "ai03",
+    "ai04",
+    "ai05",
+    "ai06",
+    "ai07",
+    "ai08",
+    "ai09",
+    "ai10"
+  ],
+  "near_duplicate_excluded": [
+    "wm_109681829"
+  ],
+  "split_rule": "동일 위키미디어 파일·근접 장면을 개발/평가 사이에 공유하지 않음. 사용자 AI 사진은 평가에만 추가.",
+  "used_source_ids": [
+    "ai01",
+    "ai02",
+    "ai03",
+    "ai04",
+    "ai05",
+    "ai06",
+    "ai07",
+    "ai08",
+    "ai09",
+    "ai10"
+  ],
+  "synthetic_time_of_day": "낮은 12시, 밤은 20시를 기점으로 날짜·분을 더함. 간격 기준은 동일.",
+  "evaluation_started": true
+}

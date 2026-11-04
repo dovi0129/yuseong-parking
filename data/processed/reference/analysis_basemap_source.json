@@ -1,0 +1,8 @@
+{
+  "source": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "zoom": 13,
+  "license": "© OpenStreetMap contributors (ODbL)",
+  "style": "grayscale; 22% white blend",
+  "crs": "EPSG:3857",
+  "new_dependencies": []
+}

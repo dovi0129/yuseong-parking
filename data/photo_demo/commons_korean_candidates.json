@@ -1,0 +1,1552 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 15,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "9038137": {
+        "pageid": 9038137,
+        "ns": 6,
+        "title": "File:Police car in Wonju, South Korea.JPG",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/1280px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 698,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/3840px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/1280px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 698,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Police_car_in_Wonju%2C_South_Korea.JPG/3840px-Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Police_car_in_Wonju%2C_South_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Police_car_in_Wonju,_South_Korea.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9038137",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-01-21 10:12:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Police car in Wonju, South Korea",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Ricoh GX200|Wonju Police Station|Samsung SM3 (first generation)|Self-published work|Police automobiles in South Korea|Number 2711 on vehicle registration plates|2009 in Wonju",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A police car in Wonju, South Korea",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-11-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dalgial\" title=\"User:Dalgial\">Dalgial</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83077931": {
+        "pageid": 83077931,
+        "ns": 6,
+        "title": "File:ROK Vehicle Registration Plate for Diplomat Passenger Car - Diplomat(American Standard).jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg/3840px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg/3840px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Diplomat(American_Standard).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83077931",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-14 06:08:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROK Vehicle Registration Plate for Diplomat Passenger Car - Diplomat(American Standard)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Republic of Korea Vehicle Registration Plate for Diplomat Passenger Car: Diplomat(American Standard)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-12-03 19:13:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jhcbs1019\" title=\"User:Jhcbs1019\">Jhcbs1019</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83076933": {
+        "pageid": 83076933,
+        "ns": 6,
+        "title": "File:ROK Vehicle Registration Plate for Diplomat Passenger Car - Paradiplomat(American Standard).jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg/3840px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg/3840px-ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat%28American_Standard%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROK_Vehicle_Registration_Plate_for_Diplomat_Passenger_Car_-_Paradiplomat(American_Standard).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83076933",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-14 05:10:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROK Vehicle Registration Plate for Diplomat Passenger Car - Paradiplomat(American Standard)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Diplomatic license plates|Self-published work|July 2016 South Korea photographs|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Republic of Korea Vehicle Registration Plate for Diplomat Passenger Car: Paradiplomat(American Standard)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-07-23 17:26:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jhcbs1019\" title=\"User:Jhcbs1019\">Jhcbs1019</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83497141": {
+        "pageid": 83497141,
+        "ns": 6,
+        "title": "File:ROK Vehicle Registration Plate for Private Passenger Car(2004-2006).jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg/3840px-ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg/3840px-ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car%282004-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car(2004-2006).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83497141",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-30 01:58:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROK Vehicle Registration Plate for Private Passenger Car(2004-2006)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Republic of Korea Vehicle Registration Plate for Private Passenger Car(2004~2006)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-21 17:38:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jhcbs1019\" title=\"User:Jhcbs1019\">Jhcbs1019</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83497113": {
+        "pageid": 83497113,
+        "ns": 6,
+        "title": "File:ROK Vehicle Registration Plate for Private Passenger Car - Daegu(1996-2004).jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 680,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg/1280px-ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 680,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu%281996-2004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ROK_Vehicle_Registration_Plate_for_Private_Passenger_Car_-_Daegu(1996-2004).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83497113",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-08 15:34:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ROK Vehicle Registration Plate for Private Passenger Car - Daegu(1996-2004)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Republic of Korea Construction Equipment Registration Plate for Private Passenger Car(1996~2003): Daegu Metropolitan City",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-09-07 13:33:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jhcbs1019\" title=\"User:Jhcbs1019\">Jhcbs1019</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34787597": {
+        "pageid": 34787597,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Commercial Passenger car - Sejong.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg/1280px-South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg/1280px-South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34787597",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-16 22:49:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Commercial Passenger car - Sejong",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Daewoo buses|License migration redundant|Buses in Sejong|Self-published work|Automobiles with license plates of South Korea|Daewoo logos on objects",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "대한민국의 차량 번호판 중 사업용 승용차(버스) 번호판 - 세종특별자치시",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-07-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyolee2\" title=\"User:Hyolee2\">hyolee2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "30828821": {
+        "pageid": 30828821,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Commercial Passenger car - Seoul(1996-2006).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg/1280px-South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg/1280px-South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2b/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul%281996-2006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Commercial_Passenger_car_-_Seoul(1996-2006).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30828821",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-01-27 07:15:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Commercial Passenger car - Seoul(1996-2006)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Taxis in Seoul|Samsung SM5 (first generation)|Number 31 on vehicle registration plates|Number 9142 on vehicle registration plates|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Commercial Passenger car(Taxi) - Seoul Metropolitan Gov(1996-2006)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-01-26 14:55:10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "29444124": {
+        "pageid": 29444124,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Passenger Car - Gyeonggi(1996-2004, White).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg/1280px-South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 657,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg/1280px-South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 657,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5d/South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi%281996-2004%2C_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Passenger_Car_-_Gyeonggi(1996-2004,_White).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29444124",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-07 15:32:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Passenger Car - Gyeonggi(1996-2004, White)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|September 2013 South Korea photographs|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Private Passenger Car - Gyeonggi Province(1996-2003, White)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-19 10:43:13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "30863032": {
+        "pageid": 30863032,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Private Passenger car - Gangwon (1996–2003).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg/1280px-South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/22/South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg/1280px-South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/22/South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_%281996%E2%80%932003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Private_Passenger_car_-_Gangwon_(1996%E2%80%932003).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30863032",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-01-29 02:18:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Private Passenger car - Gangwon (1996–2003)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Automobiles with license plates of South Korea|SsangYong Rexton (2001)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Private Passenger car - Gangwon Province(1996-2003)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-12-04 16:36:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "30863050": {
+        "pageid": 30863050,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Private Passenger car - North Chungcheong(1996-2003).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg/1280px-South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/20/South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg/1280px-South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/20/South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong%281996-2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Private_Passenger_car_-_North_Chungcheong(1996-2003).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30863050",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-01-29 02:21:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Private Passenger car - North Chungcheong(1996-2003)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Automobiles with license plates of South Korea|Kia Optima (MS, 2002)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Private Passenger car - North Chungcheong Province(1996-2003)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-01-26 19:24:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "29465588": {
+        "pageid": 29465588,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Rent Passenger car - Heo.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg/1280px-South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 302,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg/1280px-South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 302,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Rent_Passenger_car_-_Heo.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29465588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-07 16:17:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Rent Passenger car - Heo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|License plates of South Korea|Self-published work|Number 9757 on vehicle registration plates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Rent Passenger car - Heo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-05 18:11:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "29465623": {
+        "pageid": 29465623,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Rent Passenger car - Ho.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/South_Korean_License_Plate_for_Rent_Passenger_car_-_Ho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1280,
+            "thumbheight": 299,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/South_Korean_License_Plate_for_Rent_Passenger_car_-_Ho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 299
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/South_Korean_License_Plate_for_Rent_Passenger_car_-_Ho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Rent_Passenger_car_-_Ho.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29465623",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-07 15:35:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Rent Passenger car - Ho",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|Kia K5 (TF)|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Rent Passenger car - Ho",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-09-05 18:10:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83497497": {
+        "pageid": 83497497,
+        "ns": 6,
+        "title": "File:South Korean license plate for commercial passenger cars, Daegu (after Nov. 2006, European-sized).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg/1280px-South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 282,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/24/South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg/1280px-South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 282,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/24/South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/South_Korean_license_plate_for_commercial_passenger_cars%2C_Daegu_%28after_Nov._2006%2C_European-sized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_license_plate_for_commercial_passenger_cars,_Daegu_(after_Nov._2006,_European-sized).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83497497",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-08 16:01:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean license plate for commercial passenger cars, Daegu (after Nov. 2006, European-sized)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|South Korea photographs taken on 2018-12-01|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Republic of Korea Vehicle Registration Plate for Commercial Passenger Car(After November 2006, European Standard): Daegu Metropolitan City",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-12-01 16:42:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jhcbs1019\" title=\"User:Jhcbs1019\">Jhcbs1019</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "30828868": {
+        "pageid": 30828868,
+        "ns": 6,
+        "title": "File:South Korean license plate for private passenger car, Seoul (1973–1996).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg/1280px-South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/2/2c/South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg/1280px-South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2c/South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/South_Korean_license_plate_for_private_passenger_car%2C_Seoul_%281973%E2%80%931996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_license_plate_for_private_passenger_car,_Seoul_(1973%E2%80%931996).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30828868",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-01-27 07:26:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean license plate for private passenger car, Seoul (1973–1996)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Pantech Vega Racer|Self-published work|January 2014 South Korea photographs|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean License Plate for Private Passenger car - Seoul Metropolitan Gov(1973-1996)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-01-21 17:38:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P.Cps1120a&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P.Cps1120a (page does not exist)\">P.Cps1120a</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83497127": {
+        "pageid": 83497127,
+        "ns": 6,
+        "title": "File:South Korean private passenger car license plate for Seoul (white, 2003).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg/1280px-South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 757,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/ea/South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg/1280px-South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 757,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ea/South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/South_Korean_private_passenger_car_license_plate_for_Seoul_%28white%2C_2003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_private_passenger_car_license_plate_for_Seoul_(white,_2003).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83497127",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-02-07 16:27:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean private passenger car license plate for Seoul (white, 2003)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Automobiles with license plates of South Korea",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Republic of Korea Construction Equipment Registration Plate for Private Passenger Car(White, 2003): Seoul Metropolitan Government",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-06-12 12:27:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jhcbs1019\" title=\"User:Jhcbs1019\">Jhcbs1019</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

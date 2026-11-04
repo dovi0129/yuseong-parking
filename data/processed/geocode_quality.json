@@ -1,0 +1,19 @@
+{
+  "n_locations": 2721,
+  "n_successful_locations": 2522,
+  "n_attempted_locations": 2721,
+  "n_boundary_outside_raw": 0,
+  "n_pending_locations": 0,
+  "n_failed_locations": 199,
+  "boundary_outside_raw_fraction": 0.0,
+  "boundary_source": "OpenStreetMap relation 3890428, cached current polygon",
+  "manual_map_review_done": true,
+  "target_report_weighted_success": 0.95,
+  "report_weighted_success_train": 0.9806818181818182,
+  "report_weighted_success_test": 0.9867975626269465,
+  "report_weighted_success_all": 0.9822188191254041,
+  "report_weighted_failure_all": 0.017781180874595882,
+  "report_weighted_pending_all": 0.0,
+  "manual_map_review_n": 30,
+  "manual_review_scope": "무작위 좌표 30곳의 공개 도로지도상 배치·주변 도로/시설과 캐시 주소 대조; 개별 지번 경계의 측량 검증은 아님"
+}

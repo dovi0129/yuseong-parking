@@ -1,0 +1,7 @@
+{
+  "source": "https://www.openstreetmap.org/relation/3890428",
+  "download_endpoint": "https://nominatim.openstreetmap.org/search",
+  "retrieved_at": "2026-10-30T05:43:30.937873+00:00",
+  "license": "OpenStreetMap ODbL; © OpenStreetMap contributors",
+  "usage": "유성구 안팎 좌표 품질 확인; 현재 OSM 경계, 행정기관 인증 경계 아님"
+}

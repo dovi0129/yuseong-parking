@@ -1,0 +1,50 @@
+{
+  "ocr_source_sha256": "9ec90a58f730544dd68afbbeb0924a744b619e189fa7b3d9e904e86fbe444ebd",
+  "thresholds": {
+    "min_gap_s": 60,
+    "max_move_m": 15,
+    "max_report_m": 50
+  },
+  "n_pairs": 204,
+  "development_source_ids": [
+    "wm_134022527",
+    "wm_99597207"
+  ],
+  "evaluation_source_ids": [
+    "ai01",
+    "ai02",
+    "ai03",
+    "ai04",
+    "ai05",
+    "ai06",
+    "ai07",
+    "ai08",
+    "ai09",
+    "ai10"
+  ],
+  "robustness": {
+    "pairs": 24,
+    "sample_seed": 20261030,
+    "blur_px": [
+      0,
+      1.5,
+      3
+    ],
+    "brightness_multiplier": [
+      1,
+      0.6,
+      0.3
+    ],
+    "tilt_degrees": [
+      0,
+      10,
+      20
+    ]
+  },
+  "workers": 2,
+  "per_process_cpu_threads": 1,
+  "cuda_visible_devices": "0",
+  "torch_device_required": "cuda:0 RTX 5090",
+  "stage": "frozen_before_final_evaluation",
+  "no_final_tuning": true
+}

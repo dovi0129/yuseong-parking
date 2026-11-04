@@ -1,0 +1,1 @@
+{"resume": true, "workers": 1, "reused_completed_pairs": 2, "ocr_source_sha256": "9ec90a58f730544dd68afbbeb0924a744b619e189fa7b3d9e904e86fbe444ebd", "reason": "Resource-only recovery from CUDA OOM; fixed inputs and model"}

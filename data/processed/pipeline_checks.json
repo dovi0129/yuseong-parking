@@ -1,0 +1,109 @@
+{
+  "checks": [
+    "reports.parquet contract columns",
+    "enforcement.parquet contract columns",
+    "spots.csv amended contract columns",
+    "priority_train.csv contract columns",
+    "approved record counts preserved",
+    "stable record/spot identifiers unique",
+    "chronological final split",
+    "priority candidate universe is training only",
+    "both methods retained",
+    "score keys unique",
+    "expected counts finite and nonnegative",
+    "method chosen before final test",
+    "train spot counts conserve reports",
+    "test spot counts conserve reports",
+    "valid coordinate risk proxy is binary",
+    "fixed risk weights in [1,2.5]",
+    "geocode lifecycle values valid",
+    "no unprocessed geocode locations",
+    "final weighted geocode target and boundary checks",
+    "random 30-point street-map review recorded",
+    "all held-out reports and all calendar days remain in evaluation",
+    "repetition plot conserves source reports",
+    "concentration curve ends at 100 percent",
+    "concentration curve ends at 100 percent",
+    "processing metrics include three training thresholds and two grouping units",
+    "analysis_concentration.png: valid PNG at brief-required 200dpi",
+    "analysis_weekday_hour.png: valid PNG at brief-required 200dpi",
+    "analysis_same_day_repetition.png: valid PNG at brief-required 200dpi",
+    "analysis_repeat_map.png: valid PNG at brief-required 200dpi",
+    "analysis_share_difference_map.png: valid PNG at brief-required 200dpi",
+    "analysis_priority_capture.png: valid PNG at brief-required 200dpi",
+    "credential value absent from owned code, logs, caches, and text artifacts",
+    "all pipeline Python modules parse"
+  ],
+  "n_checks": 33,
+  "figures": [
+    {
+      "file": "artifacts/figures/analysis_concentration.png",
+      "size_px": [
+        1091,
+        706
+      ],
+      "dpi": [
+        199.9996,
+        199.9996
+      ]
+    },
+    {
+      "file": "artifacts/figures/analysis_weekday_hour.png",
+      "size_px": [
+        1088,
+        761
+      ],
+      "dpi": [
+        199.9996,
+        199.9996
+      ]
+    },
+    {
+      "file": "artifacts/figures/analysis_same_day_repetition.png",
+      "size_px": [
+        1091,
+        706
+      ],
+      "dpi": [
+        199.9996,
+        199.9996
+      ]
+    },
+    {
+      "file": "artifacts/figures/analysis_repeat_map.png",
+      "size_px": [
+        727,
+        929
+      ],
+      "dpi": [
+        199.9996,
+        199.9996
+      ]
+    },
+    {
+      "file": "artifacts/figures/analysis_share_difference_map.png",
+      "size_px": [
+        758,
+        929
+      ],
+      "dpi": [
+        199.9996,
+        199.9996
+      ]
+    },
+    {
+      "file": "artifacts/figures/analysis_priority_capture.png",
+      "size_px": [
+        1091,
+        706
+      ],
+      "dpi": [
+        199.9996,
+        199.9996
+      ]
+    }
+  ],
+  "png_audit_scope": "User brief explicitly requires 200dpi, overriding the figure-audit default of 300dpi. Overlap/glyph readability inspected visually; raster output has no embedded font-size measurements.",
+  "statistical_validation": "17 known-answer tests incl. no-final-period leakage, paired null arm, unseen-location denominator, EPSG axis order, processing groups, cache override dtype; captured totals also cross-checked by key joins",
+  "reused": "approved raw record counts; frozen priority choice and final evaluation; geographic source caches"
+}

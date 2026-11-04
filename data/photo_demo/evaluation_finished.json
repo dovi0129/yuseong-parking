@@ -1,0 +1,18 @@
+{
+  "execution_finished": true,
+  "n_final_pairs": 204,
+  "n_robustness_pairs": 144,
+  "n_qualitative_negative_controls": 5,
+  "elapsed_s": 176.79450369998813,
+  "source_disjoint": true,
+  "final_tuning": false,
+  "ocr_source_sha256": "9ec90a58f730544dd68afbbeb0924a744b619e189fa7b3d9e904e86fbe444ebd",
+  "artifacts": [
+    "evaluation_results.csv",
+    "evaluation_summary.json",
+    "evaluation_by_case.csv",
+    "confusion.csv",
+    "robustness_summary.csv",
+    "qualitative_results.csv"
+  ]
+}

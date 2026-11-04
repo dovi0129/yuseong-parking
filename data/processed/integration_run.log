@@ -1,0 +1,18 @@
+prepared reports=23508, locations=2721
+reference schools: 82 local records
+reference child_zones: 145 local records
+       method   K  captured  total  capture_rate   ci_low  ci_high  delta_vs_baseline  delta_ci_low  delta_ci_high  n_calendar_days  bootstrap_replicates
+freq_baseline  20       489   5908      0.082769 0.065272 0.100016           0.000000      0.000000       0.000000               92                  2000
+freq_baseline  50       819   5908      0.138626 0.114146 0.162708           0.000000      0.000000       0.000000               92                  2000
+freq_baseline 100      1148   5908      0.194313 0.163010 0.226654           0.000000      0.000000       0.000000               92                  2000
+    shrinkage  20       490   5908      0.082938 0.065462 0.099934           0.000169     -0.001024       0.001551               92                  2000
+    shrinkage  50       817   5908      0.138287 0.113558 0.162814          -0.000339     -0.002501       0.001937               92                  2000
+    shrinkage 100      1180   5908      0.199729 0.166637 0.233012           0.005416      0.001843       0.009231               92                  2000
+                     metric  threshold  n_spots_train  n_reports_test  n_test_total  n_units_after  coverage_rate  reduction_rate
+   train_threshold_coverage        5.0          735.0            2635          5908            NaN       0.446005             NaN
+   train_threshold_coverage       10.0          418.0            1994          5908            NaN       0.337508             NaN
+   train_threshold_coverage       20.0          200.0            1502          5908            NaN       0.254232             NaN
+           spot_date_groups        NaN            NaN            5908          5908         4258.0            NaN        0.279282
+spot_date_hour_block_groups        NaN            NaN            5908          5908         4707.0            NaN        0.203284
+analysis figures saved
+PASS: full cached pipeline completed with all network calls forbidden; final evaluation reused

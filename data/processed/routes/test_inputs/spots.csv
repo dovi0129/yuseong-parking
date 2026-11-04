@@ -1,0 +1,3 @@
+spot_id,label,dong,lat,lon,n_reports_train,risk_weight,child_zone_300m,n_reports_test
+a,A,가동,36.36,127.35,100.0,1.0,0,0
+b,B,나동,36.37,127.36,50.0,1.0,1,999999

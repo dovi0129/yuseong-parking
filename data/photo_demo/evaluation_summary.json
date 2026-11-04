@@ -1,0 +1,13 @@
+{
+  "n_pairs": 204,
+  "verdict_accuracy": 0.9705882352941176,
+  "normal_recall": 0.8235294117647058,
+  "rejection_recall": 1.0,
+  "balanced_accuracy": 0.9117647058823529,
+  "plate_exact_all": 0.7034313725490197,
+  "plate_exact_visible": 0.767379679144385,
+  "n_visible_images": 374,
+  "false_accepts": 0,
+  "false_rejections": 6,
+  "majority_reject_baseline": 0.8333333333333334
+}

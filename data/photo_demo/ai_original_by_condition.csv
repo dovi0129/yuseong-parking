@@ -1,0 +1,5 @@
+﻿condition,n_images,n_exact,exact_accuracy
+전체,10,8,0.8
+낮,6,4,0.6666666666666666
+밤,4,4,1.0
+비,2,2,1.0

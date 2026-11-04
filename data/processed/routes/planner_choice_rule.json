@@ -1,0 +1,13 @@
+{
+  "rule": "sum of weekday mean caught over four fixed conditions; optimized requires >=0.05 advantage",
+  "fit": "2024-01-01 <= ts < 2024-08-01",
+  "validation": "2024-08-01 <= ts < 2024-10-01",
+  "margin": 0.05,
+  "conditions": [
+    "10-14_K1",
+    "10-14_K2",
+    "17-21_K1",
+    "17-21_K2"
+  ],
+  "test_used": false
+}

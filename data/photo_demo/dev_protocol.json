@@ -1,0 +1,43 @@
+{
+  "thresholds": {
+    "min_gap_s": 60,
+    "max_move_m": 15,
+    "max_report_m": 50
+  },
+  "source_preference": "시각 확인한 AI 생성 사진이 있으면 이를 주 자료로 사용, 그 전에는 위키미디어 사용권 사진",
+  "seed": 771,
+  "n_pairs": 12,
+  "case_counts": {
+    "정상": 2,
+    "간격 미달": 2,
+    "위치 불일치": 2,
+    "다른 번호": 2,
+    "번호판 가림": 2,
+    "위치 정보 없음": 2
+  },
+  "metadata": "모든 촬영 시각·GPS는 시연용으로 합성; 실제 촬영 증거가 아님",
+  "ground_truth_is_not_an_ocr_input": true,
+  "plate_format": "자가용 2~3자리 숫자+허용 한글 1글자+4자리 숫자",
+  "source_type": "위키미디어 공용",
+  "development_source_ids": [
+    "wm_134022527",
+    "wm_99597207"
+  ],
+  "evaluation_source_ids": [
+    "ai01",
+    "ai02",
+    "ai03",
+    "ai04",
+    "ai05",
+    "ai06",
+    "ai07",
+    "ai08",
+    "ai09",
+    "ai10"
+  ],
+  "near_duplicate_excluded": [
+    "wm_109681829"
+  ],
+  "split_rule": "동일 위키미디어 파일·근접 장면을 개발/평가 사이에 공유하지 않음. 사용자 AI 사진은 평가에만 추가.",
+  "evaluation_started": true
+}

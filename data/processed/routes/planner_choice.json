@@ -1,0 +1,86 @@
+{
+  "chosen_method": "optimized",
+  "sums": {
+    "b3": 12.128205128205128,
+    "optimized": 13.333333333333334
+  },
+  "difference_optimized_minus_b3": 1.2051282051282062,
+  "threshold": 0.05,
+  "rule": {
+    "rule": "sum of weekday mean caught over four fixed conditions; optimized requires >=0.05 advantage",
+    "fit": "2024-01-01 <= ts < 2024-08-01",
+    "validation": "2024-08-01 <= ts < 2024-10-01",
+    "margin": 0.05,
+    "conditions": [
+      "10-14_K1",
+      "10-14_K2",
+      "17-21_K1",
+      "17-21_K2"
+    ],
+    "test_used": false
+  },
+  "alpha": 5.0,
+  "score_method": "shrinkage",
+  "validation_days": 39,
+  "inner_candidate_count": 1858,
+  "method_selection_uses_test": false,
+  "validation_summary": [
+    {
+      "scenario": "10-14_K1",
+      "method": "b3",
+      "mean_caught": 2.1538461538461537,
+      "total_caught": 84,
+      "days": 39
+    },
+    {
+      "scenario": "10-14_K1",
+      "method": "optimized",
+      "mean_caught": 2.3333333333333335,
+      "total_caught": 91,
+      "days": 39
+    },
+    {
+      "scenario": "10-14_K2",
+      "method": "b3",
+      "mean_caught": 2.8205128205128207,
+      "total_caught": 110,
+      "days": 39
+    },
+    {
+      "scenario": "10-14_K2",
+      "method": "optimized",
+      "mean_caught": 2.948717948717949,
+      "total_caught": 115,
+      "days": 39
+    },
+    {
+      "scenario": "17-21_K1",
+      "method": "b3",
+      "mean_caught": 2.4871794871794872,
+      "total_caught": 97,
+      "days": 39
+    },
+    {
+      "scenario": "17-21_K1",
+      "method": "optimized",
+      "mean_caught": 3.1538461538461537,
+      "total_caught": 123,
+      "days": 39
+    },
+    {
+      "scenario": "17-21_K2",
+      "method": "b3",
+      "mean_caught": 4.666666666666667,
+      "total_caught": 182,
+      "days": 39
+    },
+    {
+      "scenario": "17-21_K2",
+      "method": "optimized",
+      "mean_caught": 4.897435897435898,
+      "total_caught": 191,
+      "days": 39
+    }
+  ],
+  "reason": "1~7월 점수로 고정 계획을 만들고 8~9월 평일 4조건의 일평균 caught 합으로 선택함"
+}

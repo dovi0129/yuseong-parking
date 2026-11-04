@@ -1,0 +1,13 @@
+scenario,representative,date,optimized_minus_b1,reference
+10-14_K1,median,2024-10-02,0.0,caught; b1; signed difference
+10-14_K1,p90,2024-10-04,1.0,caught; b1; signed difference
+10-14_K1,worst,2024-10-08,-1.0,caught; b1; signed difference
+10-14_K2,median,2024-10-02,0.0,caught; b1; signed difference
+10-14_K2,p90,2024-10-17,1.0,caught; b1; signed difference
+10-14_K2,worst,2024-10-25,-3.0,caught; b1; signed difference
+17-21_K1,median,2024-10-07,0.0,caught; b1; signed difference
+17-21_K1,p90,2024-10-04,3.0,caught; b1; signed difference
+17-21_K1,worst,2024-11-01,-1.0,caught; b1; signed difference
+17-21_K2,median,2024-10-02,1.0,caught; b1; signed difference
+17-21_K2,p90,2024-10-04,4.0,caught; b1; signed difference
+17-21_K2,worst,2024-12-04,-2.0,caught; b1; signed difference

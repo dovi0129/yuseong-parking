@@ -1,0 +1,8 @@
+{
+  "path1": "data/photo_demo/dev/functional_normal_a.jpg",
+  "path2": "data/photo_demo/dev/functional_normal_b.jpg",
+  "reported_lat": 36.37349604222233,
+  "reported_lon": 127.33442545061068,
+  "source_id": "wm_134022527",
+  "note": "개발 사진만 사용한 정상 기능 예제; 평가 표본에 포함하지 않음"
+}

@@ -1,0 +1,3180 @@
+{
+  "source": "mock",
+  "chosen_method": "freq_baseline",
+  "candidate_spots": [
+    "MOCK_000",
+    "MOCK_001",
+    "MOCK_002",
+    "MOCK_003",
+    "MOCK_004",
+    "MOCK_005",
+    "MOCK_006",
+    "MOCK_007",
+    "MOCK_008",
+    "MOCK_009",
+    "MOCK_010",
+    "MOCK_011",
+    "MOCK_012",
+    "MOCK_013",
+    "MOCK_014",
+    "MOCK_015",
+    "MOCK_016",
+    "MOCK_017",
+    "MOCK_018",
+    "MOCK_019",
+    "MOCK_020",
+    "MOCK_021",
+    "MOCK_022",
+    "MOCK_023"
+  ],
+  "excluded_spots": 0,
+  "network": {
+    "source": "MOCK straight-line; not a road evaluation",
+    "speed_kmh": 25.0
+  },
+  "plans": {
+    "10-14_K1_평일_b1": {
+      "method": "b1",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 36048,
+          "vehicle": 0,
+          "score": 0.04285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 36408,
+          "vehicle": 0,
+          "score": 0.07142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 36788,
+          "vehicle": 0,
+          "score": 0.24285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 37148,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 37515,
+          "vehicle": 0,
+          "score": 0.2714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 37953,
+          "vehicle": 0,
+          "score": 0.32857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 38295,
+          "vehicle": 0,
+          "score": 0.18571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 38649,
+          "vehicle": 0,
+          "score": 0.08571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 39058,
+          "vehicle": 0,
+          "score": 0.3,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 39625,
+          "vehicle": 0,
+          "score": 0.02857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 39984,
+          "vehicle": 0,
+          "score": 0.2857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 40368,
+          "vehicle": 0,
+          "score": 0.15714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 40731,
+          "vehicle": 0,
+          "score": 0.05714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 41321,
+          "vehicle": 0,
+          "score": 0.2,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 41710,
+          "vehicle": 0,
+          "score": 0.014285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 42030,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 42386,
+          "vehicle": 0,
+          "score": 0.3142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 42789,
+          "vehicle": 0,
+          "score": 0.17142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 43148,
+          "vehicle": 0,
+          "score": 0.21428571428571427,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 43516,
+          "vehicle": 0,
+          "score": 0.34285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 43847,
+          "vehicle": 0,
+          "score": 0.22857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 44196,
+          "vehicle": 0,
+          "score": 0.1,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 44570,
+          "vehicle": 0,
+          "score": 0.11428571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 44904,
+          "vehicle": 0,
+          "score": 0.14285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        }
+      ],
+      "vehicle_returns_s": [
+        45514
+      ],
+      "travel_s": 2314,
+      "elapsed_s": 0.003274857997894287,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "10-14_K1_평일_b2": {
+      "method": "b2",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 36048,
+          "vehicle": 0,
+          "score": 0.04285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 36465,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 36884,
+          "vehicle": 0,
+          "score": 0.34285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 37252,
+          "vehicle": 0,
+          "score": 0.21428571428571427,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 37611,
+          "vehicle": 0,
+          "score": 0.17142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 38036,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 38722,
+          "vehicle": 0,
+          "score": 0.08571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 39131,
+          "vehicle": 0,
+          "score": 0.3,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 39501,
+          "vehicle": 0,
+          "score": 0.32857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 39883,
+          "vehicle": 0,
+          "score": 0.24285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 40263,
+          "vehicle": 0,
+          "score": 0.07142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 40654,
+          "vehicle": 0,
+          "score": 0.02857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 41013,
+          "vehicle": 0,
+          "score": 0.2857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 41397,
+          "vehicle": 0,
+          "score": 0.15714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 41937,
+          "vehicle": 0,
+          "score": 0.2,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 42586,
+          "vehicle": 0,
+          "score": 0.11428571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 42920,
+          "vehicle": 0,
+          "score": 0.14285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 43317,
+          "vehicle": 0,
+          "score": 0.1,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 43666,
+          "vehicle": 0,
+          "score": 0.22857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 44127,
+          "vehicle": 0,
+          "score": 0.2714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 44606,
+          "vehicle": 0,
+          "score": 0.18571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 45158,
+          "vehicle": 0,
+          "score": 0.05714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 45832,
+          "vehicle": 0,
+          "score": 0.014285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 46207,
+          "vehicle": 0,
+          "score": 0.3142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        }
+      ],
+      "vehicle_returns_s": [
+        46714
+      ],
+      "travel_s": 3514,
+      "elapsed_s": 0.013693576969671994,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "10-14_K1_평일_optimized": {
+      "method": "optimized",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 36132,
+          "vehicle": 0,
+          "score": 0.2,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 36521,
+          "vehicle": 0,
+          "score": 0.014285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 36841,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 37197,
+          "vehicle": 0,
+          "score": 0.3142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 37600,
+          "vehicle": 0,
+          "score": 0.17142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 37959,
+          "vehicle": 0,
+          "score": 0.21428571428571427,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 38352,
+          "vehicle": 0,
+          "score": 0.1,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 38749,
+          "vehicle": 0,
+          "score": 0.14285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 39083,
+          "vehicle": 0,
+          "score": 0.11428571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 39493,
+          "vehicle": 0,
+          "score": 0.22857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 39824,
+          "vehicle": 0,
+          "score": 0.34285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 40243,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 40610,
+          "vehicle": 0,
+          "score": 0.2714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 40992,
+          "vehicle": 0,
+          "score": 0.24285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 41374,
+          "vehicle": 0,
+          "score": 0.32857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 41744,
+          "vehicle": 0,
+          "score": 0.3,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 42102,
+          "vehicle": 0,
+          "score": 0.18571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 42456,
+          "vehicle": 0,
+          "score": 0.08571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 42965,
+          "vehicle": 0,
+          "score": 0.05714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 43328,
+          "vehicle": 0,
+          "score": 0.15714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 43712,
+          "vehicle": 0,
+          "score": 0.2857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 44071,
+          "vehicle": 0,
+          "score": 0.02857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 44462,
+          "vehicle": 0,
+          "score": 0.07142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 44822,
+          "vehicle": 0,
+          "score": 0.04285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        }
+      ],
+      "vehicle_returns_s": [
+        45170
+      ],
+      "travel_s": 1970,
+      "elapsed_s": 0.3053813229780644,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "10-14_K2_평일_b1": {
+      "method": "b1",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 36048,
+          "vehicle": 0,
+          "score": 0.04285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 36408,
+          "vehicle": 0,
+          "score": 0.07142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 36788,
+          "vehicle": 0,
+          "score": 0.24285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 37148,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 37515,
+          "vehicle": 0,
+          "score": 0.2714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 37953,
+          "vehicle": 0,
+          "score": 0.32857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 38295,
+          "vehicle": 0,
+          "score": 0.18571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 38649,
+          "vehicle": 0,
+          "score": 0.08571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 39058,
+          "vehicle": 0,
+          "score": 0.3,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 39625,
+          "vehicle": 0,
+          "score": 0.02857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 39984,
+          "vehicle": 0,
+          "score": 0.2857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 40368,
+          "vehicle": 0,
+          "score": 0.15714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 40731,
+          "vehicle": 0,
+          "score": 0.05714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 41321,
+          "vehicle": 0,
+          "score": 0.2,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 41710,
+          "vehicle": 0,
+          "score": 0.014285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 42030,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 42386,
+          "vehicle": 0,
+          "score": 0.3142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 42789,
+          "vehicle": 0,
+          "score": 0.17142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 43148,
+          "vehicle": 0,
+          "score": 0.21428571428571427,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 43516,
+          "vehicle": 0,
+          "score": 0.34285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 43847,
+          "vehicle": 0,
+          "score": 0.22857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 44196,
+          "vehicle": 0,
+          "score": 0.1,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 44570,
+          "vehicle": 0,
+          "score": 0.11428571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 44904,
+          "vehicle": 0,
+          "score": 0.14285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        }
+      ],
+      "vehicle_returns_s": [
+        45514,
+        36000
+      ],
+      "travel_s": 2314,
+      "elapsed_s": 0.0025469320244155824,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "10-14_K2_평일_b2": {
+      "method": "b2",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 36048,
+          "vehicle": 0,
+          "score": 0.04285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 36465,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 36884,
+          "vehicle": 0,
+          "score": 0.34285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 37252,
+          "vehicle": 0,
+          "score": 0.21428571428571427,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 37611,
+          "vehicle": 0,
+          "score": 0.17142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 38036,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 38722,
+          "vehicle": 0,
+          "score": 0.08571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 39131,
+          "vehicle": 0,
+          "score": 0.3,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 39501,
+          "vehicle": 0,
+          "score": 0.32857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 39883,
+          "vehicle": 0,
+          "score": 0.24285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 40263,
+          "vehicle": 0,
+          "score": 0.07142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 40654,
+          "vehicle": 0,
+          "score": 0.02857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 41013,
+          "vehicle": 0,
+          "score": 0.2857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 41397,
+          "vehicle": 0,
+          "score": 0.15714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 41937,
+          "vehicle": 0,
+          "score": 0.2,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 42586,
+          "vehicle": 0,
+          "score": 0.11428571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 42920,
+          "vehicle": 0,
+          "score": 0.14285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 43317,
+          "vehicle": 0,
+          "score": 0.1,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 43666,
+          "vehicle": 0,
+          "score": 0.22857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 44127,
+          "vehicle": 0,
+          "score": 0.2714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 44606,
+          "vehicle": 0,
+          "score": 0.18571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 45158,
+          "vehicle": 0,
+          "score": 0.05714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 45832,
+          "vehicle": 0,
+          "score": 0.014285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 46207,
+          "vehicle": 0,
+          "score": 0.3142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        }
+      ],
+      "vehicle_returns_s": [
+        46714,
+        36000
+      ],
+      "travel_s": 3514,
+      "elapsed_s": 0.013585441978648305,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "10-14_K2_평일_optimized": {
+      "method": "optimized",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 36094,
+          "vehicle": 0,
+          "score": 0.07142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 36493,
+          "vehicle": 0,
+          "score": 0.08571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 36847,
+          "vehicle": 0,
+          "score": 0.18571428571428572,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 37205,
+          "vehicle": 0,
+          "score": 0.3,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 37575,
+          "vehicle": 0,
+          "score": 0.32857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 37957,
+          "vehicle": 0,
+          "score": 0.24285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 38339,
+          "vehicle": 0,
+          "score": 0.2714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 38706,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 39125,
+          "vehicle": 0,
+          "score": 0.34285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 39456,
+          "vehicle": 0,
+          "score": 0.22857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 39866,
+          "vehicle": 0,
+          "score": 0.11428571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 40200,
+          "vehicle": 0,
+          "score": 0.14285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 40597,
+          "vehicle": 0,
+          "score": 0.1,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 40990,
+          "vehicle": 0,
+          "score": 0.21428571428571427,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 41349,
+          "vehicle": 0,
+          "score": 0.17142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 41752,
+          "vehicle": 0,
+          "score": 0.3142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 42108,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 42428,
+          "vehicle": 0,
+          "score": 0.014285714285714285,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 42817,
+          "vehicle": 0,
+          "score": 0.2,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 43277,
+          "vehicle": 0,
+          "score": 0.2857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 43708,
+          "vehicle": 0,
+          "score": 0.05714285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 44071,
+          "vehicle": 0,
+          "score": 0.15714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 44469,
+          "vehicle": 0,
+          "score": 0.02857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 44839,
+          "vehicle": 0,
+          "score": 0.04285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        }
+      ],
+      "vehicle_returns_s": [
+        45187,
+        36000
+      ],
+      "travel_s": 1987,
+      "elapsed_s": 0.30378586798906326,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "17-21_K1_평일_b1": {
+      "method": "b1",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 61248,
+          "vehicle": 0,
+          "score": 0.07714285714285715,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 61608,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 61988,
+          "vehicle": 0,
+          "score": 0.43714285714285717,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 62348,
+          "vehicle": 0,
+          "score": 0.2314285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 62715,
+          "vehicle": 0,
+          "score": 0.48857142857142855,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 63153,
+          "vehicle": 0,
+          "score": 0.5914285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 63495,
+          "vehicle": 0,
+          "score": 0.3342857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 63849,
+          "vehicle": 0,
+          "score": 0.1542857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 64258,
+          "vehicle": 0,
+          "score": 0.54,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 64825,
+          "vehicle": 0,
+          "score": 0.05142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 65184,
+          "vehicle": 0,
+          "score": 0.5142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 65568,
+          "vehicle": 0,
+          "score": 0.28285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 65931,
+          "vehicle": 0,
+          "score": 0.10285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 66521,
+          "vehicle": 0,
+          "score": 0.36000000000000004,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 66910,
+          "vehicle": 0,
+          "score": 0.025714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 67230,
+          "vehicle": 0,
+          "score": 0.4628571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 67586,
+          "vehicle": 0,
+          "score": 0.5657142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 67989,
+          "vehicle": 0,
+          "score": 0.3085714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 68348,
+          "vehicle": 0,
+          "score": 0.3857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 68716,
+          "vehicle": 0,
+          "score": 0.6171428571428572,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 69047,
+          "vehicle": 0,
+          "score": 0.4114285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 69396,
+          "vehicle": 0,
+          "score": 0.18000000000000002,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 69770,
+          "vehicle": 0,
+          "score": 0.2057142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 70104,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        }
+      ],
+      "vehicle_returns_s": [
+        70714
+      ],
+      "travel_s": 2314,
+      "elapsed_s": 0.0022536960314027965,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "17-21_K1_평일_b2": {
+      "method": "b2",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 61248,
+          "vehicle": 0,
+          "score": 0.07714285714285715,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 61665,
+          "vehicle": 0,
+          "score": 0.2314285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 62084,
+          "vehicle": 0,
+          "score": 0.6171428571428572,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 62452,
+          "vehicle": 0,
+          "score": 0.3857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 62811,
+          "vehicle": 0,
+          "score": 0.3085714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 63236,
+          "vehicle": 0,
+          "score": 0.4628571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 63922,
+          "vehicle": 0,
+          "score": 0.1542857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 64331,
+          "vehicle": 0,
+          "score": 0.54,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 64701,
+          "vehicle": 0,
+          "score": 0.5914285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 65083,
+          "vehicle": 0,
+          "score": 0.43714285714285717,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 65463,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 65854,
+          "vehicle": 0,
+          "score": 0.05142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 66213,
+          "vehicle": 0,
+          "score": 0.5142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 66597,
+          "vehicle": 0,
+          "score": 0.28285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 67137,
+          "vehicle": 0,
+          "score": 0.36000000000000004,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 67786,
+          "vehicle": 0,
+          "score": 0.2057142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 68120,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 68517,
+          "vehicle": 0,
+          "score": 0.18000000000000002,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 68866,
+          "vehicle": 0,
+          "score": 0.4114285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 69327,
+          "vehicle": 0,
+          "score": 0.48857142857142855,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 69806,
+          "vehicle": 0,
+          "score": 0.3342857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 70358,
+          "vehicle": 0,
+          "score": 0.10285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 71032,
+          "vehicle": 0,
+          "score": 0.025714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 71407,
+          "vehicle": 0,
+          "score": 0.5657142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        }
+      ],
+      "vehicle_returns_s": [
+        71914
+      ],
+      "travel_s": 3514,
+      "elapsed_s": 0.01345689600566402,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "17-21_K1_평일_optimized": {
+      "method": "optimized",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 61332,
+          "vehicle": 0,
+          "score": 0.36000000000000004,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 61721,
+          "vehicle": 0,
+          "score": 0.025714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 62041,
+          "vehicle": 0,
+          "score": 0.4628571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 62397,
+          "vehicle": 0,
+          "score": 0.5657142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 62800,
+          "vehicle": 0,
+          "score": 0.3085714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 63159,
+          "vehicle": 0,
+          "score": 0.3857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 63552,
+          "vehicle": 0,
+          "score": 0.18000000000000002,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 63949,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 64283,
+          "vehicle": 0,
+          "score": 0.2057142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 64693,
+          "vehicle": 0,
+          "score": 0.4114285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 65024,
+          "vehicle": 0,
+          "score": 0.6171428571428572,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 65443,
+          "vehicle": 0,
+          "score": 0.2314285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 65810,
+          "vehicle": 0,
+          "score": 0.48857142857142855,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 66192,
+          "vehicle": 0,
+          "score": 0.43714285714285717,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 66574,
+          "vehicle": 0,
+          "score": 0.5914285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 66944,
+          "vehicle": 0,
+          "score": 0.54,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 67302,
+          "vehicle": 0,
+          "score": 0.3342857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 67656,
+          "vehicle": 0,
+          "score": 0.1542857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 68165,
+          "vehicle": 0,
+          "score": 0.10285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 68528,
+          "vehicle": 0,
+          "score": 0.28285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 68912,
+          "vehicle": 0,
+          "score": 0.5142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 69271,
+          "vehicle": 0,
+          "score": 0.05142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 69662,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 70022,
+          "vehicle": 0,
+          "score": 0.07714285714285715,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        }
+      ],
+      "vehicle_returns_s": [
+        70370
+      ],
+      "travel_s": 1970,
+      "elapsed_s": 0.30357769201509655,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "17-21_K2_평일_b1": {
+      "method": "b1",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 61248,
+          "vehicle": 0,
+          "score": 0.07714285714285715,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 61608,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 61988,
+          "vehicle": 0,
+          "score": 0.43714285714285717,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 62348,
+          "vehicle": 0,
+          "score": 0.2314285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 62715,
+          "vehicle": 0,
+          "score": 0.48857142857142855,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 63153,
+          "vehicle": 0,
+          "score": 0.5914285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 63495,
+          "vehicle": 0,
+          "score": 0.3342857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 63849,
+          "vehicle": 0,
+          "score": 0.1542857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 64258,
+          "vehicle": 0,
+          "score": 0.54,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 64825,
+          "vehicle": 0,
+          "score": 0.05142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 65184,
+          "vehicle": 0,
+          "score": 0.5142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 65568,
+          "vehicle": 0,
+          "score": 0.28285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 65931,
+          "vehicle": 0,
+          "score": 0.10285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 66521,
+          "vehicle": 0,
+          "score": 0.36000000000000004,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 66910,
+          "vehicle": 0,
+          "score": 0.025714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 67230,
+          "vehicle": 0,
+          "score": 0.4628571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 67586,
+          "vehicle": 0,
+          "score": 0.5657142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 67989,
+          "vehicle": 0,
+          "score": 0.3085714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 68348,
+          "vehicle": 0,
+          "score": 0.3857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 68716,
+          "vehicle": 0,
+          "score": 0.6171428571428572,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 69047,
+          "vehicle": 0,
+          "score": 0.4114285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 69396,
+          "vehicle": 0,
+          "score": 0.18000000000000002,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 69770,
+          "vehicle": 0,
+          "score": 0.2057142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 70104,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        }
+      ],
+      "vehicle_returns_s": [
+        70714,
+        61200
+      ],
+      "travel_s": 2314,
+      "elapsed_s": 0.0023023199755698442,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "17-21_K2_평일_b2": {
+      "method": "b2",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 61248,
+          "vehicle": 0,
+          "score": 0.07714285714285715,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 61665,
+          "vehicle": 0,
+          "score": 0.2314285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 62084,
+          "vehicle": 0,
+          "score": 0.6171428571428572,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 62452,
+          "vehicle": 0,
+          "score": 0.3857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 62811,
+          "vehicle": 0,
+          "score": 0.3085714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 63236,
+          "vehicle": 0,
+          "score": 0.4628571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 63922,
+          "vehicle": 0,
+          "score": 0.1542857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 64331,
+          "vehicle": 0,
+          "score": 0.54,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 64701,
+          "vehicle": 0,
+          "score": 0.5914285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 65083,
+          "vehicle": 0,
+          "score": 0.43714285714285717,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 65463,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 65854,
+          "vehicle": 0,
+          "score": 0.05142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 66213,
+          "vehicle": 0,
+          "score": 0.5142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 66597,
+          "vehicle": 0,
+          "score": 0.28285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 67137,
+          "vehicle": 0,
+          "score": 0.36000000000000004,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 67786,
+          "vehicle": 0,
+          "score": 0.2057142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 68120,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 68517,
+          "vehicle": 0,
+          "score": 0.18000000000000002,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 68866,
+          "vehicle": 0,
+          "score": 0.4114285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 69327,
+          "vehicle": 0,
+          "score": 0.48857142857142855,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 69806,
+          "vehicle": 0,
+          "score": 0.3342857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 70358,
+          "vehicle": 0,
+          "score": 0.10285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 71032,
+          "vehicle": 0,
+          "score": 0.025714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 71407,
+          "vehicle": 0,
+          "score": 0.5657142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        }
+      ],
+      "vehicle_returns_s": [
+        71914,
+        61200
+      ],
+      "travel_s": 3514,
+      "elapsed_s": 0.01407626800937578,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    },
+    "17-21_K2_평일_optimized": {
+      "method": "optimized",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 0.3
+      },
+      "visits": [
+        {
+          "spot_id": "MOCK_019",
+          "arrival_s": 61294,
+          "vehicle": 0,
+          "score": 0.12857142857142856,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 20",
+          "lat": 36.35643549091278,
+          "lon": 127.35488497965252
+        },
+        {
+          "spot_id": "MOCK_018",
+          "arrival_s": 61693,
+          "vehicle": 0,
+          "score": 0.1542857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 19",
+          "lat": 36.35070278494741,
+          "lon": 127.35203717154205
+        },
+        {
+          "spot_id": "MOCK_011",
+          "arrival_s": 62047,
+          "vehicle": 0,
+          "score": 0.3342857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 12",
+          "lat": 36.34902089317659,
+          "lon": 127.34844739727683
+        },
+        {
+          "spot_id": "MOCK_003",
+          "arrival_s": 62405,
+          "vehicle": 0,
+          "score": 0.54,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 4",
+          "lat": 36.34848053547089,
+          "lon": 127.34406799651559
+        },
+        {
+          "spot_id": "MOCK_001",
+          "arrival_s": 62775,
+          "vehicle": 0,
+          "score": 0.5914285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 2",
+          "lat": 36.35159351876813,
+          "lon": 127.34780774564842
+        },
+        {
+          "spot_id": "MOCK_007",
+          "arrival_s": 63157,
+          "vehicle": 0,
+          "score": 0.43714285714285717,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 8",
+          "lat": 36.3566489433122,
+          "lon": 127.34875594312717
+        },
+        {
+          "spot_id": "MOCK_005",
+          "arrival_s": 63539,
+          "vehicle": 0,
+          "score": 0.48857142857142855,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 6",
+          "lat": 36.359496237547035,
+          "lon": 127.34355448289703
+        },
+        {
+          "spot_id": "MOCK_015",
+          "arrival_s": 63906,
+          "vehicle": 0,
+          "score": 0.2314285714285714,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 16",
+          "lat": 36.36039904231086,
+          "lon": 127.34856523066819
+        },
+        {
+          "spot_id": "MOCK_000",
+          "arrival_s": 64325,
+          "vehicle": 0,
+          "score": 0.6171428571428572,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 1",
+          "lat": 36.36773661406135,
+          "lon": 127.34751442816668
+        },
+        {
+          "spot_id": "MOCK_008",
+          "arrival_s": 64656,
+          "vehicle": 0,
+          "score": 0.4114285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 9",
+          "lat": 36.369299466532645,
+          "lon": 127.34615026339826
+        },
+        {
+          "spot_id": "MOCK_016",
+          "arrival_s": 65066,
+          "vehicle": 0,
+          "score": 0.2057142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 17",
+          "lat": 36.37339845611729,
+          "lon": 127.33934484656562
+        },
+        {
+          "spot_id": "MOCK_014",
+          "arrival_s": 65400,
+          "vehicle": 0,
+          "score": 0.2571428571428571,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 15",
+          "lat": 36.37536193615527,
+          "lon": 127.33851452519983
+        },
+        {
+          "spot_id": "MOCK_017",
+          "arrival_s": 65797,
+          "vehicle": 0,
+          "score": 0.18000000000000002,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 18",
+          "lat": 36.37214089180736,
+          "lon": 127.34480403307822
+        },
+        {
+          "spot_id": "MOCK_009",
+          "arrival_s": 66190,
+          "vehicle": 0,
+          "score": 0.3857142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 10",
+          "lat": 36.370303827303076,
+          "lon": 127.35162519683037
+        },
+        {
+          "spot_id": "MOCK_012",
+          "arrival_s": 66549,
+          "vehicle": 0,
+          "score": 0.3085714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 13",
+          "lat": 36.369770562665536,
+          "lon": 127.35613620710305
+        },
+        {
+          "spot_id": "MOCK_002",
+          "arrival_s": 66952,
+          "vehicle": 0,
+          "score": 0.5657142857142857,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 3",
+          "lat": 36.37427393223052,
+          "lon": 127.36179001939797
+        },
+        {
+          "spot_id": "MOCK_006",
+          "arrival_s": 67308,
+          "vehicle": 0,
+          "score": 0.4628571428571428,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 7",
+          "lat": 36.37229086154565,
+          "lon": 127.36531210440626
+        },
+        {
+          "spot_id": "MOCK_023",
+          "arrival_s": 67628,
+          "vehicle": 0,
+          "score": 0.025714285714285714,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 24",
+          "lat": 36.37170381394989,
+          "lon": 127.36661059927108
+        },
+        {
+          "spot_id": "MOCK_010",
+          "arrival_s": 68017,
+          "vehicle": 0,
+          "score": 0.36000000000000004,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 11",
+          "lat": 36.3663178847386,
+          "lon": 127.36495481548744
+        },
+        {
+          "spot_id": "MOCK_004",
+          "arrival_s": 68477,
+          "vehicle": 0,
+          "score": 0.5142857142857142,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 5",
+          "lat": 36.356407183416216,
+          "lon": 127.3664024713489
+        },
+        {
+          "spot_id": "MOCK_020",
+          "arrival_s": 68908,
+          "vehicle": 0,
+          "score": 0.10285714285714286,
+          "risk_weight": 1.5,
+          "label": "예시 점검지 21",
+          "lat": 36.3483534965998,
+          "lon": 127.3679403880762
+        },
+        {
+          "spot_id": "MOCK_013",
+          "arrival_s": 69271,
+          "vehicle": 0,
+          "score": 0.28285714285714286,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 14",
+          "lat": 36.35131664007896,
+          "lon": 127.36480490000687
+        },
+        {
+          "spot_id": "MOCK_022",
+          "arrival_s": 69669,
+          "vehicle": 0,
+          "score": 0.05142857142857143,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 23",
+          "lat": 36.3569199654683,
+          "lon": 127.36188550572246
+        },
+        {
+          "spot_id": "MOCK_021",
+          "arrival_s": 70039,
+          "vehicle": 0,
+          "score": 0.07714285714285715,
+          "risk_weight": 1.0,
+          "label": "예시 점검지 22",
+          "lat": 36.35948669601617,
+          "lon": 127.35751900859303
+        }
+      ],
+      "vehicle_returns_s": [
+        70387,
+        61200
+      ],
+      "travel_s": 1987,
+      "elapsed_s": 0.3037029909901321,
+      "status": "ok",
+      "score_method": "freq_baseline"
+    }
+  },
+  "evaluation_definition": "unique report records matching visited spot and arrival hour_block",
+  "work_hour_denominator": "vehicles * shift duration in hours",
+  "candidate_definition": "at most max_spots valid geocoded spots ordered by n_reports_train, spot_id",
+  "weekdays_only": true,
+  "holiday_calendar_year": 2024
+}

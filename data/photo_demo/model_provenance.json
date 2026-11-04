@@ -1,0 +1,16 @@
+{
+  "recognizer": {
+    "name": "EasyOCR korean_g2",
+    "software_license": "Apache-2.0",
+    "source": "https://github.com/JaidedAI/EasyOCR",
+    "license_url": "https://raw.githubusercontent.com/JaidedAI/EasyOCR/master/LICENSE"
+  },
+  "detector": {
+    "name": "OpenCV bright quadrilaterals + EasyOCR CRAFT fallback",
+    "craft_license": "MIT",
+    "craft_license_url": "https://raw.githubusercontent.com/clovaai/CRAFT-pytorch/master/LICENSE"
+  },
+  "model_directory": "data/photo_demo/models/easyocr",
+  "plate_font": "NanumGothic bold; Naver Nanum font family",
+  "external_ocr_api": false
+}

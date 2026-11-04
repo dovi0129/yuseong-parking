@@ -1,0 +1,1047 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "7797601": {
+        "pageid": 7797601,
+        "ns": 6,
+        "title": "File:Cat-car Korea.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cat-car_Korea.JPG/1280px-Cat-car_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cat-car_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cat-car_Korea.JPG/1280px-Cat-car_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cat-car_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cat-car_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cat-car_Korea.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7797601",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-09-13 00:58:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cat-car Korea",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Culture of South Korea|History of South Korea|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Litters in South Korea|Single-wheeled vehicles",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Korean <a href=\"https://en.wikipedia.org/wiki/Litter_(vehicle)\" class=\"extiw\" title=\"en:Litter (vehicle)\">litter</a> with a wheel.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-12-31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E5%85%83%E8%AB%9C%E5%A0%B1%E5%93%A1~commonswiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:元諜報員~commonswiki (page does not exist)\">元諜報員</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "106649634": {
+        "pageid": 106649634,
+        "ns": 6,
+        "title": "File:Chevrolet Epica in South Korea Front.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevrolet_Epica_in_South_Korea_Front.jpg/1280px-Chevrolet_Epica_in_South_Korea_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevrolet_Epica_in_South_Korea_Front.jpg/3840px-Chevrolet_Epica_in_South_Korea_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevrolet_Epica_in_South_Korea_Front.jpg/1280px-Chevrolet_Epica_in_South_Korea_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevrolet_Epica_in_South_Korea_Front.jpg/3840px-Chevrolet_Epica_in_South_Korea_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Chevrolet_Epica_in_South_Korea_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Epica_in_South_Korea_Front.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106649634",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-16 17:55:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chevrolet Epica in South Korea Front",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Daewoo Tosca|Self-published work|Chevrolet Epica (V250)|Chevrolet automobiles in South Korea|White Daewoo sedans|Taken with Samsung Galaxy S10 5G",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Daewoo Tosca is GM Korea's mid-size sedan in the 2000s. This car was sold under the name Chevrolet Epica in China and Europe. Daewoo Tosca replaced the emblem with the Chevrolet Epica.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-06-16 11:27:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ox1997cow\" title=\"User:Ox1997cow\">Ox1997cow</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "7877699": {
+        "pageid": 7877699,
+        "ns": 6,
+        "title": "File:Korea-Tongyeong-Chubongdo-Car Ferry-01.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg/1280px-Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 859,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/53/Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg/1280px-Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 859,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/53/Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Chubongdo-Car_Ferry-01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7877699",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-09-23 15:26:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Korea-Tongyeong-Chubongdo-Car Ferry-01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D80|License migration redundant|Transport in Tongyeong|Multimodal transport|Chubong Island|Self-published work|2009 in Tongyeong|Summer in Tongyeong",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chubongdo (Chubong Island) in Tongyeong, South Gyeongsang province, South Korea.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "9 August 2009 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Transferred from <a class=\"external text\" data-mw-original-href=\"http://ko.wikipedia.org\" href=\"https://ko.wikipedia.org\">ko.wikipedia</a>; transferred to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Caspian_blue\" title=\"User:Caspian blue\">User:Caspian blue</a> using <a rel=\"nofollow\" class=\"external text\" href=\"http://tools.wikimedia.de/~magnus/commonshelper.php\">CommonsHelper</a>.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Original uploader was <a href=\"https://ko.wikipedia.org/wiki/User:Asfreeas\" class=\"extiw\" title=\"ko:User:Asfreeas\">Asfreeas</a> at <a class=\"external text\" data-mw-original-href=\"http://ko.wikipedia.org\" href=\"https://ko.wikipedia.org\">ko.wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "CC-BY-SA-3.0; Released under the <a href=\"//commons.wikimedia.org/wiki/GNU_Free_Documentation_License\" class=\"mw-redirect\" title=\"GNU Free Documentation License\">GNU Free Documentation License</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"https://ko.wikipedia.org/wiki/User:Asfreeas\" class=\"extiw\" title=\"ko:User:Asfreeas\">Asfreeas</a> at <a class=\"external text\" data-mw-original-href=\"http://ko.wikipedia.org\" href=\"https://ko.wikipedia.org\">ko.wikipedia</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41622303": {
+        "pageid": 41622303,
+        "ns": 6,
+        "title": "File:National Assembly of Korea Patrol Car.JPG",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/National_Assembly_of_Korea_Patrol_Car.JPG/1280px-National_Assembly_of_Korea_Patrol_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e3/National_Assembly_of_Korea_Patrol_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/National_Assembly_of_Korea_Patrol_Car.JPG/1280px-National_Assembly_of_Korea_Patrol_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e3/National_Assembly_of_Korea_Patrol_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/National_Assembly_of_Korea_Patrol_Car.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:National_Assembly_of_Korea_Patrol_Car.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41622303",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-16 08:20:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "National Assembly of Korea Patrol Car",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|National Assembly Building of South Korea|License migration redundant|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "국회의사당내 순찰차",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyolee2\" title=\"User:Hyolee2\">hyolee2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41707239": {
+        "pageid": 41707239,
+        "ns": 6,
+        "title": "File:Parkinglot in Front of the ROKA 102nd Replacement Battalion 01.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41707239",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-20 06:22:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parkinglot in Front of the ROKA 102nd Replacement Battalion 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Car parks in South Korea|102nd Replacement Battalion (Republic of Korea)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parking lot in Front of the Republic of Korea Army 102nd Replacement Battalion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-05 15:41:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lesmilitaribulsse&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lesmilitaribulsse (page does not exist)\">Lesmilitaribulsse</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41707240": {
+        "pageid": 41707240,
+        "ns": 6,
+        "title": "File:Parkinglot in Front of the ROKA 102nd Replacement Battalion 02.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41707240",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-20 06:22:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parkinglot in Front of the ROKA 102nd Replacement Battalion 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Car parks in South Korea|102nd Replacement Battalion (Republic of Korea)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parking lot in Front of the Republic of Korea Army 102nd Replacement Battalion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-05 15:42:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lesmilitaribulsse&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lesmilitaribulsse (page does not exist)\">Lesmilitaribulsse</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41707243": {
+        "pageid": 41707243,
+        "ns": 6,
+        "title": "File:Parkinglot in Front of the ROKA 102nd Replacement Battalion 03.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41707243",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-20 06:22:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parkinglot in Front of the ROKA 102nd Replacement Battalion 03",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Car parks in South Korea|102nd Replacement Battalion (Republic of Korea)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parking lot in Front of the Republic of Korea Army 102nd Replacement Battalion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-05 15:38:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lesmilitaribulsse&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lesmilitaribulsse (page does not exist)\">Lesmilitaribulsse</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41707312": {
+        "pageid": 41707312,
+        "ns": 6,
+        "title": "File:Parkinglot in Front of the ROKA 102nd Replacement Battalion 04.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_04.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41707312",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-20 06:30:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parkinglot in Front of the ROKA 102nd Replacement Battalion 04",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Car parks in South Korea|102nd Replacement Battalion (Republic of Korea)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parking lot in Front of the Republic of Korea Army 102nd Replacement Battalion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-05 15:39:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lesmilitaribulsse&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lesmilitaribulsse (page does not exist)\">Lesmilitaribulsse</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41707313": {
+        "pageid": 41707313,
+        "ns": 6,
+        "title": "File:Parkinglot in Front of the ROKA 102nd Replacement Battalion 05.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg/1280px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg/3840px-Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parkinglot_in_Front_of_the_ROKA_102nd_Replacement_Battalion_05.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41707313",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-20 06:30:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Parkinglot in Front of the ROKA 102nd Replacement Battalion 05",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Car parks in South Korea|102nd Replacement Battalion (Republic of Korea)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parking lot in Front of the Republic of Korea Army 102nd Replacement Battalion",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-05 15:40:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lesmilitaribulsse&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lesmilitaribulsse (page does not exist)\">Lesmilitaribulsse</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "34787597": {
+        "pageid": 34787597,
+        "ns": 6,
+        "title": "File:South Korean License Plate for Commercial Passenger car - Sejong.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg/1280px-South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1280,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg/1280px-South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1280,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:South_Korean_License_Plate_for_Commercial_Passenger_car_-_Sejong.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34787597",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-08-16 22:49:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "South Korean License Plate for Commercial Passenger car - Sejong",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Daewoo buses|License migration redundant|Buses in Sejong|Self-published work|Automobiles with license plates of South Korea|Daewoo logos on objects",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "대한민국의 차량 번호판 중 사업용 승용차(버스) 번호판 - 세종특별자치시",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-07-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyolee2\" title=\"User:Hyolee2\">hyolee2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "formula": "risk_weight = 1 + 0.5 I(dist_school_m<=300) + 0.5 child_zone_300m + 0.5 min(accidents_200m/10,1)",
+  "range": [
+    1,
+    2.5
+  ],
+  "child_zone_300m": "어린이보호구역 지정시설 점좌표에서 300m 이내; 법적 구역 내부 아님",
+  "distance": "EPSG:5179 평면 직선거리(m)",
+  "accidents": "2017~2021 유성구 내부 사고 건수; 반경 200m",
+  "temporal_use": "학교·보호구역은 현재 공개 시설; 사고는 2021년까지. 사전 고정한 정책 가중치이며 최종 평가로 조정하지 않음",
+  "missing_coordinates": "거리·보호구역·사고수는 결측, risk_weight=1; 경로 후보에서 제외",
+  "normalization": "지번형은 동+산 여부+본번+부번; 같은 지번의 건물·부근 꼬리 병합; 장소명은 접두·부근/주변/인근 꼬리만 제거. 좌표 근접 병합 없음"
+}

@@ -1,0 +1,2154 @@
+{
+  "reference_sha256": {
+    "plans_frozen.json": "b1e9c51aaacf9f18aad5b5e51ed099989b021191ff83431087487d7e772e4c0c",
+    "evaluation_daily.csv": "efd522a7e0812240e6002bdcaf3a3c0fb1405de91471793526f77c819dd57b9a",
+    "evaluation_summary.csv": "14af81e96a597626f336d6e10f725e5f6a21dff2f70a3dddccd763e29c5bc1c6",
+    "evaluation_paired.csv": "0b0e273cdb06d82a657d6c88595de166ee45c37e34af0746a47790fd6046d8a7"
+  },
+  "plans": {
+    "10-14_K1_평일_b3": {
+      "method": "b3",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 30.0
+      },
+      "visits": [
+        {
+          "spot_id": "S876bfeb3c3dd25b7",
+          "arrival_s": 36227,
+          "vehicle": 0,
+          "score": 0.1255711161376117,
+          "risk_weight": 1.5,
+          "label": "궁동 490-18",
+          "lat": 36.3604543769501,
+          "lon": 127.345111682313
+        },
+        {
+          "spot_id": "S1e162e2fd1e5d28a",
+          "arrival_s": 36634,
+          "vehicle": 0,
+          "score": 0.13556541307318912,
+          "risk_weight": 1.5,
+          "label": "봉명동 652-6",
+          "lat": 36.3574632219533,
+          "lon": 127.348178621714
+        },
+        {
+          "spot_id": "S82f5ea16f29626ce",
+          "arrival_s": 37004,
+          "vehicle": 0,
+          "score": 0.157166644127392,
+          "risk_weight": 1.5,
+          "label": "봉명동 680-3",
+          "lat": 36.3576095535688,
+          "lon": 127.351509325173
+        },
+        {
+          "spot_id": "S524605fd3329b066",
+          "arrival_s": 37304,
+          "vehicle": 0,
+          "score": 0.11861426759813185,
+          "risk_weight": 1.5,
+          "label": "봉명동 676-4",
+          "lat": 36.3579828119216,
+          "lon": 127.351512117693
+        },
+        {
+          "spot_id": "S3d9fe3b6b5abf9c6",
+          "arrival_s": 37604,
+          "vehicle": 0,
+          "score": 0.10309866728488679,
+          "risk_weight": 1.5,
+          "label": "봉명동 677-1",
+          "lat": 36.3579041686982,
+          "lon": 127.352114292969
+        },
+        {
+          "spot_id": "Sdb43a3c978e20c28",
+          "arrival_s": 38046,
+          "vehicle": 0,
+          "score": 0.07619136639712346,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-4",
+          "lat": 36.3551748145471,
+          "lon": 127.344622233862
+        },
+        {
+          "spot_id": "S37c621ac56c2b9e1",
+          "arrival_s": 38351,
+          "vehicle": 0,
+          "score": 0.14098833665029736,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-3",
+          "lat": 36.3552723685161,
+          "lon": 127.343698623996
+        },
+        {
+          "spot_id": "S01a5ab2cd417ed71",
+          "arrival_s": 38664,
+          "vehicle": 0,
+          "score": 0.05232360631643883,
+          "risk_weight": 1.5,
+          "label": "봉명동 550-1",
+          "lat": 36.3548934017127,
+          "lon": 127.343330307331
+        },
+        {
+          "spot_id": "S77eda66803300a25",
+          "arrival_s": 38964,
+          "vehicle": 0,
+          "score": 0.06055529032065648,
+          "risk_weight": 1.5,
+          "label": "봉명동 551-3",
+          "lat": 36.3550204192724,
+          "lon": 127.342876311143
+        },
+        {
+          "spot_id": "Sbbbe7f57f2196bef",
+          "arrival_s": 39311,
+          "vehicle": 0,
+          "score": 0.04369384485799839,
+          "risk_weight": 2.0,
+          "label": "봉명동 445-13",
+          "lat": 36.3551516866318,
+          "lon": 127.339701465262
+        },
+        {
+          "spot_id": "Sc5769336e986c5ef",
+          "arrival_s": 39735,
+          "vehicle": 0,
+          "score": 0.031008031494879826,
+          "risk_weight": 2.5,
+          "label": "장대동 352-1",
+          "lat": 36.3617754720207,
+          "lon": 127.336815616718
+        },
+        {
+          "spot_id": "S673b466d980d89be",
+          "arrival_s": 40208,
+          "vehicle": 0,
+          "score": 0.07648146090992125,
+          "risk_weight": 2.0,
+          "label": "죽동 707-6",
+          "lat": 36.3687431985208,
+          "lon": 127.338272506725
+        },
+        {
+          "spot_id": "S611cdf582f32164e",
+          "arrival_s": 40528,
+          "vehicle": 0,
+          "score": 0.034120353152868876,
+          "risk_weight": 2.5,
+          "label": "죽동 704-1",
+          "lat": 36.3696507227656,
+          "lon": 127.338098257007
+        },
+        {
+          "spot_id": "Sf7218f8f60cd3281",
+          "arrival_s": 40839,
+          "vehicle": 0,
+          "score": 0.038868979196249466,
+          "risk_weight": 2.5,
+          "label": "죽동 700-3",
+          "lat": 36.3697534405734,
+          "lon": 127.337625898403
+        },
+        {
+          "spot_id": "S5fa9a182fe160d3a",
+          "arrival_s": 41387,
+          "vehicle": 0,
+          "score": 0.06144281410357547,
+          "risk_weight": 2.5,
+          "label": "노은동 535-24",
+          "lat": 36.3678276735111,
+          "lon": 127.323208524094
+        },
+        {
+          "spot_id": "S7d565392442fa2e1",
+          "arrival_s": 41733,
+          "vehicle": 0,
+          "score": 0.1013671975991695,
+          "risk_weight": 2.5,
+          "label": "노은동 534-1",
+          "lat": 36.367510118943,
+          "lon": 127.320626088674
+        },
+        {
+          "spot_id": "S57cab47cf8f06b66",
+          "arrival_s": 42033,
+          "vehicle": 0,
+          "score": 0.05677645902151165,
+          "risk_weight": 2.5,
+          "label": "노은동 550-7",
+          "lat": 36.3675111422835,
+          "lon": 127.320210911505
+        },
+        {
+          "spot_id": "S57075fafb3b434a4",
+          "arrival_s": 42362,
+          "vehicle": 0,
+          "score": 0.03970368366879287,
+          "risk_weight": 2.5,
+          "label": "노은동 550-3",
+          "lat": 36.3675988881972,
+          "lon": 127.319413555866
+        },
+        {
+          "spot_id": "S15c66054238642ab",
+          "arrival_s": 42731,
+          "vehicle": 0,
+          "score": 0.03867046923013351,
+          "risk_weight": 2.0,
+          "label": "노은동 553-8",
+          "lat": 36.3662619213997,
+          "lon": 127.317277061449
+        },
+        {
+          "spot_id": "Sf601e77adfc56fba",
+          "arrival_s": 43055,
+          "vehicle": 0,
+          "score": 0.06043945637773821,
+          "risk_weight": 2.5,
+          "label": "노은동 554-3",
+          "lat": 36.3659962105582,
+          "lon": 127.316376328991
+        },
+        {
+          "spot_id": "S6e1784c5991cde92",
+          "arrival_s": 43355,
+          "vehicle": 0,
+          "score": 0.09072180297978752,
+          "risk_weight": 1.5,
+          "label": "노은동 555-6",
+          "lat": 36.3653561509425,
+          "lon": 127.316801610291
+        },
+        {
+          "spot_id": "S536157b1873cdeea",
+          "arrival_s": 43676,
+          "vehicle": 0,
+          "score": 0.06408621103906209,
+          "risk_weight": 2.5,
+          "label": "노은동 554-1",
+          "lat": 36.3658603991279,
+          "lon": 127.315833023958
+        },
+        {
+          "spot_id": "S546d80118908d827",
+          "arrival_s": 43976,
+          "vehicle": 0,
+          "score": 0.04273660394904788,
+          "risk_weight": 2.5,
+          "label": "노은동 555-2",
+          "lat": 36.3653592705744,
+          "lon": 127.315997913573
+        },
+        {
+          "spot_id": "Sf2ef069b2bda5b10",
+          "arrival_s": 44284,
+          "vehicle": 0,
+          "score": 0.03657502508465829,
+          "risk_weight": 2.5,
+          "label": "노은동 555-11",
+          "lat": 36.3651812532287,
+          "lon": 127.315670384657
+        },
+        {
+          "spot_id": "S1caad5f800db204f",
+          "arrival_s": 44635,
+          "vehicle": 0,
+          "score": 0.0456272171193789,
+          "risk_weight": 2.5,
+          "label": "노은동 553-6",
+          "lat": 36.3663765684189,
+          "lon": 127.316420879471
+        },
+        {
+          "spot_id": "S605bbc313bd12e89",
+          "arrival_s": 45039,
+          "vehicle": 0,
+          "score": 0.040332779868921594,
+          "risk_weight": 2.5,
+          "label": "노은동 516-12",
+          "lat": 36.3674372763216,
+          "lon": 127.315695766123
+        },
+        {
+          "spot_id": "S6598665131dc675a",
+          "arrival_s": 45487,
+          "vehicle": 0,
+          "score": 0.055469207176838974,
+          "risk_weight": 2.5,
+          "label": "지족동 884-1",
+          "lat": 36.375753387664,
+          "lon": 127.315460352668
+        },
+        {
+          "spot_id": "S13126bfde3e3362a",
+          "arrival_s": 45868,
+          "vehicle": 0,
+          "score": 0.03256460566748085,
+          "risk_weight": 2.5,
+          "label": "지족동 912-17",
+          "lat": 36.3754910335097,
+          "lon": 127.320479868359
+        },
+        {
+          "spot_id": "S3717a5b89438c1dc",
+          "arrival_s": 46183,
+          "vehicle": 0,
+          "score": 0.03033394385368679,
+          "risk_weight": 2.5,
+          "label": "지족동 916-1",
+          "lat": 36.3748338918386,
+          "lon": 127.320750865874
+        },
+        {
+          "spot_id": "Se9b612f42464858e",
+          "arrival_s": 46622,
+          "vehicle": 0,
+          "score": 0.05709498801661895,
+          "risk_weight": 1.7,
+          "label": "죽동 625",
+          "lat": 36.3798446002575,
+          "lon": 127.325710270595
+        },
+        {
+          "spot_id": "S3f8f14bf1b6b4afd",
+          "arrival_s": 47101,
+          "vehicle": 0,
+          "score": 0.03503266206069959,
+          "risk_weight": 2.4,
+          "label": "지족동 848-1",
+          "lat": 36.3816507777674,
+          "lon": 127.317185874993
+        },
+        {
+          "spot_id": "S95c3d80a689f4880",
+          "arrival_s": 47429,
+          "vehicle": 0,
+          "score": 0.07112501642219676,
+          "risk_weight": 2.5,
+          "label": "지족동 842-1",
+          "lat": 36.3829677652856,
+          "lon": 127.31802765744
+        },
+        {
+          "spot_id": "Sd30d523e5f28f059",
+          "arrival_s": 47786,
+          "vehicle": 0,
+          "score": 0.13823971082110575,
+          "risk_weight": 1.5,
+          "label": "지족동 987-3",
+          "lat": 36.3857991696552,
+          "lon": 127.318327185516
+        },
+        {
+          "spot_id": "S25f080f4ea01dcad",
+          "arrival_s": 48221,
+          "vehicle": 0,
+          "score": 0.04457833564459755,
+          "risk_weight": 2.5,
+          "label": "하기동 533-1",
+          "lat": 36.3868747101556,
+          "lon": 127.323961201942
+        },
+        {
+          "spot_id": "Sae964e5e7f66bed9",
+          "arrival_s": 49011,
+          "vehicle": 0,
+          "score": 0.03033394385368679,
+          "risk_weight": 2.5,
+          "label": "신성동 216-1",
+          "lat": 36.3867268685106,
+          "lon": 127.349828079635
+        }
+      ],
+      "vehicle_returns_s": [
+        49974
+      ],
+      "travel_s": 3474,
+      "elapsed_s": 0.04661850800039247,
+      "status": "ok",
+      "score_method": "shrinkage",
+      "seed_expected_weighted": null,
+      "seed_expected_reports": null,
+      "initial_assignment_used": false,
+      "incumbent_source": ""
+    },
+    "10-14_K2_평일_b3": {
+      "method": "b3",
+      "config": {
+        "start_min": 600,
+        "end_min": 840,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 30.0
+      },
+      "visits": [
+        {
+          "spot_id": "S876bfeb3c3dd25b7",
+          "arrival_s": 36227,
+          "vehicle": 0,
+          "score": 0.1255711161376117,
+          "risk_weight": 1.5,
+          "label": "궁동 490-18",
+          "lat": 36.3604543769501,
+          "lon": 127.345111682313
+        },
+        {
+          "spot_id": "See77b685458dcef8",
+          "arrival_s": 36598,
+          "vehicle": 0,
+          "score": 0.04476395707756059,
+          "risk_weight": 1.5,
+          "label": "봉명동 650",
+          "lat": 36.3579145467475,
+          "lon": 127.347274944244
+        },
+        {
+          "spot_id": "Sec6bab1e7bfab76e",
+          "arrival_s": 36934,
+          "vehicle": 0,
+          "score": 0.04862900771933804,
+          "risk_weight": 1.5,
+          "label": "봉명동 656-8",
+          "lat": 36.3567463197331,
+          "lon": 127.348555569012
+        },
+        {
+          "spot_id": "S1e162e2fd1e5d28a",
+          "arrival_s": 37234,
+          "vehicle": 0,
+          "score": 0.13556541307318912,
+          "risk_weight": 1.5,
+          "label": "봉명동 652-6",
+          "lat": 36.3574632219533,
+          "lon": 127.348178621714
+        },
+        {
+          "spot_id": "Saeb62ebc5426b245",
+          "arrival_s": 37593,
+          "vehicle": 0,
+          "score": 0.04734717636786449,
+          "risk_weight": 1.5,
+          "label": "봉명동 645-1",
+          "lat": 36.3580686102245,
+          "lon": 127.348278583039
+        },
+        {
+          "spot_id": "S82f5ea16f29626ce",
+          "arrival_s": 37935,
+          "vehicle": 0,
+          "score": 0.157166644127392,
+          "risk_weight": 1.5,
+          "label": "봉명동 680-3",
+          "lat": 36.3576095535688,
+          "lon": 127.351509325173
+        },
+        {
+          "spot_id": "S524605fd3329b066",
+          "arrival_s": 38235,
+          "vehicle": 0,
+          "score": 0.11861426759813185,
+          "risk_weight": 1.5,
+          "label": "봉명동 676-4",
+          "lat": 36.3579828119216,
+          "lon": 127.351512117693
+        },
+        {
+          "spot_id": "S3d9fe3b6b5abf9c6",
+          "arrival_s": 38535,
+          "vehicle": 0,
+          "score": 0.10309866728488679,
+          "risk_weight": 1.5,
+          "label": "봉명동 677-1",
+          "lat": 36.3579041686982,
+          "lon": 127.352114292969
+        },
+        {
+          "spot_id": "S77f9a251fb5f76e0",
+          "arrival_s": 38932,
+          "vehicle": 0,
+          "score": 0.03682901831441286,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-6",
+          "lat": 36.3547763319491,
+          "lon": 127.347850808295
+        },
+        {
+          "spot_id": "S37c621ac56c2b9e1",
+          "arrival_s": 39286,
+          "vehicle": 0,
+          "score": 0.14098833665029736,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-3",
+          "lat": 36.3552723685161,
+          "lon": 127.343698623996
+        },
+        {
+          "spot_id": "Sdb43a3c978e20c28",
+          "arrival_s": 39591,
+          "vehicle": 0,
+          "score": 0.07619136639712346,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-4",
+          "lat": 36.3551748145471,
+          "lon": 127.344622233862
+        },
+        {
+          "spot_id": "S01a5ab2cd417ed71",
+          "arrival_s": 39908,
+          "vehicle": 0,
+          "score": 0.05232360631643883,
+          "risk_weight": 1.5,
+          "label": "봉명동 550-1",
+          "lat": 36.3548934017127,
+          "lon": 127.343330307331
+        },
+        {
+          "spot_id": "S77eda66803300a25",
+          "arrival_s": 40208,
+          "vehicle": 0,
+          "score": 0.06055529032065648,
+          "risk_weight": 1.5,
+          "label": "봉명동 551-3",
+          "lat": 36.3550204192724,
+          "lon": 127.342876311143
+        },
+        {
+          "spot_id": "Sbbbe7f57f2196bef",
+          "arrival_s": 40555,
+          "vehicle": 0,
+          "score": 0.04369384485799839,
+          "risk_weight": 2.0,
+          "label": "봉명동 445-13",
+          "lat": 36.3551516866318,
+          "lon": 127.339701465262
+        },
+        {
+          "spot_id": "S1ee2ad976498d789",
+          "arrival_s": 40959,
+          "vehicle": 0,
+          "score": 0.027993361766210954,
+          "risk_weight": 2.5,
+          "label": "봉명동 1016-9",
+          "lat": 36.3522411879076,
+          "lon": 127.343756599321
+        },
+        {
+          "spot_id": "Sc5769336e986c5ef",
+          "arrival_s": 41473,
+          "vehicle": 0,
+          "score": 0.031008031494879826,
+          "risk_weight": 2.5,
+          "label": "장대동 352-1",
+          "lat": 36.3617754720207,
+          "lon": 127.336815616718
+        },
+        {
+          "spot_id": "S99ca16de6e1fd5ef",
+          "arrival_s": 41805,
+          "vehicle": 0,
+          "score": 0.0271968135244895,
+          "risk_weight": 2.5,
+          "label": "장대동 327-11",
+          "lat": 36.3633251278,
+          "lon": 127.335278986541
+        },
+        {
+          "spot_id": "S673b466d980d89be",
+          "arrival_s": 42295,
+          "vehicle": 0,
+          "score": 0.07648146090992125,
+          "risk_weight": 2.0,
+          "label": "죽동 707-6",
+          "lat": 36.3687431985208,
+          "lon": 127.338272506725
+        },
+        {
+          "spot_id": "S611cdf582f32164e",
+          "arrival_s": 42615,
+          "vehicle": 0,
+          "score": 0.034120353152868876,
+          "risk_weight": 2.5,
+          "label": "죽동 704-1",
+          "lat": 36.3696507227656,
+          "lon": 127.338098257007
+        },
+        {
+          "spot_id": "Sf7218f8f60cd3281",
+          "arrival_s": 42926,
+          "vehicle": 0,
+          "score": 0.038868979196249466,
+          "risk_weight": 2.5,
+          "label": "죽동 700-3",
+          "lat": 36.3697534405734,
+          "lon": 127.337625898403
+        },
+        {
+          "spot_id": "S5fa9a182fe160d3a",
+          "arrival_s": 43474,
+          "vehicle": 0,
+          "score": 0.06144281410357547,
+          "risk_weight": 2.5,
+          "label": "노은동 535-24",
+          "lat": 36.3678276735111,
+          "lon": 127.323208524094
+        },
+        {
+          "spot_id": "Sb18b537f8bf3048b",
+          "arrival_s": 43801,
+          "vehicle": 0,
+          "score": 0.02584002624573319,
+          "risk_weight": 2.5,
+          "label": "노은동 534-6",
+          "lat": 36.3675925386884,
+          "lon": 127.3218132495
+        },
+        {
+          "spot_id": "Se9b252419c3440af",
+          "arrival_s": 44132,
+          "vehicle": 0,
+          "score": 0.02946321465153029,
+          "risk_weight": 2.5,
+          "label": "노은동 548-9",
+          "lat": 36.3679731308513,
+          "lon": 127.320260718977
+        },
+        {
+          "spot_id": "S7d565392442fa2e1",
+          "arrival_s": 44445,
+          "vehicle": 0,
+          "score": 0.1013671975991695,
+          "risk_weight": 2.5,
+          "label": "노은동 534-1",
+          "lat": 36.367510118943,
+          "lon": 127.320626088674
+        },
+        {
+          "spot_id": "S57cab47cf8f06b66",
+          "arrival_s": 44745,
+          "vehicle": 0,
+          "score": 0.05677645902151165,
+          "risk_weight": 2.5,
+          "label": "노은동 550-7",
+          "lat": 36.3675111422835,
+          "lon": 127.320210911505
+        },
+        {
+          "spot_id": "S57075fafb3b434a4",
+          "arrival_s": 45074,
+          "vehicle": 0,
+          "score": 0.03970368366879287,
+          "risk_weight": 2.5,
+          "label": "노은동 550-3",
+          "lat": 36.3675988881972,
+          "lon": 127.319413555866
+        },
+        {
+          "spot_id": "S36dd722825fc93ed",
+          "arrival_s": 45437,
+          "vehicle": 0,
+          "score": 0.025780312820089007,
+          "risk_weight": 2.5,
+          "label": "노은동 516-11",
+          "lat": 36.3674363613956,
+          "lon": 127.31600776105
+        },
+        {
+          "spot_id": "S605bbc313bd12e89",
+          "arrival_s": 45763,
+          "vehicle": 0,
+          "score": 0.040332779868921594,
+          "risk_weight": 2.5,
+          "label": "노은동 516-12",
+          "lat": 36.3674372763216,
+          "lon": 127.315695766123
+        },
+        {
+          "spot_id": "S15c66054238642ab",
+          "arrival_s": 46153,
+          "vehicle": 0,
+          "score": 0.03867046923013351,
+          "risk_weight": 2.0,
+          "label": "노은동 553-8",
+          "lat": 36.3662619213997,
+          "lon": 127.317277061449
+        },
+        {
+          "spot_id": "Sf601e77adfc56fba",
+          "arrival_s": 46477,
+          "vehicle": 0,
+          "score": 0.06043945637773821,
+          "risk_weight": 2.5,
+          "label": "노은동 554-3",
+          "lat": 36.3659962105582,
+          "lon": 127.316376328991
+        },
+        {
+          "spot_id": "S6e1784c5991cde92",
+          "arrival_s": 46777,
+          "vehicle": 0,
+          "score": 0.09072180297978752,
+          "risk_weight": 1.5,
+          "label": "노은동 555-6",
+          "lat": 36.3653561509425,
+          "lon": 127.316801610291
+        },
+        {
+          "spot_id": "Sa94aa925fd9d5b63",
+          "arrival_s": 47077,
+          "vehicle": 0,
+          "score": 0.04309386823932006,
+          "risk_weight": 1.5,
+          "label": "노은동 562-1",
+          "lat": 36.365355497811,
+          "lon": 127.317149699683
+        },
+        {
+          "spot_id": "S35fb63e9855e410b",
+          "arrival_s": 47377,
+          "vehicle": 0,
+          "score": 0.025390671817069815,
+          "risk_weight": 2.5,
+          "label": "노은동 555-4",
+          "lat": 36.3653591334989,
+          "lon": 127.316322160109
+        },
+        {
+          "spot_id": "S536157b1873cdeea",
+          "arrival_s": 47698,
+          "vehicle": 0,
+          "score": 0.06408621103906209,
+          "risk_weight": 2.5,
+          "label": "노은동 554-1",
+          "lat": 36.3658603991279,
+          "lon": 127.315833023958
+        },
+        {
+          "spot_id": "S546d80118908d827",
+          "arrival_s": 47998,
+          "vehicle": 0,
+          "score": 0.04273660394904788,
+          "risk_weight": 2.5,
+          "label": "노은동 555-2",
+          "lat": 36.3653592705744,
+          "lon": 127.315997913573
+        },
+        {
+          "spot_id": "Sf2ef069b2bda5b10",
+          "arrival_s": 48306,
+          "vehicle": 0,
+          "score": 0.03657502508465829,
+          "risk_weight": 2.5,
+          "label": "노은동 555-11",
+          "lat": 36.3651812532287,
+          "lon": 127.315670384657
+        },
+        {
+          "spot_id": "S800653187437a83e",
+          "arrival_s": 48606,
+          "vehicle": 0,
+          "score": 0.027360027789599846,
+          "risk_weight": 2.5,
+          "label": "노은동 604",
+          "lat": 36.3650598032577,
+          "lon": 127.315386652534
+        },
+        {
+          "spot_id": "S1caad5f800db204f",
+          "arrival_s": 48957,
+          "vehicle": 0,
+          "score": 0.0456272171193789,
+          "risk_weight": 2.5,
+          "label": "노은동 553-6",
+          "lat": 36.3663765684189,
+          "lon": 127.316420879471
+        },
+        {
+          "spot_id": "Sa24bf5781f32d26a",
+          "arrival_s": 49396,
+          "vehicle": 0,
+          "score": 0.03207727396022051,
+          "risk_weight": 2.0,
+          "label": "지족동 893-1",
+          "lat": 36.3735999876775,
+          "lon": 127.316738196257
+        },
+        {
+          "spot_id": "S1eda0b3090d7f642",
+          "arrival_s": 36490,
+          "vehicle": 1,
+          "score": 0.03670959146312449,
+          "risk_weight": 2.5,
+          "label": "상대동 440-8",
+          "lat": 36.3482218504504,
+          "lon": 127.332385313216
+        },
+        {
+          "spot_id": "Sbe49dca790c7039b",
+          "arrival_s": 37027,
+          "vehicle": 1,
+          "score": 0.029531458566552215,
+          "risk_weight": 2.5,
+          "label": "원신흥동 491-5",
+          "lat": 36.342798194398,
+          "lon": 127.343291800267
+        },
+        {
+          "spot_id": "Sfcd8a2cf4bd047b2",
+          "arrival_s": 37352,
+          "vehicle": 1,
+          "score": 0.03270378321725607,
+          "risk_weight": 2.5,
+          "label": "원신흥동 491-14",
+          "lat": 36.3422754541854,
+          "lon": 127.343311784415
+        },
+        {
+          "spot_id": "S7b3e031a21690ec0",
+          "arrival_s": 37907,
+          "vehicle": 1,
+          "score": 0.027950215347016364,
+          "risk_weight": 2.5,
+          "label": "원신흥동 553-14",
+          "lat": 36.3342196907135,
+          "lon": 127.339890461022
+        },
+        {
+          "spot_id": "S53cc65ef61965532",
+          "arrival_s": 38757,
+          "vehicle": 1,
+          "score": 0.05074123918993361,
+          "risk_weight": 1.5,
+          "label": "학하동 714-9",
+          "lat": 36.341860045378,
+          "lon": 127.307207943224
+        },
+        {
+          "spot_id": "S6598665131dc675a",
+          "arrival_s": 39782,
+          "vehicle": 1,
+          "score": 0.055469207176838974,
+          "risk_weight": 2.5,
+          "label": "지족동 884-1",
+          "lat": 36.375753387664,
+          "lon": 127.315460352668
+        },
+        {
+          "spot_id": "S5515a1866c83bb61",
+          "arrival_s": 40099,
+          "vehicle": 1,
+          "score": 0.022079958703040047,
+          "risk_weight": 2.5,
+          "label": "지족동 898-1",
+          "lat": 36.3756046948664,
+          "lon": 127.31685620348
+        },
+        {
+          "spot_id": "S13126bfde3e3362a",
+          "arrival_s": 40464,
+          "vehicle": 1,
+          "score": 0.03256460566748085,
+          "risk_weight": 2.5,
+          "label": "지족동 912-17",
+          "lat": 36.3754910335097,
+          "lon": 127.320479868359
+        },
+        {
+          "spot_id": "S3717a5b89438c1dc",
+          "arrival_s": 40779,
+          "vehicle": 1,
+          "score": 0.03033394385368679,
+          "risk_weight": 2.5,
+          "label": "지족동 916-1",
+          "lat": 36.3748338918386,
+          "lon": 127.320750865874
+        },
+        {
+          "spot_id": "S3abb79aa419cc4fc",
+          "arrival_s": 41094,
+          "vehicle": 1,
+          "score": 0.025390671817069815,
+          "risk_weight": 2.5,
+          "label": "지족동 907-25",
+          "lat": 36.3739114840747,
+          "lon": 127.320469934333
+        },
+        {
+          "spot_id": "S6185223b0f27d640",
+          "arrival_s": 41487,
+          "vehicle": 1,
+          "score": 0.02584002624573319,
+          "risk_weight": 2.5,
+          "label": "지족동 922",
+          "lat": 36.3760994172764,
+          "lon": 127.324385676084
+        },
+        {
+          "spot_id": "Se9b612f42464858e",
+          "arrival_s": 41848,
+          "vehicle": 1,
+          "score": 0.05709498801661895,
+          "risk_weight": 1.7,
+          "label": "죽동 625",
+          "lat": 36.3798446002575,
+          "lon": 127.325710270595
+        },
+        {
+          "spot_id": "S3f8f14bf1b6b4afd",
+          "arrival_s": 42327,
+          "vehicle": 1,
+          "score": 0.03503266206069959,
+          "risk_weight": 2.4,
+          "label": "지족동 848-1",
+          "lat": 36.3816507777674,
+          "lon": 127.317185874993
+        },
+        {
+          "spot_id": "S95c3d80a689f4880",
+          "arrival_s": 42655,
+          "vehicle": 1,
+          "score": 0.07112501642219676,
+          "risk_weight": 2.5,
+          "label": "지족동 842-1",
+          "lat": 36.3829677652856,
+          "lon": 127.31802765744
+        },
+        {
+          "spot_id": "Sf3843d7b4145fb9e",
+          "arrival_s": 42955,
+          "vehicle": 1,
+          "score": 0.026647527065912353,
+          "risk_weight": 2.5,
+          "label": "지족동 843-9",
+          "lat": 36.3830474832191,
+          "lon": 127.31777019741
+        },
+        {
+          "spot_id": "Sd30d523e5f28f059",
+          "arrival_s": 43312,
+          "vehicle": 1,
+          "score": 0.13823971082110575,
+          "risk_weight": 1.5,
+          "label": "지족동 987-3",
+          "lat": 36.3857991696552,
+          "lon": 127.318327185516
+        },
+        {
+          "spot_id": "Sa6e6fd6e27e0ce44",
+          "arrival_s": 43627,
+          "vehicle": 1,
+          "score": 0.03788127598053895,
+          "risk_weight": 1.5,
+          "label": "지족동 987-1",
+          "lat": 36.3861469049487,
+          "lon": 127.31796503754
+        },
+        {
+          "spot_id": "S25f080f4ea01dcad",
+          "arrival_s": 44051,
+          "vehicle": 1,
+          "score": 0.04457833564459755,
+          "risk_weight": 2.5,
+          "label": "하기동 533-1",
+          "lat": 36.3868747101556,
+          "lon": 127.323961201942
+        },
+        {
+          "spot_id": "S45cce5406f4d46b7",
+          "arrival_s": 44351,
+          "vehicle": 1,
+          "score": 0.0271968135244895,
+          "risk_weight": 2.5,
+          "label": "하기동 525",
+          "lat": 36.3866408546454,
+          "lon": 127.323795612084
+        },
+        {
+          "spot_id": "Sd5b041256e516d08",
+          "arrival_s": 45102,
+          "vehicle": 1,
+          "score": 0.02584002624573319,
+          "risk_weight": 2.4,
+          "label": "신성동 162-11",
+          "lat": 36.3891561473271,
+          "lon": 127.348257248892
+        },
+        {
+          "spot_id": "S39db4f28a24f4d39",
+          "arrival_s": 45409,
+          "vehicle": 1,
+          "score": 0.02291003233849268,
+          "risk_weight": 2.5,
+          "label": "신성동 141-4",
+          "lat": 36.3895577788419,
+          "lon": 127.34814044727
+        },
+        {
+          "spot_id": "S68366c2a2e00b8fa",
+          "arrival_s": 45742,
+          "vehicle": 1,
+          "score": 0.022079958703040047,
+          "risk_weight": 2.5,
+          "label": "신성동 137-1",
+          "lat": 36.3904363187168,
+          "lon": 127.349717410477
+        },
+        {
+          "spot_id": "S9f1eef2bc4fb00d1",
+          "arrival_s": 46067,
+          "vehicle": 1,
+          "score": 0.023523710654049974,
+          "risk_weight": 2.5,
+          "label": "신성동 122-2",
+          "lat": 36.3917049707141,
+          "lon": 127.350122351915
+        },
+        {
+          "spot_id": "S3db340bf4b830cd6",
+          "arrival_s": 46380,
+          "vehicle": 1,
+          "score": 0.06774738219984687,
+          "risk_weight": 1.5,
+          "label": "신성동 125-1",
+          "lat": 36.3920387561554,
+          "lon": 127.351076746487
+        },
+        {
+          "spot_id": "Sa2396b462fd17eb3",
+          "arrival_s": 46715,
+          "vehicle": 1,
+          "score": 0.059348172713680855,
+          "risk_weight": 1.5,
+          "label": "신성동 538",
+          "lat": 36.3939224976527,
+          "lon": 127.351741416284
+        },
+        {
+          "spot_id": "S8ecb8e2e35f6af7c",
+          "arrival_s": 47015,
+          "vehicle": 1,
+          "score": 0.040332779868921594,
+          "risk_weight": 1.5,
+          "label": "신성동 520",
+          "lat": 36.3941535929297,
+          "lon": 127.35218809887
+        },
+        {
+          "spot_id": "Se29149d5798cb845",
+          "arrival_s": 47412,
+          "vehicle": 1,
+          "score": 0.02715391291547744,
+          "risk_weight": 2.45,
+          "label": "신성동 150-2",
+          "lat": 36.3888666111909,
+          "lon": 127.352798784597
+        },
+        {
+          "spot_id": "Sae964e5e7f66bed9",
+          "arrival_s": 47771,
+          "vehicle": 1,
+          "score": 0.03033394385368679,
+          "risk_weight": 2.5,
+          "label": "신성동 216-1",
+          "lat": 36.3867268685106,
+          "lon": 127.349828079635
+        },
+        {
+          "spot_id": "S9a6f794f2b41d56d",
+          "arrival_s": 48961,
+          "vehicle": 1,
+          "score": 0.04162482965276671,
+          "risk_weight": 1.5,
+          "label": "문지동 649-1",
+          "lat": 36.3944895777135,
+          "lon": 127.406276037694
+        }
+      ],
+      "vehicle_returns_s": [
+        50340,
+        50277
+      ],
+      "travel_s": 8217,
+      "elapsed_s": 0.0480086570023559,
+      "status": "ok",
+      "score_method": "shrinkage",
+      "seed_expected_weighted": null,
+      "seed_expected_reports": null,
+      "initial_assignment_used": false,
+      "incumbent_source": ""
+    },
+    "17-21_K1_평일_b3": {
+      "method": "b3",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 1,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 30.0
+      },
+      "visits": [
+        {
+          "spot_id": "S04d4b127b664aa3e",
+          "arrival_s": 61429,
+          "vehicle": 0,
+          "score": 0.19876016311363726,
+          "risk_weight": 1.5,
+          "label": "봉명동 620",
+          "lat": 36.3588154555497,
+          "lon": 127.345501532077
+        },
+        {
+          "spot_id": "See244c00868ea6e6",
+          "arrival_s": 61755,
+          "vehicle": 0,
+          "score": 0.17086527738870697,
+          "risk_weight": 1.5,
+          "label": "봉명동 623-3",
+          "lat": 36.3582796259662,
+          "lon": 127.346804946725
+        },
+        {
+          "spot_id": "S12d610e59321cebd",
+          "arrival_s": 62055,
+          "vehicle": 0,
+          "score": 0.1341938882939005,
+          "risk_weight": 1.5,
+          "label": "봉명동 621-6",
+          "lat": 36.3586147976753,
+          "lon": 127.34695160797
+        },
+        {
+          "spot_id": "S0ca36b913add0290",
+          "arrival_s": 62365,
+          "vehicle": 0,
+          "score": 0.11974393078803451,
+          "risk_weight": 1.5,
+          "label": "봉명동 631-4",
+          "lat": 36.3576666241251,
+          "lon": 127.346657500373
+        },
+        {
+          "spot_id": "Sec6bab1e7bfab76e",
+          "arrival_s": 62701,
+          "vehicle": 0,
+          "score": 0.600990526143014,
+          "risk_weight": 1.5,
+          "label": "봉명동 656-8",
+          "lat": 36.3567463197331,
+          "lon": 127.348555569012
+        },
+        {
+          "spot_id": "S1e162e2fd1e5d28a",
+          "arrival_s": 63001,
+          "vehicle": 0,
+          "score": 0.19120796681399155,
+          "risk_weight": 1.5,
+          "label": "봉명동 652-6",
+          "lat": 36.3574632219533,
+          "lon": 127.348178621714
+        },
+        {
+          "spot_id": "Sf5ed50784869ebec",
+          "arrival_s": 63301,
+          "vehicle": 0,
+          "score": 0.26715594892850786,
+          "risk_weight": 1.5,
+          "label": "봉명동 653-5",
+          "lat": 36.3572291971499,
+          "lon": 127.348700442574
+        },
+        {
+          "spot_id": "Sfd99e04082d0040c",
+          "arrival_s": 63601,
+          "vehicle": 0,
+          "score": 0.13456174434733773,
+          "risk_weight": 1.5,
+          "label": "봉명동 658-4",
+          "lat": 36.3566811336163,
+          "lon": 127.348998477841
+        },
+        {
+          "spot_id": "Sd716be647afe9d40",
+          "arrival_s": 63964,
+          "vehicle": 0,
+          "score": 0.11345331740557922,
+          "risk_weight": 1.5,
+          "label": "봉명동 615-7",
+          "lat": 36.3577859052437,
+          "lon": 127.34448823735
+        },
+        {
+          "spot_id": "Sdb43a3c978e20c28",
+          "arrival_s": 64299,
+          "vehicle": 0,
+          "score": 0.11509187571843939,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-4",
+          "lat": 36.3551748145471,
+          "lon": 127.344622233862
+        },
+        {
+          "spot_id": "S37c621ac56c2b9e1",
+          "arrival_s": 64604,
+          "vehicle": 0,
+          "score": 0.15515254080234805,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-3",
+          "lat": 36.3552723685161,
+          "lon": 127.343698623996
+        },
+        {
+          "spot_id": "S385426557f589e2a",
+          "arrival_s": 65026,
+          "vehicle": 0,
+          "score": 0.07582134282780847,
+          "risk_weight": 2.5,
+          "label": "장대동 365-1",
+          "lat": 36.3593842433684,
+          "lon": 127.339096036829
+        },
+        {
+          "spot_id": "S9834ad4f4bdf785e",
+          "arrival_s": 65356,
+          "vehicle": 0,
+          "score": 0.09051506120382506,
+          "risk_weight": 2.5,
+          "label": "장대동 362-5",
+          "lat": 36.3597503621499,
+          "lon": 127.339074338903
+        },
+        {
+          "spot_id": "S15c66054238642ab",
+          "arrival_s": 66020,
+          "vehicle": 0,
+          "score": 0.08967614349253573,
+          "risk_weight": 2.0,
+          "label": "노은동 553-8",
+          "lat": 36.3662619213997,
+          "lon": 127.317277061449
+        },
+        {
+          "spot_id": "Sd30d523e5f28f059",
+          "arrival_s": 66732,
+          "vehicle": 0,
+          "score": 0.1266522344873442,
+          "risk_weight": 1.5,
+          "label": "지족동 987-3",
+          "lat": 36.3857991696552,
+          "lon": 127.318327185516
+        },
+        {
+          "spot_id": "Sfcd8a2cf4bd047b2",
+          "arrival_s": 67947,
+          "vehicle": 0,
+          "score": 0.06813103277774021,
+          "risk_weight": 2.5,
+          "label": "원신흥동 491-14",
+          "lat": 36.3422754541854,
+          "lon": 127.343311784415
+        },
+        {
+          "spot_id": "S0c60c45c318cb28a",
+          "arrival_s": 69746,
+          "vehicle": 0,
+          "score": 0.09935658122373472,
+          "risk_weight": 2.5,
+          "label": "전민동 325-2",
+          "lat": 36.3993733119814,
+          "lon": 127.404112900524
+        },
+        {
+          "spot_id": "Scd657f359963c9de",
+          "arrival_s": 70631,
+          "vehicle": 0,
+          "score": 0.0984412460422813,
+          "risk_weight": 2.5,
+          "label": "관평동 1150",
+          "lat": 36.423527178607,
+          "lon": 127.392432243684
+        },
+        {
+          "spot_id": "S1fb29ceac15adec6",
+          "arrival_s": 70931,
+          "vehicle": 0,
+          "score": 0.08350794314648831,
+          "risk_weight": 2.5,
+          "label": "관평동 1245",
+          "lat": 36.4232699062663,
+          "lon": 127.392264691329
+        },
+        {
+          "spot_id": "S5ca2d8feb08cea4c",
+          "arrival_s": 71251,
+          "vehicle": 0,
+          "score": 0.24683116845187245,
+          "risk_weight": 2.5,
+          "label": "관평동 1064",
+          "lat": 36.4240966320394,
+          "lon": 127.391028872889
+        },
+        {
+          "spot_id": "S290e9b63f3c5c494",
+          "arrival_s": 71551,
+          "vehicle": 0,
+          "score": 0.26198732276908,
+          "risk_weight": 2.5,
+          "label": "관평동 1040",
+          "lat": 36.4237289654149,
+          "lon": 127.391163961388
+        },
+        {
+          "spot_id": "Sd12634981cdbaf23",
+          "arrival_s": 71851,
+          "vehicle": 0,
+          "score": 0.18028179728176347,
+          "risk_weight": 2.5,
+          "label": "관평동 1034",
+          "lat": 36.4238450641268,
+          "lon": 127.390879974401
+        },
+        {
+          "spot_id": "Sb553fb1e6f9ac8a2",
+          "arrival_s": 72151,
+          "vehicle": 0,
+          "score": 0.1414658311338276,
+          "risk_weight": 2.5,
+          "label": "관평동 1052",
+          "lat": 36.4239819761791,
+          "lon": 127.391504885534
+        },
+        {
+          "spot_id": "Sb82ade0cd9a38f5f",
+          "arrival_s": 72465,
+          "vehicle": 0,
+          "score": 0.31058033638859617,
+          "risk_weight": 2.5,
+          "label": "관평동 987",
+          "lat": 36.4244665158539,
+          "lon": 127.39016073244
+        },
+        {
+          "spot_id": "S102aebabdf336806",
+          "arrival_s": 72770,
+          "vehicle": 0,
+          "score": 0.14986351749838986,
+          "risk_weight": 2.5,
+          "label": "관평동 921",
+          "lat": 36.4242879294056,
+          "lon": 127.389573747654
+        },
+        {
+          "spot_id": "Sbcd23dc5d3f9830d",
+          "arrival_s": 73070,
+          "vehicle": 0,
+          "score": 0.10943732400135807,
+          "risk_weight": 2.5,
+          "label": "관평동 934",
+          "lat": 36.4246673136101,
+          "lon": 127.389823974683
+        },
+        {
+          "spot_id": "Sd5a393487e24318b",
+          "arrival_s": 73381,
+          "vehicle": 0,
+          "score": 0.22532232585735187,
+          "risk_weight": 2.5,
+          "label": "관평동 989",
+          "lat": 36.424186579457,
+          "lon": 127.389978353007
+        },
+        {
+          "spot_id": "S613f23d4d96d107e",
+          "arrival_s": 73715,
+          "vehicle": 0,
+          "score": 0.38467506192039636,
+          "risk_weight": 1.5,
+          "label": "관평동 978",
+          "lat": 36.4254180302048,
+          "lon": 127.39080188422
+        }
+      ],
+      "vehicle_returns_s": [
+        75393
+      ],
+      "travel_s": 5793,
+      "elapsed_s": 0.04503643902717158,
+      "status": "ok",
+      "score_method": "shrinkage",
+      "seed_expected_weighted": null,
+      "seed_expected_reports": null,
+      "initial_assignment_used": false,
+      "incumbent_source": ""
+    },
+    "17-21_K2_평일_b3": {
+      "method": "b3",
+      "config": {
+        "start_min": 1020,
+        "end_min": 1260,
+        "vehicles": 2,
+        "service_min": 5.0,
+        "day_type": "평일",
+        "use_risk": true,
+        "solver_seconds": 30.0
+      },
+      "visits": [
+        {
+          "spot_id": "S0e5241a29f39e1f1",
+          "arrival_s": 61416,
+          "vehicle": 0,
+          "score": 0.04018048324204927,
+          "risk_weight": 2.5,
+          "label": "궁동 451-2",
+          "lat": 36.3622982811794,
+          "lon": 127.342099432485
+        },
+        {
+          "spot_id": "S9834ad4f4bdf785e",
+          "arrival_s": 61785,
+          "vehicle": 0,
+          "score": 0.09051506120382506,
+          "risk_weight": 2.5,
+          "label": "장대동 362-5",
+          "lat": 36.3597503621499,
+          "lon": 127.339074338903
+        },
+        {
+          "spot_id": "Sed3097b741685e4d",
+          "arrival_s": 62085,
+          "vehicle": 0,
+          "score": 0.04018048324204927,
+          "risk_weight": 2.5,
+          "label": "장대동 362-6",
+          "lat": 36.359615715647,
+          "lon": 127.339078211512
+        },
+        {
+          "spot_id": "S385426557f589e2a",
+          "arrival_s": 62415,
+          "vehicle": 0,
+          "score": 0.07582134282780847,
+          "risk_weight": 2.5,
+          "label": "장대동 365-1",
+          "lat": 36.3593842433684,
+          "lon": 127.339096036829
+        },
+        {
+          "spot_id": "Sc5769336e986c5ef",
+          "arrival_s": 62779,
+          "vehicle": 0,
+          "score": 0.051554834298765596,
+          "risk_weight": 2.5,
+          "label": "장대동 352-1",
+          "lat": 36.3617754720207,
+          "lon": 127.336815616718
+        },
+        {
+          "spot_id": "S04d4b127b664aa3e",
+          "arrival_s": 63202,
+          "vehicle": 0,
+          "score": 0.19876016311363726,
+          "risk_weight": 1.5,
+          "label": "봉명동 620",
+          "lat": 36.3588154555497,
+          "lon": 127.345501532077
+        },
+        {
+          "spot_id": "Scb45a3856d20fcb2",
+          "arrival_s": 63502,
+          "vehicle": 0,
+          "score": 0.07312469250396088,
+          "risk_weight": 1.5,
+          "label": "봉명동 621-1",
+          "lat": 36.3587866671211,
+          "lon": 127.345889465538
+        },
+        {
+          "spot_id": "Sc9f3029e41e7a098",
+          "arrival_s": 63802,
+          "vehicle": 0,
+          "score": 0.06082981807337748,
+          "risk_weight": 1.5,
+          "label": "봉명동 621-2",
+          "lat": 36.3587422519951,
+          "lon": 127.346196218942
+        },
+        {
+          "spot_id": "See244c00868ea6e6",
+          "arrival_s": 64128,
+          "vehicle": 0,
+          "score": 0.17086527738870697,
+          "risk_weight": 1.5,
+          "label": "봉명동 623-3",
+          "lat": 36.3582796259662,
+          "lon": 127.346804946725
+        },
+        {
+          "spot_id": "S12d610e59321cebd",
+          "arrival_s": 64428,
+          "vehicle": 0,
+          "score": 0.1341938882939005,
+          "risk_weight": 1.5,
+          "label": "봉명동 621-6",
+          "lat": 36.3586147976753,
+          "lon": 127.34695160797
+        },
+        {
+          "spot_id": "S257b52a39bbc2896",
+          "arrival_s": 64738,
+          "vehicle": 0,
+          "score": 0.10837107343757021,
+          "risk_weight": 1.5,
+          "label": "봉명동 630-5",
+          "lat": 36.3579897700418,
+          "lon": 127.346755975397
+        },
+        {
+          "spot_id": "See77b685458dcef8",
+          "arrival_s": 65038,
+          "vehicle": 0,
+          "score": 0.06792947004272593,
+          "risk_weight": 1.5,
+          "label": "봉명동 650",
+          "lat": 36.3579145467475,
+          "lon": 127.347274944244
+        },
+        {
+          "spot_id": "S0ca36b913add0290",
+          "arrival_s": 65338,
+          "vehicle": 0,
+          "score": 0.11974393078803451,
+          "risk_weight": 1.5,
+          "label": "봉명동 631-4",
+          "lat": 36.3576666241251,
+          "lon": 127.346657500373
+        },
+        {
+          "spot_id": "S29efb0c9ab19381f",
+          "arrival_s": 65648,
+          "vehicle": 0,
+          "score": 0.10052989937706176,
+          "risk_weight": 1.5,
+          "label": "봉명동 636-7",
+          "lat": 36.357042168175,
+          "lon": 127.346544209443
+        },
+        {
+          "spot_id": "Sec6bab1e7bfab76e",
+          "arrival_s": 65975,
+          "vehicle": 0,
+          "score": 0.600990526143014,
+          "risk_weight": 1.5,
+          "label": "봉명동 656-8",
+          "lat": 36.3567463197331,
+          "lon": 127.348555569012
+        },
+        {
+          "spot_id": "S1e162e2fd1e5d28a",
+          "arrival_s": 66275,
+          "vehicle": 0,
+          "score": 0.19120796681399155,
+          "risk_weight": 1.5,
+          "label": "봉명동 652-6",
+          "lat": 36.3574632219533,
+          "lon": 127.348178621714
+        },
+        {
+          "spot_id": "Sf5ed50784869ebec",
+          "arrival_s": 66575,
+          "vehicle": 0,
+          "score": 0.26715594892850786,
+          "risk_weight": 1.5,
+          "label": "봉명동 653-5",
+          "lat": 36.3572291971499,
+          "lon": 127.348700442574
+        },
+        {
+          "spot_id": "Sfd99e04082d0040c",
+          "arrival_s": 66875,
+          "vehicle": 0,
+          "score": 0.13456174434733773,
+          "risk_weight": 1.5,
+          "label": "봉명동 658-4",
+          "lat": 36.3566811336163,
+          "lon": 127.348998477841
+        },
+        {
+          "spot_id": "S7bd068349970ff2b",
+          "arrival_s": 67233,
+          "vehicle": 0,
+          "score": 0.0631940014170344,
+          "risk_weight": 1.5,
+          "label": "봉명동 파스쿠찌 대전봉명점",
+          "lat": 36.35723347660528,
+          "lon": 127.34477235834858
+        },
+        {
+          "spot_id": "Sd716be647afe9d40",
+          "arrival_s": 67539,
+          "vehicle": 0,
+          "score": 0.11345331740557922,
+          "risk_weight": 1.5,
+          "label": "봉명동 615-7",
+          "lat": 36.3577859052437,
+          "lon": 127.34448823735
+        },
+        {
+          "spot_id": "Sdb43a3c978e20c28",
+          "arrival_s": 67874,
+          "vehicle": 0,
+          "score": 0.11509187571843939,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-4",
+          "lat": 36.3551748145471,
+          "lon": 127.344622233862
+        },
+        {
+          "spot_id": "S37c621ac56c2b9e1",
+          "arrival_s": 68179,
+          "vehicle": 0,
+          "score": 0.15515254080234805,
+          "risk_weight": 1.5,
+          "label": "봉명동 574-3",
+          "lat": 36.3552723685161,
+          "lon": 127.343698623996
+        },
+        {
+          "spot_id": "See8b73d37db894c0",
+          "arrival_s": 68703,
+          "vehicle": 0,
+          "score": 0.07764179082050472,
+          "risk_weight": 1.5,
+          "label": "상대동 476-7",
+          "lat": 36.3444148283572,
+          "lon": 127.338898786099
+        },
+        {
+          "spot_id": "Sbe49dca790c7039b",
+          "arrival_s": 69143,
+          "vehicle": 0,
+          "score": 0.040818268690335766,
+          "risk_weight": 2.5,
+          "label": "원신흥동 491-5",
+          "lat": 36.342798194398,
+          "lon": 127.343291800267
+        },
+        {
+          "spot_id": "Sfcd8a2cf4bd047b2",
+          "arrival_s": 69468,
+          "vehicle": 0,
+          "score": 0.06813103277774021,
+          "risk_weight": 2.5,
+          "label": "원신흥동 491-14",
+          "lat": 36.3422754541854,
+          "lon": 127.343311784415
+        },
+        {
+          "spot_id": "Sa02c7783cd7662aa",
+          "arrival_s": 69768,
+          "vehicle": 0,
+          "score": 0.039475562483416826,
+          "risk_weight": 2.5,
+          "label": "원신흥동 원신흥동행정복지센터",
+          "lat": 36.3421510421103,
+          "lon": 127.343329061065
+        },
+        {
+          "spot_id": "S7d565392442fa2e1",
+          "arrival_s": 70702,
+          "vehicle": 0,
+          "score": 0.0546698808335289,
+          "risk_weight": 2.5,
+          "label": "노은동 534-1",
+          "lat": 36.367510118943,
+          "lon": 127.320626088674
+        },
+        {
+          "spot_id": "S15c66054238642ab",
+          "arrival_s": 71052,
+          "vehicle": 0,
+          "score": 0.08967614349253573,
+          "risk_weight": 2.0,
+          "label": "노은동 553-8",
+          "lat": 36.3662619213997,
+          "lon": 127.317277061449
+        },
+        {
+          "spot_id": "Sf601e77adfc56fba",
+          "arrival_s": 71376,
+          "vehicle": 0,
+          "score": 0.06405513169197327,
+          "risk_weight": 2.5,
+          "label": "노은동 554-3",
+          "lat": 36.3659962105582,
+          "lon": 127.316376328991
+        },
+        {
+          "spot_id": "S6e1784c5991cde92",
+          "arrival_s": 71676,
+          "vehicle": 0,
+          "score": 0.09435313056811016,
+          "risk_weight": 1.5,
+          "label": "노은동 555-6",
+          "lat": 36.3653561509425,
+          "lon": 127.316801610291
+        },
+        {
+          "spot_id": "S536157b1873cdeea",
+          "arrival_s": 71997,
+          "vehicle": 0,
+          "score": 0.0676280970611699,
+          "risk_weight": 2.5,
+          "label": "노은동 554-1",
+          "lat": 36.3658603991279,
+          "lon": 127.315833023958
+        },
+        {
+          "spot_id": "S1caad5f800db204f",
+          "arrival_s": 72341,
+          "vehicle": 0,
+          "score": 0.04425700189838858,
+          "risk_weight": 2.5,
+          "label": "노은동 553-6",
+          "lat": 36.3663765684189,
+          "lon": 127.316420879471
+        },
+        {
+          "spot_id": "S3abb79aa419cc4fc",
+          "arrival_s": 72799,
+          "vehicle": 0,
+          "score": 0.044959055439818166,
+          "risk_weight": 2.5,
+          "label": "지족동 907-25",
+          "lat": 36.3739114840747,
+          "lon": 127.320469934333
+        },
+        {
+          "spot_id": "S3ee0a96f436dd857",
+          "arrival_s": 73108,
+          "vehicle": 0,
+          "score": 0.05740005307462539,
+          "risk_weight": 2.5,
+          "label": "지족동 912-10",
+          "lat": 36.3744550561452,
+          "lon": 127.320475730058
+        },
+        {
+          "spot_id": "S3717a5b89438c1dc",
+          "arrival_s": 73415,
+          "vehicle": 0,
+          "score": 0.04192746077431229,
+          "risk_weight": 2.5,
+          "label": "지족동 916-1",
+          "lat": 36.3748338918386,
+          "lon": 127.320750865874
+        },
+        {
+          "spot_id": "S72fb7d5844983bad",
+          "arrival_s": 73715,
+          "vehicle": 0,
+          "score": 0.0497972831294895,
+          "risk_weight": 2.5,
+          "label": "지족동 917-1",
+          "lat": 36.374598567938,
+          "lon": 127.320761154993
+        },
+        {
+          "spot_id": "Sd30d523e5f28f059",
+          "arrival_s": 74238,
+          "vehicle": 0,
+          "score": 0.1266522344873442,
+          "risk_weight": 1.5,
+          "label": "지족동 987-3",
+          "lat": 36.3857991696552,
+          "lon": 127.318327185516
+        },
+        {
+          "spot_id": "S1f6532c58acfaa2c",
+          "arrival_s": 61788,
+          "vehicle": 1,
+          "score": 0.06025048647267864,
+          "risk_weight": 1.5,
+          "label": "도룡동 4-8",
+          "lat": 36.3761579060266,
+          "lon": 127.393981543207
+        },
+        {
+          "spot_id": "S9a6f794f2b41d56d",
+          "arrival_s": 62542,
+          "vehicle": 1,
+          "score": 0.06772403736090783,
+          "risk_weight": 1.5,
+          "label": "문지동 649-1",
+          "lat": 36.3944895777135,
+          "lon": 127.406276037694
+        },
+        {
+          "spot_id": "S0c60c45c318cb28a",
+          "arrival_s": 62948,
+          "vehicle": 1,
+          "score": 0.09935658122373472,
+          "risk_weight": 2.5,
+          "label": "전민동 325-2",
+          "lat": 36.3993733119814,
+          "lon": 127.404112900524
+        },
+        {
+          "spot_id": "S8a30f79bd519b158",
+          "arrival_s": 63248,
+          "vehicle": 1,
+          "score": 0.06232808945449514,
+          "risk_weight": 2.0,
+          "label": "전민동 307-10",
+          "lat": 36.3993745027231,
+          "lon": 127.403867442403
+        },
+        {
+          "spot_id": "Sf184d7d9db8c4a0a",
+          "arrival_s": 63619,
+          "vehicle": 1,
+          "score": 0.037851638297915935,
+          "risk_weight": 2.5,
+          "label": "전민동 348-11",
+          "lat": 36.3979587940689,
+          "lon": 127.400488110009
+        },
+        {
+          "spot_id": "Scd657f359963c9de",
+          "arrival_s": 64480,
+          "vehicle": 1,
+          "score": 0.0984412460422813,
+          "risk_weight": 2.5,
+          "label": "관평동 1150",
+          "lat": 36.423527178607,
+          "lon": 127.392432243684
+        },
+        {
+          "spot_id": "S1fb29ceac15adec6",
+          "arrival_s": 64780,
+          "vehicle": 1,
+          "score": 0.08350794314648831,
+          "risk_weight": 2.5,
+          "label": "관평동 1245",
+          "lat": 36.4232699062663,
+          "lon": 127.392264691329
+        },
+        {
+          "spot_id": "S61860ac4256ca660",
+          "arrival_s": 65085,
+          "vehicle": 1,
+          "score": 0.04909984218930057,
+          "risk_weight": 2.5,
+          "label": "관평동 1056",
+          "lat": 36.4236712817755,
+          "lon": 127.392073466704
+        },
+        {
+          "spot_id": "Sefc5adb8c7d5d660",
+          "arrival_s": 65391,
+          "vehicle": 1,
+          "score": 0.04559767838640649,
+          "risk_weight": 2.5,
+          "label": "관평동 1045",
+          "lat": 36.4234129983491,
+          "lon": 127.391939250949
+        },
+        {
+          "spot_id": "S5ca2d8feb08cea4c",
+          "arrival_s": 65712,
+          "vehicle": 1,
+          "score": 0.24683116845187245,
+          "risk_weight": 2.5,
+          "label": "관평동 1064",
+          "lat": 36.4240966320394,
+          "lon": 127.391028872889
+        },
+        {
+          "spot_id": "S290e9b63f3c5c494",
+          "arrival_s": 66012,
+          "vehicle": 1,
+          "score": 0.26198732276908,
+          "risk_weight": 2.5,
+          "label": "관평동 1040",
+          "lat": 36.4237289654149,
+          "lon": 127.391163961388
+        },
+        {
+          "spot_id": "Sd12634981cdbaf23",
+          "arrival_s": 66312,
+          "vehicle": 1,
+          "score": 0.18028179728176347,
+          "risk_weight": 2.5,
+          "label": "관평동 1034",
+          "lat": 36.4238450641268,
+          "lon": 127.390879974401
+        },
+        {
+          "spot_id": "Sb553fb1e6f9ac8a2",
+          "arrival_s": 66612,
+          "vehicle": 1,
+          "score": 0.1414658311338276,
+          "risk_weight": 2.5,
+          "label": "관평동 1052",
+          "lat": 36.4239819761791,
+          "lon": 127.391504885534
+        },
+        {
+          "spot_id": "Sb82ade0cd9a38f5f",
+          "arrival_s": 66926,
+          "vehicle": 1,
+          "score": 0.31058033638859617,
+          "risk_weight": 2.5,
+          "label": "관평동 987",
+          "lat": 36.4244665158539,
+          "lon": 127.39016073244
+        },
+        {
+          "spot_id": "S102aebabdf336806",
+          "arrival_s": 67231,
+          "vehicle": 1,
+          "score": 0.14986351749838986,
+          "risk_weight": 2.5,
+          "label": "관평동 921",
+          "lat": 36.4242879294056,
+          "lon": 127.389573747654
+        },
+        {
+          "spot_id": "Sbcd23dc5d3f9830d",
+          "arrival_s": 67531,
+          "vehicle": 1,
+          "score": 0.10943732400135807,
+          "risk_weight": 2.5,
+          "label": "관평동 934",
+          "lat": 36.4246673136101,
+          "lon": 127.389823974683
+        },
+        {
+          "spot_id": "Sd5a393487e24318b",
+          "arrival_s": 67842,
+          "vehicle": 1,
+          "score": 0.22532232585735187,
+          "risk_weight": 2.5,
+          "label": "관평동 989",
+          "lat": 36.424186579457,
+          "lon": 127.389978353007
+        },
+        {
+          "spot_id": "S613f23d4d96d107e",
+          "arrival_s": 68176,
+          "vehicle": 1,
+          "score": 0.38467506192039636,
+          "risk_weight": 1.5,
+          "label": "관평동 978",
+          "lat": 36.4254180302048,
+          "lon": 127.39080188422
+        },
+        {
+          "spot_id": "Sfbbd0a8f055c6429",
+          "arrival_s": 68476,
+          "vehicle": 1,
+          "score": 0.3781290080397525,
+          "risk_weight": 1.5,
+          "label": "관평동 954",
+          "lat": 36.4257514381603,
+          "lon": 127.391056462281
+        },
+        {
+          "spot_id": "S05839052c96cb9bb",
+          "arrival_s": 68776,
+          "vehicle": 1,
+          "score": 0.14423967095998108,
+          "risk_weight": 1.5,
+          "label": "관평동 930",
+          "lat": 36.425578354923,
+          "lon": 127.390165737791
+        },
+        {
+          "spot_id": "Sc197d841dc4ed8b7",
+          "arrival_s": 69088,
+          "vehicle": 1,
+          "score": 0.08318763302196934,
+          "risk_weight": 2.5,
+          "label": "관평동 824",
+          "lat": 36.4259358403089,
+          "lon": 127.38953280385
+        },
+        {
+          "spot_id": "S35c2817a1dd538f0",
+          "arrival_s": 69402,
+          "vehicle": 1,
+          "score": 0.10430461664816797,
+          "risk_weight": 1.5,
+          "label": "관평동 816",
+          "lat": 36.4264998427933,
+          "lon": 127.389184469519
+        },
+        {
+          "spot_id": "S9770878302f975c1",
+          "arrival_s": 69707,
+          "vehicle": 1,
+          "score": 0.06682584057893293,
+          "risk_weight": 2.5,
+          "label": "관평동 820",
+          "lat": 36.4261642870431,
+          "lon": 127.388979397447
+        },
+        {
+          "spot_id": "S3ad2273c7d90066b",
+          "arrival_s": 70025,
+          "vehicle": 1,
+          "score": 0.11579632867414325,
+          "risk_weight": 2.5,
+          "label": "관평동 875",
+          "lat": 36.4264605469899,
+          "lon": 127.388244895393
+        },
+        {
+          "spot_id": "S3259d19c5922cac0",
+          "arrival_s": 70376,
+          "vehicle": 1,
+          "score": 0.42113339525372967,
+          "risk_weight": 1.5,
+          "label": "관평동 940",
+          "lat": 36.4262727725702,
+          "lon": 127.390640015305
+        },
+        {
+          "spot_id": "Sab1ac3982dc0c823",
+          "arrival_s": 70676,
+          "vehicle": 1,
+          "score": 0.12153989136881826,
+          "risk_weight": 1.5,
+          "label": "관평동 943",
+          "lat": 36.4260851605234,
+          "lon": 127.391214921142
+        },
+        {
+          "spot_id": "S91c726d45865669b",
+          "arrival_s": 70990,
+          "vehicle": 1,
+          "score": 0.30869803131957435,
+          "risk_weight": 1.5,
+          "label": "관평동 788",
+          "lat": 36.4268704912907,
+          "lon": 127.391774640449
+        },
+        {
+          "spot_id": "Sda4748784869a177",
+          "arrival_s": 71290,
+          "vehicle": 1,
+          "score": 0.09236462591621455,
+          "risk_weight": 1.5,
+          "label": "관평동 742",
+          "lat": 36.4275404185143,
+          "lon": 127.391444134605
+        },
+        {
+          "spot_id": "S9d3820ec7cf11d10",
+          "arrival_s": 71602,
+          "vehicle": 1,
+          "score": 0.07907960176162519,
+          "risk_weight": 1.5,
+          "label": "관평동 740",
+          "lat": 36.4278815868316,
+          "lon": 127.391887331796
+        },
+        {
+          "spot_id": "S807f1751344c257d",
+          "arrival_s": 71914,
+          "vehicle": 1,
+          "score": 0.14864709284337047,
+          "risk_weight": 1.5,
+          "label": "관평동 763",
+          "lat": 36.4273024904593,
+          "lon": 127.392329136353
+        },
+        {
+          "spot_id": "S30f1cd7c8f04eca0",
+          "arrival_s": 72245,
+          "vehicle": 1,
+          "score": 0.08695868459882254,
+          "risk_weight": 1.5,
+          "label": "관평동 765",
+          "lat": 36.4267757411782,
+          "lon": 127.393621927234
+        },
+        {
+          "spot_id": "Sf578b17a2e3c949b",
+          "arrival_s": 72559,
+          "vehicle": 1,
+          "score": 0.43983162361804334,
+          "risk_weight": 1.5,
+          "label": "관평동 773",
+          "lat": 36.4264218963369,
+          "lon": 127.392870445626
+        },
+        {
+          "spot_id": "S242bc48d6b577abf",
+          "arrival_s": 72859,
+          "vehicle": 1,
+          "score": 0.3688343605399075,
+          "risk_weight": 1.5,
+          "label": "관평동 793",
+          "lat": 36.4265486316257,
+          "lon": 127.392559407509
+        },
+        {
+          "spot_id": "Sa97372f8593a8596",
+          "arrival_s": 73159,
+          "vehicle": 1,
+          "score": 0.28249245142995,
+          "risk_weight": 1.5,
+          "label": "관평동 764",
+          "lat": 36.4270393862539,
+          "lon": 127.392976037151
+        },
+        {
+          "spot_id": "S66a3b9fceab57c43",
+          "arrival_s": 73459,
+          "vehicle": 1,
+          "score": 0.06566298918723018,
+          "risk_weight": 1.5,
+          "label": "관평동 792",
+          "lat": 36.4266155498906,
+          "lon": 127.392406526479
+        },
+        {
+          "spot_id": "Sa470d4c77e7de3e0",
+          "arrival_s": 73759,
+          "vehicle": 1,
+          "score": 0.09594687492956476,
+          "risk_weight": 1.5,
+          "label": "관평동 1287",
+          "lat": 36.4266345890936,
+          "lon": 127.392837505979
+        }
+      ],
+      "vehicle_returns_s": [
+        75281,
+        75481
+      ],
+      "travel_s": 6462,
+      "elapsed_s": 0.04836295498535037,
+      "status": "ok",
+      "score_method": "shrinkage",
+      "seed_expected_weighted": null,
+      "seed_expected_reports": null,
+      "initial_assignment_used": false,
+      "incumbent_source": ""
+    }
+  },
+  "definition": "rank by overlapping hour_block score * risk_weight; capacity identical to b1; nearest-neighbor order",
+  "chosen_method": "shrinkage"
+}

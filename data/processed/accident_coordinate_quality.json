@@ -1,0 +1,15 @@
+{
+  "source_crs": "EPSG:5179",
+  "target_crs": "EPSG:4326",
+  "always_xy": true,
+  "input_x_column": "위도",
+  "input_y_column": "경도",
+  "n_records": 9579,
+  "inside_current_osm_boundary": 9511,
+  "outside_current_osm_boundary": 68,
+  "outside_handling": "안팎 여부를 보존; 위험 가중치 사고 수에는 유성구 안 자료만 사용",
+  "date_range": [
+    "2017-01-01 17:00:00",
+    "2021-12-31 23:00:00"
+  ]
+}

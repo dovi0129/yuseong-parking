@@ -1,0 +1,74 @@
+{
+  "images": [
+    {
+      "index": 1,
+      "source_id": "ai01",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_50-1.png",
+      "path": "data/photo_demo/ai_bases/ai01.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 2,
+      "source_id": "ai02",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_51-2.png",
+      "path": "data/photo_demo/ai_bases/ai02.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 3,
+      "source_id": "ai03",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_52-3.png",
+      "path": "data/photo_demo/ai_bases/ai03.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 4,
+      "source_id": "ai04",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_53-4.png",
+      "path": "data/photo_demo/ai_bases/ai04.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 5,
+      "source_id": "ai05",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_54-5.png",
+      "path": "data/photo_demo/ai_bases/ai05.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 6,
+      "source_id": "ai06",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_55-6.png",
+      "path": "data/photo_demo/ai_bases/ai06.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 7,
+      "source_id": "ai07",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_57-7.png",
+      "path": "data/photo_demo/ai_bases/ai07.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 8,
+      "source_id": "ai08",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_55_59-8.png",
+      "path": "data/photo_demo/ai_bases/ai08.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 9,
+      "source_id": "ai09",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_56_00-9.png",
+      "path": "data/photo_demo/ai_bases/ai09.png",
+      "plate_true": "123가4567"
+    },
+    {
+      "index": 10,
+      "source_id": "ai10",
+      "original_path": "data/photo_demo/ai_generated/ChatGPT 이미지 2026년 10월 30일 오후 03_56_01-10.png",
+      "path": "data/photo_demo/ai_bases/ai10.png",
+      "plate_true": "123가4567"
+    }
+  ]
+}
