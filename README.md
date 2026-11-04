@@ -71,6 +71,7 @@ ui/run.sh
 - 지도 타일은 처음 볼 때 OpenStreetMap에서 받아 `data/processed/tile_cache/`에 저장하므로 인터넷이 필요하다.
 - 사진 검토는 처음 실행할 때 EasyOCR 모델(약 95 MB)을 `data/photo_demo/models/`에 내려받는다. GPU가 없으면 CPU로 판독하며, 사진 한 쌍에 10초 안팎이 걸린다.
 - 순회 계획, 도로 이동시간, 좌표는 저장된 계산 결과를 읽으므로 카카오 API 키가 필요 없다.
+- 자료를 처음부터 다시 만들려면(`python -m src.pipeline.run --only all`) 프로젝트 폴더의 `.env`에 `KAKAO_REST_API_KEY=<키>`를 넣는다. 좌표 변환에 쓴다.
 
 ## 3. 시험
 
@@ -91,14 +92,3 @@ cd ui && python -m unittest test_ui -v
 | `data/raw/` | 공공데이터포털 원자료 |
 | `data/processed/` | 정제 자료, 점수, 경로 캐시, 평가 결과 |
 | `data/photo_demo/` | AI로 생성한 신고 장면 사진과 평가용 합성 사진 |
-
-## 5. 저장소에 넣지 않은 것
-
-- 카카오 API 키(`.env`), 가상환경
-- 대회 제출 문서, 분석 보고서, 그림·로그 같은 실행 결과물(`artifacts/`는 실행하면 만들어진다)
-- 참가신청서 작성본과 연락처 메모(개인 정보)
-- EasyOCR 모델, 지도 타일 캐시(실행할 때 자동으로 받는다)
-- 사진 판독 강건성 시험용 변형 사진(`data/photo_demo/robustness/`)
-- 카카오 Local API의 좌표 응답 원본(`data/processed/geocode_*`). 화면과 경로 계산은 지점별 좌표(`data/processed/spots.csv`)만 쓴다.
-
-자료를 처음부터 다시 만들려면(`python -m src.pipeline.run --only all`) 좌표 변환을 위해 프로젝트 폴더의 `.env`에 `KAKAO_REST_API_KEY=<키>`를 넣어야 한다.
