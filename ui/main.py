@@ -441,7 +441,7 @@ def reception_photo(ver, edited, keys, sel):
         elif pair_id is not None:
             pair = pairs.set_index("pair_id").loc[pair_id]
             has_files = isinstance(pair.path1, str) and isinstance(pair.path2, str)
-            # Demo pairs carry their own report location; a missing one goes to the review as None (Worker_2 contract).
+            # Demo pairs carry their own report location; a missing one goes to the review as None.
             reported = ((float(pair.reported_lat), float(pair.reported_lon))
                         if pd.notna(pair.reported_lat) and pd.notna(pair.reported_lon) else None)
             result = photo.review_demo(pair_id, pair.path1 if has_files else None, pair.path2 if has_files else None,

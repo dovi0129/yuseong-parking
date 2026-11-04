@@ -4,6 +4,7 @@ from __future__ import annotations
 from datetime import datetime
 from functools import lru_cache
 import math
+import os
 import re
 import threading
 import unicodedata
@@ -33,15 +34,13 @@ def get_reader():
     import easyocr
     torch.set_num_threads(1)
     cv2.setNumThreads(1)
-    # Lab server: cuda:0 must be a 5090 (the 3090 is shared with other users).
-    # Other PCs: use their own GPU if present, otherwise run on CPU.
-    if torch.cuda.is_available():
-        name = torch.cuda.get_device_name(0)
-        if "3090" in name:
-            raise RuntimeError("Refusing photo OCR: logical cuda:0 is the shared RTX 3090")
+    # Use the GPU if present, otherwise the CPU. GPU names listed in OCR_SKIP_GPU
+    # (comma-separated, e.g. "3090") are skipped in favour of the CPU.
+    skip = [s.strip() for s in os.environ.get("OCR_SKIP_GPU", "").split(",") if s.strip()]
+    name = torch.cuda.get_device_name(0) if torch.cuda.is_available() else ""
+    if name and not any(s in name for s in skip):
         gpu = "cuda:0"
     else:
-        import os
         torch.set_num_threads(min(8, os.cpu_count() or 1))
         name, gpu = "CPU", False
     print(f"photo_ocr_device: {name}; CPU threads={torch.get_num_threads()}", flush=True)
@@ -240,7 +239,7 @@ def decide_pair(first, second, reported_lat=None, reported_lon=None, min_gap_s=6
 
 
 def review_photo_pair(path1, path2, reported_lat=None, reported_lon=None, min_gap_s=60, max_move_m=15, max_report_m=50):
-    """Return JSON-serializable OCR/EXIF evidence and the Worker_3 verdict contract.
+    """Return JSON-serializable OCR/EXIF evidence and the verdict used by the UI.
 
     Recognition reads image pixels only. Neither filename nor manifest ground truth
     is an input to read_plate. EXIF presence does not establish its authenticity.

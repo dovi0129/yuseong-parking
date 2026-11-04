@@ -1,7 +1,6 @@
-"""사진 검토 영역: Worker_2's src.photo.review_photo_pair, with interim values until it lands.
+"""사진 검토 영역: src.photo.review_photo_pair 결과를 화면에 보여 준다.
 
-The interim branch returns the same dict keys (brief section 11, agreed 2026-10-30):
-plate_1/2, box_1/2, taken_1/2, gps_1/2, gap_s, move_m, report_m, verdict, reasons.
+결과 dict 키: plate_1/2, box_1/2, taken_1/2, gps_1/2, gap_s, move_m, report_m, verdict, reasons.
 """
 from __future__ import annotations
 
@@ -17,7 +16,7 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
-# Final manifest first; Worker_2's development pairs until it is written.
+# Final manifest first, development pairs as a fallback.
 MANIFESTS = (ROOT / "data/photo_demo/manifest.csv", ROOT / "data/photo_demo/dev_manifest.csv")
 SOURCES = ROOT / "data/photo_demo/sources.csv"
 FONT = "/usr/share/fonts/truetype/nanum/NanumBarunGothic.ttf"
@@ -42,7 +41,7 @@ def review_function():
 
 
 def ai_photos():
-    """True when the demo photos shown come from AI-generated sources (footer wording, brief 8절)."""
+    """True when the demo photos shown come from AI-generated sources."""
     manifest = next((path for path in MANIFESTS if path.exists()), None)
     if manifest is None or review_function() is None or not SOURCES.exists():
         return False

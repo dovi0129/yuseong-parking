@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import subprocess
 
 import pandas as pd
 
@@ -20,10 +19,7 @@ def checkpoint(locations, cache):
     ready = int(((spots.n_reports_train > 0) & spots.lat.notna()).sum())
     path = ROOT / "data/processed/spots.csv"
     chosen = json.loads((OUT / "priority_choice.json").read_text())["chosen_method"]
-    message = f"[Worker_2] spots 1차판 준비: {path} / 학습 빈도순 상위권 {ready}개 좌표 성공(실패 지점 제외), priority_choice={chosen} 고정, 전체 지점 계속 처리 중. 경로 후보는 n_reports_train>0 및 유효 좌표만 사용."
-    for target in ("wC:p4", "wC:p1"):
-        result = subprocess.run(["herdr", "agent", "prompt", target, message], capture_output=True, text=True, timeout=20)
-        print(f"checkpoint notification {target}: returncode={result.returncode}", flush=True)
+    print(f"spots checkpoint: {path}; geocoded train spots={ready}; priority_choice={chosen}", flush=True)
     write_json({"geocoded_train_spots": ready, "spots_path": str(path), "selection": "학습 빈도순; 좌표 실패 제외; 테스트 빈도 미사용"}, OUT / "geocode_first300.json")
 
 

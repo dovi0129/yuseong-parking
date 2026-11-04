@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
 
-/* Values measured from the reference list screen at 1600px (brief 9절); structure rewritten for Streamlit. */
+/* Values measured from the reference list screen at 1600px; structure rewritten for Streamlit. */
 :root {
   --font: 'Noto Sans KR', Roboto, 'Malgun Gothic', 'Noto Sans CJK KR', 'NanumBarunGothic', sans-serif;
   --text: #333333;

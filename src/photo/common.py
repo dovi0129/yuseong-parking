@@ -11,7 +11,7 @@ LIMITS = {"min_gap_s": 60, "max_move_m": 15, "max_report_m": 50}
 
 
 def configure_runtime():
-    # Main verified PyTorch index order: 0=5090, 1=3090. Never use physical nvidia-smi index 1.
+    # Use only the first visible GPU.
     os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     for name in ["OMP_NUM_THREADS", "MKL_NUM_THREADS", "OPENBLAS_NUM_THREADS", "NUMEXPR_NUM_THREADS"]:
         os.environ[name] = "1"

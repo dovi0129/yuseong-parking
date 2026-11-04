@@ -293,7 +293,7 @@ def add_reference_and_review(bank,reports,enforcement):
         raise ValueError("유성구 학교 목록과 출처 메타데이터의 학교 수가 다릅니다.")
     school_dates=", ".join(sorted(schools["데이터기준일자"].dropna().astype(str).unique()))
     bank.add("보조자료 | 유성구 운영 학교 수",int(schools["학교ID"].nunique()),"곳",
-        "Worker_2가 추출한 관내 운영 학교 목록의 고유 학교ID 수",f"시설자료 기준일: {school_dates}",school_path,school_meta_path)
+        "관내 운영 학교 목록의 고유 학교ID 수",f"시설자료 기준일: {school_dates}",school_path,school_meta_path)
     child_path="data/processed/reference/child_zones.csv"
     child_meta_path="data/processed/reference/child_zones_source.json"
     child=bank.csv(child_path);child_meta=bank.obj(child_meta_path)
@@ -327,7 +327,7 @@ def add_reference_and_review(bank,reports,enforcement):
 def add_photo_metrics(bank):
     results_path="data/photo_demo/evaluation_results.csv"
     if not (bank.root/results_path).exists():
-        bank.add("사진 평가 | 추후 추가",None,"","Worker_2의 사진 평가 산출물이 확정되면 추가한다. 빈 값은 0을 뜻하지 않는다.","사진 평가 자료 확정 후 기재")
+        bank.add("사진 평가 | 추후 추가",None,"","사진 평가 결과가 확정되면 추가한다. 빈 값은 0을 뜻하지 않는다.","사진 평가 자료 확정 후 기재")
         return
     frozen_path="data/photo_demo/evaluation_frozen.json";summary_path="data/photo_demo/evaluation_summary.json"
     cases_path="data/photo_demo/evaluation_by_case.csv"

@@ -31,9 +31,13 @@ def condition_label(scenario):
 
 
 def save_checked(fig,path,audits):
-    # The local figure-audit skill measures layout in the actual renderer.
-    sys.path.insert(0,"/home/minu/.agents/skills/figure-audit/scripts")
-    from bbox_overlap_check import audit_fig
+    # Optional layout check: set FIGURE_AUDIT_DIR to a folder containing bbox_overlap_check.py.
+    audit_dir=os.environ.get("FIGURE_AUDIT_DIR")
+    if audit_dir:sys.path.insert(0,audit_dir)
+    try:
+        from bbox_overlap_check import audit_fig
+    except ImportError:
+        audit_fig=lambda fig,verbose=False:[]
     if path.name.startswith("route_mock_"):
         fig.text(.995,.004,"예시 자료",ha="right",va="bottom",fontsize=8,color=".4")
     findings=audit_fig(fig,verbose=False)

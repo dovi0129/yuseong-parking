@@ -1,4 +1,0 @@
-photo_ocr_device: cuda:0 = NVIDIA GeForce RTX 5090; CPU threads=1
-Downloading detection model, please wait. This may take several minutes depending upon your network connection.
-Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
-Korean OCR reader ready on approved GPU

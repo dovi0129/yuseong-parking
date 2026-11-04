@@ -70,7 +70,7 @@ def main():
             size = image.size
             dpi = image.info.get("dpi", (0, 0))
             image.verify()
-        check(size[0] > 500 and size[1] > 500 and min(dpi) >= 199.8, f"{path.name}: valid PNG at brief-required 200dpi")
+        check(size[0] > 500 and size[1] > 500 and min(dpi) >= 199.8, f"{path.name}: valid PNG at 200dpi")
         figures.append({"file": str(path.relative_to(ROOT)), "size_px": list(size), "dpi": list(dpi)})
     key = load_key()
     owned = [ROOT / "src/pipeline", OUT]
@@ -87,7 +87,7 @@ def main():
         ast.parse(path.read_text(), filename=str(path))
     checks.append("all pipeline Python modules parse")
     write_json({"checks": checks, "n_checks": len(checks), "figures": figures,
-                "png_audit_scope": "User brief explicitly requires 200dpi, overriding the figure-audit default of 300dpi. Overlap/glyph readability inspected visually; raster output has no embedded font-size measurements.",
+                "png_audit_scope": "Figures are saved at 200dpi. Overlap/glyph readability inspected visually; raster output has no embedded font-size measurements.",
                 "statistical_validation": "17 known-answer tests incl. no-final-period leakage, paired null arm, unseen-location denominator, EPSG axis order, processing groups, cache override dtype; captured totals also cross-checked by key joins",
                 "reused": "approved raw record counts; frozen priority choice and final evaluation; geographic source caches"}, OUT / "pipeline_checks.json")
     print(f"PASS: {len(checks)} final artifact checks; six analysis PNGs; no key value found in owned text artifacts")
