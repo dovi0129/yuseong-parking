@@ -200,7 +200,7 @@ def _plan_from_table(frame, selected_date, start, end, staff):
 
 def classify_reports(selected_date, repeat_threshold=10, habitual_threshold=20, *,
                      plan_df=None, through=None, limit=None, start="17:00", end="21:00", staff=1,
-                     context: Context | None=None, reports: pd.DataFrame | None=None):
+                     context: Context | None=None, reports: pd.DataFrame | None=None, surge_spots=None):
     """Return reception processing DataFrame; grades depend only on train counts.
 
     Inputs: ISO date/date; 1 <= repeat_threshold < habitual_threshold; optional
@@ -209,8 +209,9 @@ def classify_reports(selected_date, repeat_threshold=10, habitual_threshold=20, 
     spot_id, raw_loc. With no reports argument, read test split from the contract
     parquet. No records after through/limit affect today's counts or grouping.
     Output columns: 접수 일시, 위치, 지점 ID, 지점 등급, 금일 순번, 묶음 번호,
-    조치 구분, 시설 개선 검토, 도착 예정, 회신 내용. The last column is an unsent
-    deterministic reply draft, not a completed administrative action.
+    조치 구분, 시설 개선 검토, 도착 예정, 회신 내용. 조치 구분 is 이달 순회 지점 (spot on the plan's route),
+    다음 달 순회 검토 (반복·상습, or in surge_spots) or 일반; it does not compare report and arrival times.
+    The last column is an unsent deterministic reply draft, not a completed administrative action.
     """
     context=context or load_context()
     if plan_df is None:plan_df=generate_plan(selected_date,start,end,staff,context=context)
@@ -221,7 +222,7 @@ def classify_reports(selected_date, repeat_threshold=10, habitual_threshold=20, 
     required={"report_id","ts","spot_id","raw_loc"}
     if missing:=required-set(reports):raise ValueError(f"접수 입력 열 누락: {sorted(missing)}")
     return reception_table(reports,context.catalog,plan,selected_date,through=through,limit=limit,
-        repeat_threshold=repeat_threshold,habitual_threshold=habitual_threshold)
+        repeat_threshold=repeat_threshold,habitual_threshold=habitual_threshold,surge_spots=surge_spots)
 
 
 def repeat_spots(repeat_threshold=10, habitual_threshold=20, *, context: Context | None=None):

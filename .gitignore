@@ -6,6 +6,10 @@ __pycache__/
 
 # generated at run time
 artifacts/
+*.lock
+*.writing
+data/processed/routes/plan_cache/monthly/status.json
+data/processed/routes/plan_cache/monthly/solved_manifest.csv
 data/photo_demo/models/
 data/processed/tile_cache/
 

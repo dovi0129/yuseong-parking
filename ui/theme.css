@@ -115,6 +115,18 @@ header[data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecor
 [class*="st-key-cond_"] [data-testid="stColumn"]:has(.cl) { background: var(--label-bg); border-right: 1px solid var(--row-line); }
 [class*="st-key-cond_"] [data-testid="stColumn"]:not(:has(.cl)):not(:last-child) { border-right: 1px solid var(--row-line); }
 .cl { font-size: 15px; font-weight: 700; color: var(--text); white-space: nowrap; }
+/* A label cell never gets narrower than its label; the input cells give up the width instead (narrow windows, 화면 크기 140%). */
+[class*="st-key-cond_"] [data-testid="stColumn"]:has(.cl) { min-width: max-content !important; }
+[class*="st-key-cond_"] [data-testid="stColumn"]:not(:has(.cl)) { min-width: 0 !important; }
+[class*="st-key-cond_"] [data-testid="stHorizontalBlock"] { flex-wrap: nowrap !important; }
+/* a date range needs room for both dates; the cell next to it gives up the width instead */
+[class*="st-key-cond_"] [data-testid="stColumn"]:has([data-range-field="end"]) { min-width: 246px !important; }   /* 183 dates + 28 icon + 32 padding */
+[class*="st-key-cond_"] [data-testid="stColumn"]:has([data-testid="stSelectbox"]) { min-width: 112px !important; }
+@media (max-width: 900px) {   /* narrow windows: half the cell padding so four cells fit one row */
+  [class*="st-key-cond_"] [data-testid="stColumn"] { padding-left: 8px; padding-right: 8px; }
+  [class*="st-key-cond_"] [data-testid="stColumn"]:has([data-range-field="end"]) { min-width: 230px !important; }
+  [class*="st-key-cond_"] [data-testid="stColumn"]:has([data-testid="stSelectbox"]) { min-width: 96px !important; }
+}
 .cl .req { display: inline-block; width: 5px; height: 5px; border-radius: 50%; background: var(--required); margin-left: 4px; vertical-align: 8px; }
 [class*="st-key-cond_"] [data-baseweb="input"], [class*="st-key-cond_"] [data-baseweb="select"] > div { border-color: var(--input-line); }
 
@@ -130,6 +142,7 @@ header[data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecor
 /* results */
 [class*="st-key-reshead_"] { margin: 40px 0 10px; }
 .total { font-size: 15px; color: var(--text); white-space: nowrap; }
+.basis { margin-top: 28px; text-align: right; font-size: 14px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .total .n { color: var(--title); }
 .stDownloadButton button, .stButton button[kind="secondary"] {
   background: #ffffff !important; border: 1px solid var(--input-line) !important; color: var(--text) !important; border-radius: 3px !important;
@@ -141,6 +154,7 @@ header[data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecor
 
 /* stat tiles */
 .kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-top: 40px; }
+@media (max-width: 900px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }   /* four tiles do not fit their numbers */
 .kpi { border: 1px solid var(--line); border-radius: 6px; padding: 16px 20px; background: var(--tab-bg); }
 .kpi .l { font-size: 14px; color: var(--muted); }
 .kpi .v { font-size: 26px; color: var(--strong); font-variant-numeric: tabular-nums; margin-top: 4px; }
@@ -154,6 +168,15 @@ header[data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecor
 }
 [class*="st-key-pgbar_"] button[kind="primary"] { background: var(--tab-on) !important; border-color: var(--tab-on) !important; color: #ffffff !important; }
 [class*="st-key-pgbar_"] button:disabled { color: #bbbbbb !important; }
+
+/* 화면 크기 (zoom): Streamlit measures these wrappers with getBoundingClientRect, which is already zoomed, and writes the
+   value back as a px width inside the zoomed block, so tables and map frames came out zoom times too wide (or too narrow
+   below 100%). Dividing the measured wrapper by the zoom makes the written width equal to the cell width. The wrapper is
+   then narrower (or wider) than its content, so the cell clips sideways only; the table toolbar above the cell stays visible. */
+[data-testid="stFullScreenFrame"]:has(> [data-testid="stDataFrame"]),
+[data-testid="stElementContainer"] > div:has(> iframe[data-testid="stCustomComponentV1"]) { width: calc(100% / var(--zoom, 1)) !important; }
+[data-testid="stElementContainer"]:has(> [data-testid="stFullScreenFrame"] > [data-testid="stDataFrame"]),
+[data-testid="stElementContainer"]:has(> div > iframe[data-testid="stCustomComponentV1"]) { overflow-x: clip; }
 
 /* maps and detail */
 iframe[title="streamlit_folium.st_folium"] { border: 1px solid var(--line) !important; border-radius: 4px; }

@@ -11,8 +11,10 @@ LIMITS = {"min_gap_s": 60, "max_move_m": 15, "max_report_m": 50}
 
 
 def configure_runtime():
-    # Use only the first visible GPU.
-    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+    # Use only the first visible GPU. An explicitly empty CUDA_VISIBLE_DEVICES (every GPU hidden by the operator)
+    # is kept, so the photo reader then runs on the CPU without opening any GPU.
+    if os.environ.get("CUDA_VISIBLE_DEVICES") != "":
+        os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     for name in ["OMP_NUM_THREADS", "MKL_NUM_THREADS", "OPENBLAS_NUM_THREADS", "NUMEXPR_NUM_THREADS"]:
         os.environ[name] = "1"
 

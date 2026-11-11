@@ -1,0 +1,35 @@
+{
+ "chosen_method": "shrinkage",
+ "선택 근거": "1~7월 적합, 8~9월의 K=20/50/100 전체 구간 신고 포착률 산술평균으로 선택. 동률은 빈도 기준선. 10~12월 미사용.",
+ "alpha": 5.0,
+ "inner_validation": [
+  {
+   "alpha": 5.0,
+   "freq_baseline": 0.2168189145620634,
+   "shrinkage": 0.2260433458713953
+  },
+  {
+   "alpha": 20.0,
+   "freq_baseline": 0.2168189145620634,
+   "shrinkage": 0.22398352140426295
+  },
+  {
+   "alpha": 50.0,
+   "freq_baseline": 0.2168189145620634,
+   "shrinkage": 0.21162457460146875
+  }
+ ],
+ "fit_start": "2024-01-01",
+ "inner_fit_end_exclusive": "2024-08-01",
+ "validation_end_exclusive": "2024-10-01",
+ "final_fit_end_exclusive": "2024-11-01",
+ "candidate_rule": "학습 기간 신고 1건 이상; 모든 학습 지점으로 점수 적합; 좌표 실패 지점은 경로에서 제외",
+ "score_unit": "해당 day_type의 하루 중 해당 hour_block의 기대 신고 수",
+ "normalization": "고정 지번 문자열 규칙; 좌표 근접 병합 없음",
+ "method_selection_uses_test": false,
+ "basis_start": "2024-01-01",
+ "basis_last_day": "2024-10-31",
+ "input_max_ts": "2024-10-31 23:52:00",
+ "input_reports": 19474,
+ "monthly_version": "rolling-m3-v1"
+}

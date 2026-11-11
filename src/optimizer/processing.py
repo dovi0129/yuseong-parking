@@ -13,7 +13,10 @@ from .planner import solve
 PLAN_COLUMNS = ["단속 차량", "순번", "지점 ID", "위치", "위도", "경도", "도착 예정", "기대 신고 수", "위험 가중치"]
 RECEPTION_COLUMNS = ["접수 일시", "위치", "지점 ID", "지점 등급", "금일 순번", "묶음 번호", "조치 구분", "시설 개선 검토", "도착 예정", "회신 내용"]
 SPOT_COLUMNS = ["지점 ID", "위치", "동", "위도", "경도", "학습 기간 신고 수", "단속 수", "보호구역 지정시설 300m 이내", "위험 가중치", "지점 등급"]
-PROCESSING_RULES_VERSION="post-arrival-recurrence-daily-serial-v2"
+PROCESSING_RULES_VERSION="monthly-patrol-class-daily-serial-v3"
+# '조치 구분' values (the screen shows the column as '순회 구분'). A report is classified by its spot, not by its time:
+# the patrol is a monthly route, not a dispatch to each report.
+IN_ROUTE, NEXT_MONTH, ORDINARY = "이달 순회 지점", "다음 달 순회 검토", "일반"
 
 
 def grade(count: float, repeat_threshold=10, habitual_threshold=20):
@@ -59,11 +62,15 @@ def spot_table(catalog: pd.DataFrame, repeat_threshold=10, habitual_threshold=20
 
 
 def reception_table(reports: pd.DataFrame, catalog: pd.DataFrame, plan: Plan,
-                    selected_date, *, through=None, limit=None, repeat_threshold=10, habitual_threshold=20):
+                    selected_date, *, through=None, limit=None, repeat_threshold=10, habitual_threshold=20,
+                    surge_spots=None):
     """Input report_id,ts,spot_id,raw_loc plus catalog/Plan; return RECEPTION_COLUMNS.
 
-    through/limit restrict the prefix before today's order/grouping. Actions use
-    strictly future planned arrival, train counts, and the child_zone_300m proxy.
+    through/limit restrict the prefix before today's order/grouping. 조치 구분 (shown as 순회 구분):
+    IN_ROUTE when the spot is on the plan's route (the month's plan for the date's day type), otherwise NEXT_MONTH
+    when the spot is 반복·상습 by train counts or in surge_spots (급증 spots of the month before), otherwise ORDINARY.
+    도착 예정 is the planned arrival at a route spot, for information only. 시설 개선 검토 uses train counts and
+    the child_zone_300m proxy.
     """
     grade(0,repeat_threshold,habitual_threshold)
     selected_date = pd.Timestamp(selected_date).date()
@@ -81,6 +88,7 @@ def reception_table(reports: pd.DataFrame, catalog: pd.DataFrame, plan: Plan,
     frame["group_number"] = frame.groupby("spot_id",sort=False).ngroup()+1
     indexed = catalog.set_index("spot_id")
     scheduled = {v.spot_id:v for v in plan.visits}
+    surging = {str(s) for s in (surge_spots or ())}
     midnight = pd.Timestamp(selected_date)
     rows = []
     for r in frame.itertuples():
@@ -88,15 +96,18 @@ def reception_table(reports: pd.DataFrame, catalog: pd.DataFrame, plan: Plan,
         known = sid in indexed.index
         count = float(indexed.loc[sid,"n_reports_train"]) if known else 0.
         category = grade(count,repeat_threshold,habitual_threshold)
-        protected = known and int(indexed.loc[sid,"child_zone_300m"])==1
+        # child_zone_300m is empty only for spots without coordinates (pipeline/features.py); nearness to a
+        # child zone cannot be judged there, so such a spot is not treated as near one (same rule as spot_table).
+        zone = indexed.loc[sid,"child_zone_300m"] if known else float("nan")
+        protected = bool(pd.notna(zone)) and int(zone)==1
         visit = scheduled.get(sid)
         arrival = midnight+pd.Timedelta(seconds=visit.arrival_s) if visit else None
-        if arrival is not None and r.ts < arrival:
-            action = "금일 순회 포함"
-        elif category in ("반복","상습"):
-            action = "순회 경로 반영 검토"
+        if visit is not None:
+            action = IN_ROUTE
+        elif category in ("반복","상습") or sid in surging:
+            action = NEXT_MONTH
         else:
-            action = "일반 처리"
+            action = ORDINARY
         facility = "해당" if category=="상습" or (category=="반복" and protected) else "비해당"
         when = arrival.strftime("%Y-%m-%d %H:%M:%S") if arrival is not None else ""
         reply = f"접수하신 {r.raw_loc} 불법주정차 신고는 오늘 이 지점에서 {r.today_order}번째로 접수되었습니다."

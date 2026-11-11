@@ -119,8 +119,14 @@ class ContractTests(unittest.TestCase):
                              for i,(s,t) in enumerate([("a","2024-10-02 17:10"),("b","2024-10-02 17:20"),
                                  ("c","2024-10-02 17:25"),("d","2024-10-02 17:26"),("a","2024-10-02 17:40")])])
         result=reception_table(reports,catalog,plan,"2024-10-02")
-        with self.subTest("post-arrival recurrence"):
-            self.assertEqual(result["조치 구분"].tolist(),["금일 순회 포함","순회 경로 반영 검토","순회 경로 반영 검토","일반 처리","순회 경로 반영 검토"])
+        with self.subTest("route spot regardless of report time; 반복·상습 off the route; 일반"):
+            self.assertEqual(result["조치 구분"].tolist(),["이달 순회 지점","다음 달 순회 검토","다음 달 순회 검토","일반","이달 순회 지점"])
+        with self.subTest("planned arrival is information only"):
+            self.assertEqual(result["도착 예정"].tolist(),["2024-10-02 17:30:00","","","","2024-10-02 17:30:00"])
+        with self.subTest("급증 spot off the route"):
+            surged=reception_table(reports,catalog,plan,"2024-10-02",surge_spots={"d"})
+            self.assertEqual(surged.iloc[3]["조치 구분"],"다음 달 순회 검토")
+            self.assertEqual(surged.iloc[3]["시설 개선 검토"],"비해당")
         with self.subTest("ordinary protected spot is excluded"):
             self.assertEqual(result["시설 개선 검토"].tolist(),["해당","비해당","해당","비해당","해당"])
         self.assertEqual(result.iloc[0]["묶음 번호"],result.iloc[4]["묶음 번호"])
@@ -131,6 +137,18 @@ class ContractTests(unittest.TestCase):
         prefix=reception_table(reports,catalog,plan,"2024-10-02",limit=1)
         self.assertEqual(prefix.iloc[0]["금일 순번"],1)
         self.assertIn("1번째",prefix.iloc[0]["회신 내용"])
+
+    def test_reception_spot_without_coordinates(self):
+        """child_zone_300m is empty for spots without coordinates: not near a child zone, 상습 stays 해당."""
+        nan=float("nan")
+        catalog=pd.DataFrame([dict(spot_id=s,n_reports_train=n,child_zone_300m=z)
+                              for s,n,z in [("x",10,nan),("y",20,nan),("z",1,nan),("w",10,1)]])
+        plan=Plan("unit",PlanConfig(),[])
+        reports=pd.DataFrame([dict(report_id=str(i),ts=pd.Timestamp(f"2024-10-02 18:{i:02d}"),spot_id=s,raw_loc=s)
+                              for i,s in enumerate(["x","y","z","w"])])
+        result=reception_table(reports,catalog,plan,"2024-10-02")
+        self.assertEqual(result["지점 등급"].tolist(),["반복","상습","일반","반복"])
+        self.assertEqual(result["시설 개선 검토"].tolist(),["비해당","해당","비해당","해당"])
 
     def test_all_exports_round_trip_korean_columns_and_bom(self):
         data,_=fixture()

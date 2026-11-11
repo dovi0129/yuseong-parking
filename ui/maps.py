@@ -34,6 +34,7 @@ DISTRICT = _boundary_bounds()
 FOCUS_ZOOM = 16
 GRADE_COLORS = {"상습": "#d03b3b", "반복": "#ec835a", "일반": "#9aa5b1"}
 GRADE_RANK = {"일반": 0, "반복": 1, "상습": 2}
+SURGE_COLOR = "#7a4fb5"
 TEAM_COLORS = ("#1b3561", "#2f6fb3", "#6f93c4")
 TEAM_DASH = (None, "10 6", "2 6")
 NAVY = "#1b3561"
@@ -132,17 +133,21 @@ def _radius(count):
     return 2.5 + 0.75 * math.sqrt(count)
 
 
-def spots_map(spots: pd.DataFrame, focus=None):
-    """Spots sized by 신고 건수 and colored by 지점 등급; focus = 지점 ID to center and ring."""
+def spots_map(spots: pd.DataFrame, focus=None, surge_ids=None):
+    """Spots sized by 신고 건수 and colored by 지점 등급 (급증 spots in their own color, drawn on top);
+    focus = 지점 ID to center and ring."""
     m = _base()
     _outline(m)
+    surge_ids = set(surge_ids or ())
     frame = spots.dropna(subset=["위도", "경도"]).copy()
-    frame["_rank"] = frame["지점 등급"].map(GRADE_RANK)
+    frame["_surge"] = frame["지점 ID"].isin(surge_ids)
+    frame["_rank"] = frame["지점 등급"].map(GRADE_RANK) + 3 * frame["_surge"]
     frame = frame.sort_values(["_rank", "신고 건수"], ascending=[True, False])
-    for lat, lon, count, grade, label in frame[["위도", "경도", "신고 건수", "지점 등급", "위치"]].itertuples(index=False):
+    for lat, lon, count, grade, label, hot in frame[["위도", "경도", "신고 건수", "지점 등급", "위치", "_surge"]].itertuples(index=False):
+        color = SURGE_COLOR if hot else GRADE_COLORS[grade]
         folium.CircleMarker((lat, lon), radius=_radius(count), color="#ffffff", weight=1,
-                            fill=True, fill_color=GRADE_COLORS[grade], fill_opacity=0.62 if grade == "일반" else 0.85,
-                            tooltip=f"{label} · {grade} · {int(count):,}건").add_to(m)
+                            fill=True, fill_color=color, fill_opacity=0.62 if grade == "일반" and not hot else 0.85,
+                            tooltip=f"{label} · {grade}{' · 급증' if hot else ''} · {int(count):,}건").add_to(m)
     target = frame.loc[frame["지점 ID"].eq(focus)] if focus is not None else frame.iloc[:0]
     if target.empty:
         if DISTRICT:
@@ -155,7 +160,9 @@ def spots_map(spots: pd.DataFrame, focus=None):
         folium.CircleMarker(point, radius=_radius(t["신고 건수"]) + 6, color=NAVY, weight=3, fill=False,
                             tooltip=f"{t['위치']} · {t['지점 등급']} · {int(t['신고 건수']):,}건").add_to(m)
         m.fit_bounds([point, point], max_zoom=FOCUS_ZOOM)
-    rows = [f'<div class="lg">{_dot(GRADE_COLORS[g])}{g}</div>' for g in ("상습", "반복", "일반") if g in set(frame["지점 등급"])]
+    rows = [f'<div class="lg">{_dot(SURGE_COLOR)}급증</div>'] if frame["_surge"].any() else []
+    rows += [f'<div class="lg">{_dot(GRADE_COLORS[g])}{g}</div>' for g in ("상습", "반복", "일반")
+             if g in set(frame.loc[~frame["_surge"], "지점 등급"])]
     rows.append('<div class="lg muted">원 크기: 신고 건수</div>')
     _legend(m, rows)
     return m

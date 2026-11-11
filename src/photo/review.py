@@ -1,6 +1,7 @@
 """Read image pixels and EXIF only; never consult filenames or demo labels."""
 from __future__ import annotations
 
+from contextlib import contextmanager
 from datetime import datetime
 from functools import lru_cache
 import math
@@ -48,6 +49,29 @@ def get_reader():
     directory.mkdir(parents=True, exist_ok=True)
     return easyocr.Reader(["ko", "en"], gpu=gpu, model_storage_directory=str(directory),
                           user_network_directory=str(DATA / "models/user_network"), verbose=False)
+
+
+@contextmanager
+def unpinned(reader):
+    """easyocr's recognizer always builds DataLoader(pin_memory=True). Pinning host memory opens a CUDA context on
+    GPU 0 even for a CPU reader (about 500 MiB, and it fails when GPU 0 is full). For a CPU reader the DataLoader is
+    made with pin_memory=False while the reader runs; callers hold LOCK, and a GPU reader is left unchanged."""
+    if reader.device != "cpu":
+        yield
+        return
+    import torch.utils.data as data
+    original = data.DataLoader
+
+    class Unpinned(original):
+        def __init__(self, *args, **kwargs):
+            kwargs["pin_memory"] = False
+            super().__init__(*args, **kwargs)
+
+    data.DataLoader = Unpinned
+    try:
+        yield
+    finally:
+        data.DataLoader = original
 
 
 def read_exif(image):
@@ -167,7 +191,7 @@ def read_plate(image):
         rgb = cv2.resize(rgb, None, fx=scale, fy=scale, interpolation=cv2.INTER_AREA)
     candidates = []
     allow = "0123456789" + LETTERS
-    with LOCK:
+    with LOCK, unpinned(reader):
         for _, quad, box in plate_regions(rgb):
             width,height = 520,110
             target = np.array([[0, 0], [width-1, 0], [width-1, height-1], [0, height-1]], np.float32)

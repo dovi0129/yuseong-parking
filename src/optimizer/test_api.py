@@ -35,7 +35,7 @@ class PublicAPITests(unittest.TestCase):
         reports=pd.DataFrame([dict(report_id=str(i),ts=pd.Timestamp("2024-10-02 10:00:20")+pd.Timedelta(seconds=i),spot_id="b",raw_loc="B") for i in range(2)])
         result=classify_reports("2024-10-02",plan_df=plan,reports=reports,limit=1,context=context)
         self.assertEqual(result.columns.tolist(),RECEPTION_COLUMNS)
-        self.assertEqual(result.iloc[0]["조치 구분"],"금일 순회 포함")
+        self.assertEqual(result.iloc[0]["조치 구분"],"이달 순회 지점")
         self.assertEqual(result.iloc[0]["시설 개선 검토"],"해당")
         self.assertEqual(result.iloc[0]["금일 순번"],1)
         reply=result.iloc[0]["회신 내용"]

@@ -29,14 +29,15 @@ TAB_QUERY = {"map": 0, "list": 1, "photo": 1}
 SCALES = (80, 90, 100, 110, 120, 130, 140)
 GRADE_BADGE = {"상습": "g-h", "반복": "g-r", "일반": "g-n"}
 GRADE_FILL = {"상습": "#fbe9e9", "반복": "#fdeee6"}
+SURGE_FILL = "#efe7f8"
 EMPTY = "조회 결과가 없습니다."
 ROW_PX = 33
 DEFAULT_DAY = date(2024, 10, 2)
 STEP_MIN = 10
 DAY_END = time(23, 50)
-SPOT_VIEW = ["위치", "동", "지점 등급", "신고 건수", "단속 수", "위험 가중치"]
-PLAN_VIEW = ["단속 차량", "순번", "위치", "도착 예정", "기대 신고 수", "위험 가중치"]
-RECEPTION_VIEW = ["접수 일시", "위치", "지점 등급", "금일 순번", "묶음 번호", "조치 구분", "시설 개선 검토", "사진 검토"]
+SPOT_VIEW = ["위치", "동", "지점 등급", "신고 건수", "단속 수", be.WEIGHT]
+PLAN_VIEW = ["단속 차량", "순번", "위치", be.ARRIVAL, be.EXPECTED, be.WEIGHT]
+RECEPTION_VIEW = ["접수 일시", "위치", "지점 등급", "금일 순번", "묶음 번호", "조치 구분", "시설 개선 검토", "사진 검토"]  # 조치 구분 is shown as be.PATROL_CLASS
 PAGE_SIZE = {"overview": 15, "plan": 15, "reception": 10}
 COND = [1, 2.4, 1, 2.4]
 HOME = ('<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path d="M12 3 2 11.5h3V21h5.5v-6h3v6H19v-9.5h3z" '
@@ -158,6 +159,18 @@ def grade_style(frame, formats=None):
     return styler.format(formats or {})
 
 
+def overview_style(part, data, show_surge):
+    """명단 table: grade fill as before, plus the surge columns named with their months; surge rows fill 직전 한 달."""
+    month, prior = data["surge_month"] or "-", data["surge_prior"] or "-"
+    recent, mean = f"{be.RECENT} ({month})", f"{be.PRIOR} ({prior})"
+    view = be.shown(part)[SPOT_VIEW + [be.RECENT, be.PRIOR]].rename(columns={be.RECENT: recent, be.PRIOR: mean})
+    styler = grade_style(view).format({be.WEIGHT: "{:.1f}", recent: "{:.0f}", mean: "{:.1f}"}, na_rep="-")
+    if show_surge:
+        flags = part[be.SURGE].to_list()
+        styler = styler.apply(lambda col: [f"background-color:{SURGE_FILL}" if f else "" for f in flags], subset=[recent])
+    return styler
+
+
 def _goto(key, page):
     st.session_state[key] = page
 
@@ -209,7 +222,7 @@ def page_overview(ver, tab):
             dong = c[3].selectbox("동", ["전체", *be.dongs(ver)], key="ov_dong", label_visibility="collapsed")
             c = st.columns([1, 5.8], gap=None, vertical_alignment="center")
             label(c[0], "지점 등급")
-            grades = c[1].multiselect("지점 등급", be.GRADES, default=list(be.GRADES), key="ov_grades", placeholder="",
+            grades = c[1].multiselect("지점 등급", be.CATEGORIES, default=list(be.CATEGORIES), key="ov_grades", placeholder="",
                                       label_visibility="collapsed")
             if search_button("overview"):
                 st.session_state.pop("ov_focus", None)
@@ -221,9 +234,11 @@ def page_overview(ver, tab):
                 ("상습 지점 수", f"{int(s['상습 지점 수']):,}", "곳"),
                 ("상위 100개 지점 비중", f"{float(s['상위 100개 지점 비중 (%)']):.1f}", "%")])
     spots = data["spots"]
+    show_surge = be.SURGE in grades and data["surge_month"] is not None
     if tab == "지도":
+        surge_ids = set(spots.loc[spots[be.SURGE], "지점 ID"]) if show_surge else None
         with st.container(key="mapwrap_overview"):
-            st_folium(maps.spots_map(spots, st.session_state.get("ov_focus")), height=720, use_container_width=True,
+            st_folium(maps.spots_map(spots, st.session_state.get("ov_focus"), surge_ids), height=720, use_container_width=True,
                       returned_objects=[], key="ov_map")
         return
     result_head("overview", len(spots), be.csv(spots), f"지점목록_{start:%Y%m%d}-{end:%Y%m%d}.csv")
@@ -234,7 +249,7 @@ def page_overview(ver, tab):
     part, _, page, pages = page_slice(spots, key, PAGE_SIZE["overview"])
     table_key = f"ov_table_{page}"
     ids = list(part["지점 ID"])
-    st.dataframe(grade_style(part[SPOT_VIEW], {"위험 가중치": "{:.1f}"}), height=table_height(len(part)), hide_index=True,
+    st.dataframe(overview_style(part, data, show_surge), height=table_height(len(part)), hide_index=True,
                  row_height=ROW_PX, on_select=lambda: _pick(table_key, ids, "ov_focus", "overview_tab"), selection_mode="single-row",
                  key=table_key, column_config={"신고 건수": st.column_config.NumberColumn(format="%d"),
                                                "단속 수": st.column_config.NumberColumn(format="%d")})
@@ -258,11 +273,12 @@ def page_plan(ver, tab):
             label(c[0], "차량 수", True)
             vehicles = c[1].selectbox("차량 수", (1, 2, 3), index=cur["vehicles"] - 1, format_func=lambda n: f"{n}대",
                                       label_visibility="collapsed")
-            label(c[2], "위험 가중")
-            risk = c[3].selectbox("위험 가중", ("적용", "미적용"), index=0 if cur["risk"] else 1, label_visibility="collapsed")
+            label(c[2], be.RISK_LABEL)
+            risk = c[3].selectbox(be.RISK_LABEL, ("적용", "미적용"), index=0 if cur["risk"] else 1, label_visibility="collapsed")
             if search_button("plan"):
                 cur.update(day=day, shift=shift, vehicles=vehicles, risk=risk == "적용")
                 st.session_state.pop("plan_focus", None)
+    st.html(f'<div class="basis">계획 {be.plan_unit(cur["day"])} · 기준 자료 {be.plan_basis(cur["day"])}</div>')
     args = (ver, cur["day"], cur["shift"], cur["vehicles"], cur["risk"])
     with st.spinner(""):
         visits = be.plan(*args)
@@ -281,13 +297,13 @@ def page_plan(ver, tab):
         return
     key = f"plan_page:{cur['day']}:{cur['shift']}:{cur['vehicles']}:{cur['risk']}"
     part, _, page, pages = page_slice(visits, key, PAGE_SIZE["plan"])
-    table = part.assign(**{"도착 예정": pd.to_datetime(part["도착 예정"]).dt.strftime("%H:%M")})
+    table = be.shown(part.assign(**{"도착 예정": pd.to_datetime(part["도착 예정"]).dt.strftime("%H:%M")}))
     table_key = f"plan_table_{page}"
     stops = [(v, int(n)) for v, n in zip(part["단속 차량"], part["순번"])]
     st.dataframe(table[PLAN_VIEW], height=table_height(len(table)), hide_index=True, row_height=ROW_PX,
                  on_select=lambda: _pick(table_key, stops, "plan_focus", "plan_tab"), selection_mode="single-row",
-                 key=table_key, column_config={"기대 신고 수": st.column_config.NumberColumn(format="%.2f"),
-                                               "위험 가중치": st.column_config.NumberColumn(format="%.1f")})
+                 key=table_key, column_config={be.EXPECTED: st.column_config.NumberColumn(format="%.2f"),
+                                               be.WEIGHT: st.column_config.NumberColumn(format="%.1f")})
     pager("plan", key, page, pages)
 
 
@@ -376,6 +392,7 @@ def reception_list(ver, day, received, edited, keys, sel):
         return
     view = edited.iloc[::-1][RECEPTION_VIEW].copy()
     view["접수 일시"] = pd.to_datetime(view["접수 일시"]).dt.strftime("%Y-%m-%d %H:%M")
+    view = be.shown(view)
     page_key = f"rc_page:{day}"
     part, offset, page, pages = page_slice(view, page_key, PAGE_SIZE["reception"])
     shown = None if sel is None else len(edited) - 1 - sel - offset
@@ -397,12 +414,12 @@ def reception_list(ver, day, received, edited, keys, sel):
         with right:
             arrival = pd.Timestamp(row["도착 예정"]).strftime("%H:%M") if isinstance(row["도착 예정"], str) and row["도착 예정"] else "-"
             fields = [("접수 일시", pd.Timestamp(row["접수 일시"]).strftime("%Y-%m-%d %H:%M")), ("금일 순번", f"{int(row['금일 순번'])}"),
-                      ("지점 등급", grade_badge(row["지점 등급"])), ("도착 예정", arrival),
-                      ("조치 구분", html.escape(str(row["조치 구분"]))), ("시설 개선 검토", html.escape(str(row["시설 개선 검토"])))]
+                      ("지점 등급", grade_badge(row["지점 등급"])), (be.ARRIVAL, arrival),
+                      (be.PATROL_CLASS, html.escape(str(row["조치 구분"]))), ("시설 개선 검토", html.escape(str(row["시설 개선 검토"])))]
             cells = "".join(f'<div class="k">{k}</div><div class="v">{v}</div>' for k, v in fields)
             st.html(f'<div class="kv"><div class="k">위치</div><div class="v wide">{html.escape(str(row["위치"]))}</div>{cells}'
                     f'<div class="k">묶음 번호</div><div class="v wide">{html.escape(str(row["묶음 번호"]))}</div></div>')
-            st.text_area("회신 내용", value=received.iloc[idx]["회신 내용"], key=keys[idx], height=96)
+            st.text_area("회신 내용", value=received.iloc[idx]["회신 내용"], key=keys[idx], height=150)   # 3 lines of the 반복·상습 reply
 
 
 def grade_badge(grade):
